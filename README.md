@@ -1,5 +1,4 @@
-<img src="![logo](https://github.com/user-attachments/assets/a43937ea-2116-4bae-b945-488a9310f361)
-" width="500" height="500">
+<img src="https://github.com/user-attachments/assets/a43937ea-2116-4bae-b945-488a9310f361" width="500" height="500">
 
 # Anki Deck Creator for Japanese Language Learning
 
