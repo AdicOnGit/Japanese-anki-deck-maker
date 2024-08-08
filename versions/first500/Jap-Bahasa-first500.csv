@@ -1,0 +1,501 @@
+Core-index,jlpt,Vocab-expression,Vocab-kana,Bahasa-meaning,Vocab-meaning-eng,Vocab-pos,Sentence-expression,Sentence-kana,Sentence-meaning-Bahasa,Sentence-meaning-eng
+1,JLPT4,それ,それ,Itu,"that, that one",Pronoun,それはとってもいい話だ。,それ は とっても いい はなし だ,Itu cerita yang sangat bagus.,That's a really nice story.
+2,JLPT4,見る,みる,Melihat,"see, look at",Verb,私は絵を見るのが好きです。,わたし は え を みる の が すき です,Saya suka melihat lukisan.,I like looking at pictures.
+3,JLPT2,円,えん,Yen,circle,Noun,そこに大きな円を描いて。,そこ に おおき な えん を かいて,Kare rice harganya 700 yen.,Draw a big circle there.
+4,JLPT3,多い,おおい,Banyak,lots of,Adjective,京都にはお寺が多い。,きょうと に は おてら が おおい,Di Kyoto ada banyak kuil.,There are a lot of temples in Kyoto.
+5,JLPT2,家,うち,Rumah,"house, home",Noun,家に遊びに来てください。,うち に あそび に きて ください,Ini adalah rumah saya.,Please come over to my house.
+6,JLPT4,これ,これ,Ini,"this, this one",Noun,これをください。,これをください。,Tolong beri saya ini.,I'll have this please.
+7,JLPT4,新しい,あたらしい,Baru,new,Adjective,彼の車は新しい。,かれ の くるま は あたらしい,Mobilnya baru.,His car is new.
+8,JLPT2,私,わたし,Saya,I,Noun,私が行きましょう。,わたし が いきましょう,Saya akan pergi.,Why don't I go.
+9,JLPT4,仕事,しごと,Pekerjaan,"work, job",Noun,3月は仕事が忙しい。,さんがつ は しごと が いそがしい,Bulan Maret pekerjaan saya sibuk.,I have a lot of work in March.
+10,JLPT3,始める,はじめる,Mulai,"begin, start",Verb,テストを始めてください。,てすと を はじめて ください,Silakan mulai tesnya.,Please start the test.
+11,JLPT4,なる,なる,Menjadi,become,Verb,彼は医者になりました。,かれ は いしゃ に なりました,Banyak buah tumbuh di pohon kesemek.,He became a doctor.
+12,JLPT4,する,する,Melakukan,"do, make",Verb,友達と一緒に宿題をした。,ともだち と いっしょ に しゅくだい を した,Saya mengerjakan PR bersama teman.,I did my homework with a friend.
+13,JLPT4,出る,でる,Keluar,"go out, leave",Verb,今朝は早く家を出ました。,けさ は はやく いえ を でました,Saya keluar rumah lebih awal pagi ini.,I left the house early this morning.
+14,JLPT4,使う,つかう,Menggunakan,use,Verb,このパソコンを使ってください。,この ぱそこん を つかって ください,Silakan gunakan komputer ini.,Please use this computer.
+15,JLPT0,ところ,ところ,Tempat,place,Noun,私は友達のところに泊まった。,わたし は ともだち の ところ に とまった,Saya menginap di tempat teman.,I stayed at my friend's place for the night.
+16,JLPT3,思う,おもう,Pikir,think,Verb,私もそう思います。,わたし も そう おもいます,Saya juga berpikir begitu.,I think so too.
+17,JLPT4,持つ,もつ,Memiliki,"have, possess",Verb,私は車を持っています。,わたし は くるま を もって います,Mobil ini masih bagus.,I have a car.
+18,JLPT4,時間,じかん,Waktu,"time, hour",Noun,今は時間がありません。,いま は じかん が ありません,Sekarang saya tidak punya waktu.,I don't have time now.
+19,JLPT4,今年,ことし,Tahun ini,this year,Noun,今年はイタリアに旅行したい。,ことし は いたりあ に りょこう したい,Tahun ini saya ingin berlibur ke Italia.,I want to travel to Italy this year.
+20,JLPT4,知る,しる,Tahu,know,Verb,誰もその話を知らない。,だれ も その はなし を しらない,Tidak ada yang tahu cerita itu.,No one knows that story.
+21,JLPT4,作る,つくる,Membuat,"make, create",Verb,今、朝ご飯を作っています。,いま あさごはん を つくって います,Sekarang saya sedang membuat sarapan.,I'm making breakfast now.
+22,JLPT4,同じ,おなじ,Sama,"same, identical",Adjectival Noun,彼の日本語のレベルは私と同じ位だ。,かれ の にほんご の れべる は わたし と おなじ くらい だ,Tingkat bahasa Jepang dia sama dengan saya.,His Japanese level is about the same as mine.
+23,JLPT4,今,いま,Sekarang,now,Adverb,彼は今、勉強しています。,かれ は いま べんきょう して います,Dia sedang belajar sekarang.,He's studying now.
+24,JLPT3,続く,つづく,Berlanjut,"continue, follow",Verb,工事は3月まで続きます。,こうじ は さんがつ まで つづきます,Pekerjaan konstruksi akan berlanjut sampai Maret.,Construction will continue until March.
+25,JLPT4,国,くに,Negara,country,Noun,私の国について少しお話しましょう。,わたし の くに に ついて すこし おはなし しましょう,Mari kita bicara sedikit tentang negaraku.,Let me tell you a bit about my country.
+26,JLPT2,未だ,まだ,Belum,"yet, more",Adverb,宿題は未だ終わっていません。,しゅくだい は まだ おわって いません,Pekerjaan rumah belum selesai.,I haven't finished my homework yet.
+27,JLPT4,やる,やる,Memberi,do,Verb,一緒に宿題をやろう。,いっしょ に しゅくだい を やろう,Saya memberi makan anjing.,Let's do our homework together.
+28,JLPT4,言う,いう,Katakan,"say, tell",Verb,上司が「一杯、飲もう。」と言った。,じょうし が いっぱい のもう と いった,"Bos berkata, 'Mari minum satu gelas.'","My boss said: ""Let's have a drink."""
+29,JLPT2,少ない,すくない,Sedikit,"few, little",Adjective,今年は雨が少ないです。,ことし は あめ が すくない です 。,Tahun ini hujan sedikit.,There's not much rain this year.
+30,JLPT4,行く,いく,Pergi,go,Verb,日曜日は図書館に行きます。,にちようび は としょかん に いきます,Saya pergi ke perpustakaan pada hari Minggu.,I go to the library on Sundays.
+31,JLPT3,決める,きめる,Memutuskan,"decide, agree upon",Verb,帰国することに決めました。,きこく する こと に きめました,Saya memutuskan untuk pulang ke negara.,I've decided to go back to my country.
+32,JLPT4,高い,たかい,Tinggi,"high, tall",Adjective,これがこの町で一番高いビルです。,これ が この まち で いちばん たかい びる です,Ini gedung tertinggi di kota ini.,This is the tallest building in town.
+33,JLPT3,考える,かんがえる,Berpikir,"think, consider",Verb,よく考えてください。,よく かんがえて ください,Silakan pikirkan baik-baik.,Please think carefully.
+34,JLPT2,感じる,かんじる,Merasa,"feel, sense",Verb,膝に痛みを感じます。,ひざ に いたみ を かんじます,Saya merasakan sakit di lutut.,I feel a pain in my knee.
+35,JLPT4,子供,こども,Anak-anak,"child, kid",Noun,電車で子供が騒いでいた。,でんしゃ で こども が さわいで いた,Anak-anak berisik di kereta.,Kids were making a racket in the train.
+36,JLPT4,そう,そう,Begitu,"in such manner, that way",Adverb,私もそう思います。,わたし も そう おもいます,Saya juga berpikir begitu.,That's what I think too.
+37,JLPT4,大学,だいがく,Universitas,"university, college",Noun,大学に行ってもっと勉強したいです。,だいがく に いって もっと べんきょう したい です,Saya ingin pergi ke universitas dan belajar lebih banyak.,I want to go to college and study more.
+38,JLPT4,もう,もう,Lagi,"already, yet",Adverb,彼はもう帰りました。,かれ は もう かえりました 。,Tolong beri saya secangkir kopi lagi.,He's already gone home.
+39,JLPT4,近く,ちかく,Dekat,"near, close to",Adverb,駅の近くで食事をした。,えき の ちかく で しょくじ を した,Rumah saya dekat dengan stasiun.,I ate near the station.
+40,JLPT4,入れる,いれる,Masukkan,put in,Verb,彼はかばんに手帳を入れた。,かれ は かばん に てちょう を いれた,Dia memasukkan buku catatan ke dalam tas.,He put the appointment book in his bag.
+41,JLPT4,学生,がくせい,Pelajar,student,Noun,彼は真面目な学生です。,かれ は まじめ な がくせい です,Dia adalah pelajar yang serius.,He's a serious student.
+42,JLPT4,午後,ごご,Sore,"afternoon, p.m.",Noun,明日の午後、お客様が来る。,あす の ごご おきゃくさま が くる,"Besok sore, tamu akan datang.",A guest is coming to visit tomorrow afternoon.
+43,JLPT4,長い,ながい,Panjang,long,Adjective,彼女の髪はとても長い。,かのじょ の かみ は とても ながい,Rambutnya sangat panjang.,Her hair is very long.
+44,JLPT4,本,ほん,Buku,"book, volume",Noun,本を１冊買いました。,ほん を いっさつ かいました,Saya membeli satu buku.,I bought one book.
+45,JLPT4,よく,よく,Dengan baik,often,Adverb,彼女はよく旅行に行きます。,かのじょ は よく りょこう に いきます,"Kamu tahu jawabannya dengan baik, ya.",She often goes on holiday.
+46,JLPT3,彼女,かのじょ,Dia (wanita),"she, one's girlfriend",Pronoun,彼女はOLです。,かのじょ は おーえる です,Dia seorang pekerja kantor.,She's an office worker.
+47,JLPT4,聞く,きく,Mendengarkan,"hear, ask",Verb,彼女はラジオを聞いています。,かのじょ は らじお を きいて います,Dia sedang mendengarkan radio.,She's listening to the radio.
+48,JLPT4,どう,どう,Bagaimana,"how, what",Adverb,あなたはどう思いますか。,あなた は どう おもいます か,Bagaimana pendapat Anda?,What do you think?
+49,JLPT3,生きる,いきる,Hidup,live (one's life),Verb,皆一生懸命生きている。,みんな いっしょうけんめい いきて いる,Semua orang hidup dengan giat.,They're all living their lives the best way that they can.
+50,JLPT4,言葉,ことば,Kata,"word, language",Noun,この言葉の意味が分かりません。,この ことば の いみ が わかりません,Saya tidak mengerti arti kata ini.,I don't understand the meaning of this word.
+51,JLPT4,顔,かお,Wajah,face,Noun,彼はタオルで顔を拭きました。,かれ は たおる で かお を ふきました,Dia mengelap wajahnya dengan handuk.,He wiped his face with a towel.
+52,JLPT4,どこ,どこ,Di mana,where,Noun,あの本をどこに置きましたか。,あの ほん を どこ に おきました か,Di mana kamu meletakkan buku itu?,Where did you put that book?
+53,JLPT4,一つ,ひとつ,Satu,one (thing),Noun,それを一つください。,それ を ひとつ ください,Beri saya satu.,Please give me one of those.
+54,JLPT3,あげる,あげる,Memberi,give,Verb,この本、あなたにあげます。,この ほん あなた に あげます,Saya beri buku ini untukmu.,I'll give you this book.
+55,JLPT3,こう,こう,Begini,"like this, this kind of",Adverb,こう小さい字は読めない。,こう ちいさい じ は よめない,Saya tidak bisa membaca huruf sekecil ini.,I can't read such small letters.
+56,JLPT4,学校,がっこう,Sekolah,school,Noun,学校は8時半に始まります。,がっこう は はちじはん に はじまります,Sekolah mulai jam 8:30.,School starts at 8:30.
+57,JLPT3,くれる,くれる,Memberi,be given,Verb,友達が誕生日プレゼントをくれた。,ともだち が たんじょうび ぷれぜんと を くれた,Teman memberi saya hadiah ulang tahun.,My friend gave me a birthday present.
+58,JLPT4,起きる,おきる,Terjadi,"get up, get out of bed",Verb,私は毎朝6時に起きます。,わたし は まいあさ ろくじ に おきます,Kejadian pencurian terjadi di sekitar sini.,I get up at six o'clock every morning.
+59,JLPT4,春,はる,Musim semi,spring,Noun,今年の春は暖かいね。,ことし の はる は あたたかい ね,Musim semi tahun ini hangat.,"It's warm this spring, isn't it."
+60,JLPT4,午前,ごぜん,Pagi,"morning, a.m.",Noun,午前9時のニュースです。,ごぜん くじ の にゅーす です,Ini berita jam 9 pagi.,And now for the 9.00 a.m. news.
+61,JLPT4,買う,かう,Membeli,buy,Verb,郵便局で切手を買いました。,ゆうびんきょく で きって を かいました,Saya membeli perangko di kantor pos.,I bought a stamp at the post office.
+62,JLPT2,別,べつ,Lain,"another, different",Adjectival Noun,別の本も見せてください。,べつ の ほん も みせて ください,Tolong tunjukkan buku lain.,Please show me another book.
+63,JLPT0,終わる,おわる,Selesai,"finish, end",Verb,会議は4時に終わります。,かいぎ は よじ に おわります,Rapat selesai jam 4.,The conference ends at four o'clock.
+64,JLPT4,若い,わかい,Muda,young,Adjective,彼はまだ若いです。,かれ は まだ わかい です,Dia masih muda.,He's still young.
+65,JLPT2,かなり,かなり,Cukup,"fairly, rather",Adverb,彼はかなり英語が上手です。,かれ は かなり えいご が じょうず です,Dia cukup pandai berbahasa Inggris.,He's pretty good at English.
+66,JLPT4,置く,おく,Menaruh,"put, leave",Verb,彼はかばんをいすの上に置きました。,かれ は かばん を いす の うえ に おきました,Dia menaruh tas di atas kursi.,He put the bag on the chair.
+67,JLPT4,住む,すむ,Tinggal,"live, reside",Verb,彼は会社の近くに住んでいる。,かれ は かいしゃ の ちかく に すんで いる,Dia tinggal dekat perusahaan.,He lives near his office.
+68,JLPT3,戻る,もどる,Kembali,"return, turn back",Verb,今、会社に戻ります。,いま かいしゃ に もどります,Sekarang saya kembali ke kantor.,I'm going back to the office now.
+69,JLPT4,働く,はたらく,Bekerja,work,Verb,姉は銀行で働いています。,あね は ぎんこう で はたらいています。,Kakak saya bekerja di bank.,My big sister works at a bank.
+70,JLPT4,後,あと,Setelah,after,Adverb,仕事の後、映画を見た。,しごと の あと えいが を みた,"Setelah bekerja, saya menonton film.",I saw a movie after work.
+71,JLPT4,先生,せんせい,Guru,teacher,Noun,私は日本語の先生になりたいです。,わたし は にほんご の せんせい に なりたい です,Saya ingin menjadi guru bahasa Jepang.,I want to become a Japanese teacher.
+72,JLPT4,立つ,たつ,Berdiri,"stand, rise",Verb,彼はステージに立った。,かれ は すてーじ に たった,Dia berdiri di atas panggung.,He stood on stage.
+73,JLPT3,気,き,Perasaan,"spirit, temperament",Noun,彼は意外に気が小さい。,かれ は いがい に き が ちいさい,Dia ternyata sangat pemalu.,He's unexpectedly timid.
+74,JLPT4,呼ぶ,よぶ,Memanggil,"call, name",Verb,ウェイターを呼びましょう。,うぇいたー を よびましょう,Mari panggil pelayan.,Let's call the waiter.
+75,JLPT4,もっと,もっと,Lebih,more,Adverb,もっと近くに来てください。,もっと ちかく に きて ください,Datang lebih dekat.,Please come closer.
+76,JLPT4,帰る,かえる,Pulang,"return, go back",Verb,家に帰ろう。,うち に かえろう,Mari pulang ke rumah.,Let's go home.
+77,JLPT3,気持ち,きもち,Perasaan,"feeling, sensation",Noun,彼の気持ちが分からない。,かれ の きもち が わからない,Saya tidak mengerti perasaannya.,I don't understand his feelings.
+78,JLPT4,飛ぶ,とぶ,Terbang,fly,Verb,鳥が飛んでいます。,とり が とんで います,Burung sedang terbang.,A bird is flying.
+79,JLPT4,車,くるま,Mobil,"car, automobile",Noun,弟が車を買った。,おとうと が くるま を かった,Adik saya membeli mobil.,My younger brother bought a car.
+80,JLPT3,変える,かえる,Mengubah,change,Verb,旅行の日程を変えました。,りょこう の にってい を かえました,Saya mengubah jadwal perjalanan.,I changed our travel schedule.
+81,JLPT4,広い,ひろい,Luas,"wide, big",Adjective,彼の家はとても広い。,かれ の いえ は とても ひろい,Rumahnya sangat luas.,His house is very big.
+82,JLPT0,分かる,わかる,Mengerti,understand,Verb,質問の意味は分かりましたか。,しつもん の いみ は わかりました か,Apakah Anda mengerti arti pertanyaannya?,Did you understand the meaning of the question?
+83,JLPT2,数,かず,Jumlah,number,Noun,グラスの数が足りません。,ぐらす の かず が たりません,Jumlah gelasnya tidak cukup.,There are not enough glasses.
+84,JLPT4,近い,ちかい,Dekat,"near, soon",Adjective,駅はここから近いです。,えき は ここ から ちかい です,Stasiun dekat dari sini.,The station is near here.
+85,JLPT4,そこ,そこ,Di sana,there,Pronoun,そこに座ってください。,そこ に すわって ください,Silakan duduk di sana.,Please sit there.
+86,JLPT4,走る,はしる,Berlari,run,Verb,彼は毎晩3キロ走っています。,かれ は まいばん さんきろ はしって います,Dia berlari 3 kilometer setiap malam.,Every night he runs three kilometers.
+87,JLPT4,売る,うる,Menjual,sell,Verb,彼は家を売った。,かれ は いえ を うった,Dia menjual rumahnya.,He sold the house.
+88,JLPT4,朝,あさ,Pagi,morning,Noun,気持ちのいい朝です。,きもち の いい あさ です,Ini pagi yang menyenangkan.,It's a pleasant morning.
+89,JLPT4,教える,おしえる,Mengajar,"teach, tell",Verb,彼は数学を教えています。,かれ は すうがく を おしえて います,Dia mengajar matematika.,He teaches mathematics.
+90,JLPT4,歩く,あるく,Berjalan,"walk, go on foot",Verb,駅まで歩きましょう。,えき まで あるきましょう,Mari berjalan ke stasiun.,Let's walk to the station.
+91,JLPT0,直ぐ,すぐ,Segera,"at once, soon",Adverb,直ぐ行きます。,すぐ いきます,Saya akan segera pergi.,I'll go right away.
+92,JLPT4,会う,あう,Bertemu,meet,Verb,また会いましょう。,また あいましょう,Mari bertemu lagi.,Let's meet again.
+93,JLPT4,部屋,へや,Kamar,room,Noun,私の部屋は2階にあります。,わたし の へや は にかい に あります,Kamar saya ada di lantai dua.,My room is on the second floor.
+94,JLPT2,起こる,おこる,Terjadi,happen,Verb,町で大事件が起こりました。,まち で だいじけん が おこりました,Peristiwa besar terjadi di kota.,There was a major incident in town.
+95,JLPT4,秋,あき,Musim gugur,"autumn, fall",Noun,彼女は秋に結婚します。,かのじょ は あき に けっこん します,Dia akan menikah di musim gugur.,She'll get married this fall.
+96,JLPT4,難しい,むずかしい,Sulit,difficult,Adjective,この本は難しいですね。,この ほん は むずかしい です ね,"Buku ini sulit, ya.",This book is difficult.
+97,JLPT3,送る,おくる,Mengirim,send,Verb,彼の家に荷物を送りました。,かれ の いえ に にもつ を おくりました,Saya mengirim paket ke rumahnya.,I sent a package to his house.
+98,JLPT4,死ぬ,しぬ,Meninggal,die,Verb,犬が病気で死にました。,いぬ が びょうき で しにました。,Anjing meninggal karena sakit.,Our dog got sick and died.
+99,JLPT4,乗る,のる,Naik,"ride, take",Verb,駅からはタクシーに乗ってください。,えき からは たくしー に のって ください,"Dari stasiun, naiklah taksi.",Please take a taxi from the station.
+100,JLPT4,安い,やすい,Murah,"inexpensive, cheap",Adjective,この服はとても安かった。,この ふく は とても やすかった,Pakaian ini sangat murah.,These clothes were very cheap.
+101,JLPT4,書く,かく,Menulis,write,Verb,彼に手紙を書きました。,かれ に てがみ を かきました,Saya menulis surat untuknya.,I wrote him a letter.
+102,JLPT4,話す,はなす,Berbicara,"speak, tell",Verb,母と電話で話しました。,はは と でんわ で はなしました,Saya berbicara dengan ibu melalui telepon.,I spoke to my mother on the phone.
+103,JLPT4,頭,あたま,Kepala,head,Noun,今朝から頭が痛い。,けさ から あたま が いたい,Kepalaku sakit sejak pagi.,I've had a headache since this morning.
+104,JLPT4,体,からだ,Tubuh,"body, health",Noun,私は体が丈夫だ。,わたし は からだ が じょうぶ だ,Tubuh saya kuat.,I'm physically strong.
+105,JLPT4,ここ,ここ,Di sini,here,Pronoun,ここに本があります。,ここ に ほん が あります,Ada buku di sini.,There's a book here.
+106,JLPT4,待つ,まつ,Menunggu,"wait, wait for",Verb,あなたが来るのを待っています。,あなた が くる の を まって います,Saya menunggu kedatanganmu.,I am waiting for you to come.
+107,JLPT4,低い,ひくい,Pendek,"low, short",Adjective,彼は背が低い。,かれ は せ が ひくい,Dia pendek.,He's short.
+108,JLPT3,もらう,もらう,Menerima,receive,Verb,彼女からプレゼントをもらいました。,かのじょ から ぷれぜんと を もらいました,Saya menerima hadiah dari dia.,I got a present from her.
+109,JLPT4,食べる,たべる,Makan,eat,Verb,昨日タイカレーを食べました。,きのう たいかれー を たべました,Saya makan kari Thailand kemarin.,I had Thai curry yesterday.
+110,JLPT4,早い,はやい,Cepat,early,Adjective,まだ学校へ行くには早い時間です。,まだ がっこう へ いく に は はやい じかん です,Masih terlalu pagi untuk pergi ke sekolah.,It's still too early to go to school.
+111,JLPT4,兄,あに,Kakak laki-laki,older brother,Noun,兄は水泳が得意です。,あに は すいえい が とくい です,Kakak laki-laki saya pandai berenang.,My big brother is good at swimming.
+112,JLPT4,名前,なまえ,Nama,name,Noun,あなたの名前を教えてください。,あなた の なまえ を おしえて ください,Tolong beri tahu nama Anda.,Please tell me your name.
+113,JLPT2,夫,おっと,Suami,husband,Noun,私の夫はサラリーマンです。,わたし の おっと は さらりーまん です,Suami saya adalah seorang pekerja kantoran.,My husband is a company employee.
+114,JLPT4,一,いち,Satu,one,Noun,一から始めましょう。,いち から はじめましょう,Mari mulai dari satu.,Let's start from the beginning.
+115,JLPT4,結婚,けっこん,Pernikahan,marriage,Verbal Noun,彼女は来月結婚します。,かのじょ は らいげつ けっこん します,Dia akan menikah bulan depan.,She's getting married next month.
+116,JLPT2,親,おや,Orang tua,parent,Noun,親の愛は有り難い。,おや の あい は ありがたい,Cinta orang tua sangat berharga.,We're grateful for our parents' love.
+117,JLPT4,古い,ふるい,Tua,old,Adjective,私は古い車が好きです。,わたし は ふるい くるま が すき です,Saya suka mobil tua.,I like old cars.
+118,JLPT3,美しい,うつくしい,Indah,beautiful,Adjective,この絵は美しいです。,この え は うつくしい です,Lukisan ini indah.,This picture is beautiful.
+119,JLPT4,足,あし,Kaki,"leg, foot",Noun,彼は足が長い。,かれ は あし が ながい,Kakinya panjang.,He has long legs.
+120,JLPT4,次,つぎ,Selanjutnya,next,Noun,次はいつ会いましょうか。,つぎ は いつ あいましょう か,Kapan kita bertemu lagi?,When shall we meet again?
+121,JLPT0,起こす,おこす,Membangunkan,wake up,Verb,明日、6時に起こしてください。,あす ろくじ に おこして ください,Tolong bangunkan saya jam 6 besok.,Please wake me up tomorrow at six o'clock.
+122,JLPT4,見せる,みせる,Menunjukkan,show,Verb,その写真を見せてください。,その しゃしん を みせて ください,Tolong tunjukkan foto itu.,Please show me those pictures.
+123,JLPT3,娘,むすめ,Putri,"daughter, girl",Noun,私の娘はアメリカにいます。,わたし の むすめ は あめりか に います,Putri saya ada di Amerika.,My daughter is in the United States.
+124,JLPT4,とても,とても,Sangat,very,Adverb,この本はとてもおもしろい。,この ほん は とても おもしろい,Buku ini sangat menarik.,This book is very interesting.
+125,JLPT4,少し,すこし,Sedikit,"a bit, a little while",Adverb,少し疲れました。,すこし つかれました,Saya sedikit lelah.,I'm a little tired.
+126,JLPT4,質問,しつもん,Pertanyaan,question,Verbal Noun,質問のある方はどうぞ。,しつもん の ある かた は どうぞ,Silakan ajukan pertanyaan jika ada.,Please feel free to ask any questions.
+127,JLPT0,楽しむ,たのしむ,Menikmati,enjoy,Verb,今日は一人の時間を楽しみたい。,きょう は ひとり の じかん を たのしみたい,Hari ini saya ingin menikmati waktu sendirian.,Today I would like to enjoy some time to myself.
+128,JLPT4,色,いろ,Warna,color,Noun,すてきな色のセーターですね。,すてき な いろ の せーたー です ね,Sweater ini warnanya bagus.,That sweater is a wonderful color.
+129,JLPT4,みんな,みんな,Semua orang,"all, everybody",Noun,みんなにお菓子をあげましょう。,みんな に おかし を あげましょう,Mari beri semua orang permen.,Let's give everyone some sweets.
+130,JLPT4,取る,とる,Mengambil,"take, get",Verb,テストでいい点を取った。,てすと で いい てん を とった,Saya mendapatkan nilai bagus dalam tes.,I got a good grade on the test.
+131,JLPT4,勉強,べんきょう,Belajar,study,Verbal Noun,私は日本語を勉強しています。,わたし は にほんご を べんきょう して います,Saya belajar bahasa Jepang.,I'm studying Japanese.
+132,JLPT0,出来る,できる,Bisa,"can do, be good at",Verb,彼女はイタリア語が出来ます。,かのじょ は いたりあご が できます,Dia bisa berbahasa Italia.,She knows Italian.
+133,JLPT4,短い,みじかい,Pendek,"short, brief",Adjective,彼は足が短い。,かれ は あし が みじかい,Kakinya pendek.,His legs are short.
+134,JLPT0,落ちる,おちる,Jatuh,"fall, sink",Verb,猿も木から落ちる。,さる も き から おちる,Bahkan monyet pun bisa jatuh dari pohon.,Monkeys also fall from trees.
+135,JLPT3,息子,むすこ,Anak laki-laki,son,Noun,うちの息子は大学1年生です。,うち の むすこ は だいがく いちねんせい です,Anak laki-laki saya adalah mahasiswa tahun pertama.,My son's a college freshman.
+136,JLPT4,白い,しろい,Putih,"white, blank",Adjective,彼は歯が白い。,かれ は は が しろい,Giginya putih.,His teeth are white.
+137,JLPT2,誰,だれ,Siapa,"who, whom",Noun,誰と会ってみたいですか。,だれ と あって みたい です か,Anda ingin bertemu dengan siapa?,Who would you like to meet one day?
+138,JLPT4,いつも,いつも,Selalu,always,Adverb,彼女はいつも元気だ。,かのじょ は いつも げんき だ,Dia selalu bersemangat.,She's always full of energy.
+139,JLPT4,飛行機,ひこうき,Pesawat,airplane,Noun,息子は飛行機のおもちゃが好きです。,むすこ は ひこうき の おもちゃ が すき です,Anak laki-laki saya suka mainan pesawat.,My son likes toy airplanes.
+140,JLPT3,勝つ,かつ,Menang,win,Verb,今日はヤンキースが勝った。,きょう は やんきーす が かった,Yankees menang hari ini.,The Yankees won today.
+141,JLPT4,病気,びょうき,Sakit,illness,Verbal Noun,祖父が病気になった。,そふ が びょうき に なった,Kakek saya sakit.,My grandfather got sick.
+142,JLPT4,冬,ふゆ,Musim dingin,winter,Noun,カナダの冬はとても寒いです。,かなだ の ふゆ は とても さむい です,Musim dingin di Kanada sangat dingin.,Canada's winters are very cold.
+143,JLPT3,年,とし,Tahun,"year, age",Noun,新しい年が始まりました。,あたらしい とし が はじまりました,Tahun baru telah dimulai.,A new year has started.
+144,JLPT4,重い,おもい,Berat,heavy,Adjective,このかばんは重いです。,この かばん は おもい です,Tas ini berat.,This bag is heavy.
+145,JLPT2,胸,むね,Dada,chest,Noun,胸に少し痛みがあります。,むね に すこし いたみ が あります,Ada sedikit rasa sakit di dada.,I have a slight pain in my chest.
+146,JLPT4,読む,よむ,Membaca,read,Verb,彼女は雑誌を読んでいます。,かのじょ は ざっし を よんで います,Dia sedang membaca majalah.,She's reading the magazine.
+147,JLPT3,払う,はらう,Membayar,pay,Verb,私が払いましょう。,わたし が はらいましょう,Biar saya yang bayar.,Let me pay for that.
+148,JLPT4,軽い,かるい,Ringan,"light, light weight",Adjective,この靴はとても軽い。,この くつ は とても かるい,Sepatu ini sangat ringan.,These shoes are very light.
+149,JLPT3,見つける,みつける,Menemukan,find,Verb,新しい仕事を見つけました。,あたらしい しごと を みつけました。,Saya menemukan pekerjaan baru.,I found a new job.
+150,JLPT4,いつ,いつ,Kapan,when,Noun,彼女はいつ来ますか。,かのじょ は いつ きます か,Kapan dia datang?,When is she coming?
+151,JLPT4,友達,ともだち,Teman,"friend, companion",Noun,私には友達がたくさんいます。,わたし に は ともだち が たくさん います,Saya punya banyak teman.,I have a lot of friends.
+152,JLPT4,忘れる,わすれる,Lupa,"forget, leave behind",Verb,約束を忘れないでください。,やくそく を わすれない で ください,Jangan lupa janji Anda.,Please don't forget your promise.
+153,JLPT2,酒,さけ,Alkohol,"alcoholic drink, Japanese rice wine",Noun,彼女は酒に強い。,かのじょ は さけ に つよい,Dia kuat minum alkohol.,She holds her liquor well.
+154,JLPT4,どちら,どちら,Yang mana,which,Noun,肉と魚とどちらが好きですか。,にく と さかな と どちら が すき です か,Kamu suka daging atau ikan?,"Which do you prefer, meat or fish?"
+155,JLPT4,姉,あね,Kakak perempuan,older sister,Noun,姉は大学生です。,あね は だいがくせい です,Kakak perempuan saya adalah mahasiswa.,My big sister's a college student.
+156,JLPT4,覚える,おぼえる,Menghafal,"memorize, learn",Verb,妹は平仮名を全部覚えました。,いもうと は ひらがな を ぜんぶ おぼえました,Adik perempuan saya menghafal semua hiragana.,My little sister learned all the hiragana.
+157,JLPT4,狭い,せまい,Sempit,"narrow, restricted",Adjective,私の部屋は狭いです。,わたし の へや は せまい です,Kamar saya sempit.,My room is small.
+158,JLPT4,好き,すき,Suka,"favorite, liked",Adjectival Noun,私はワインが好きです。,わたし は わいん が すき です,Saya suka anggur.,I like wine.
+159,JLPT3,建てる,たてる,Membangun,"build, erect",Verb,私たちは来年、家を建てます。,わたしたち は らいねん いえ を たてます,Kami akan membangun rumah tahun depan.,We're building a house next year.
+160,JLPT4,どれ,どれ,Yang mana,"what, which",Noun,この中でどれが好きですか。,この なか で どれ が すき です か,"Dari ini, yang mana yang kamu suka?",Which of these do you like?
+161,JLPT4,赤い,あかい,Merah,red,Adjective,赤いバラを買いました。,あかい ばら を かいました,Saya membeli mawar merah.,I bought a red rose.
+162,JLPT4,今日,きょう,Hari ini,today,Noun,今日は仕事がありません。,きょう は しごと が ありません,Hari ini saya tidak ada pekerjaan.,I have no work today.
+163,JLPT4,着る,きる,Memakai,"wear, put on",Verb,今日はスーツを着ています。,きょう は すーつ を きて います,Saya memakai setelan hari ini.,I'm wearing a suit today.
+164,JLPT3,笑う,わらう,Tertawa,"laugh, smile",Verb,赤ん坊が笑っています。,あかんぼう が わらって います,Bayi sedang tertawa.,The baby is laughing.
+165,JLPT0,一番,いちばん,Paling,most,Adverb,彼はクラスで一番背が高い。,かれ は くらす で いちばん せ が たかい,Dia yang paling tinggi di kelas.,He's the tallest in class.
+166,JLPT4,授業,じゅぎょう,Pelajaran,"class, lesson",Verbal Noun,今日は日本語の授業があります。,きょう は にほんご の じゅぎょう が あります,Hari ini ada pelajaran bahasa Jepang.,There's going to be a Japanese class today.
+167,JLPT2,週,しゅう,Minggu,week,Noun,その次の週は空いてますか。,その つぎ の しゅう は あいてます か,Apakah minggu depan kamu kosong?,Are you free the following week?
+168,JLPT4,漢字,かんじ,Kanji,"character, kanji",Noun,漢字は中国から来ました。,かんじ は ちゅうごく から きました,Kanji berasal dari China.,Kanji came from China.
+169,JLPT4,自転車,じてんしゃ,Sepeda,bicycle,Noun,毎日、駅まで自転車で行きます。,まいにち えき まで じてんしゃ で いきます,Saya pergi ke stasiun dengan sepeda setiap hari.,I go to the station by bike every day.
+170,JLPT4,電車,でんしゃ,Kereta,train,Noun,私は電車で通学しています。,わたし は でんしゃ で つうがく して います,Saya pergi ke sekolah dengan kereta.,I go to school by train.
+171,JLPT3,探す,さがす,Mencari,"search for, look for",Verb,彼は郵便局を探していました。,かれ は ゆうびんきょく を さがして いました,Dia sedang mencari kantor pos.,He was looking for the post office.
+172,JLPT4,紙,かみ,Kertas,paper,Noun,紙と鉛筆はありますか。,かみ と えんぴつ は あります か,Apakah ada kertas dan pensil?,Do you have paper and pencil?
+173,JLPT4,歌う,うたう,Bernyanyi,sing,Verb,私たちは大きな声で歌いました。,わたしたち は おおき な こえ で うたいました,Kami bernyanyi dengan suara keras.,We sang loudly.
+174,JLPT4,遅い,おそい,Lambat,"slow, late",Adjective,前の車はとても遅い。,まえ の くるま は とても おそい,Mobil di depan sangat lambat.,The car in front is very slow.
+175,JLPT3,首,くび,Leher,neck,Noun,きりんの首は長い。,きりん の くび は ながい,Leher jerapah panjang.,Giraffes' necks are long.
+176,JLPT4,速い,はやい,Cepat,fast,Adjective,彼は走るのが速い。,かれ は はしる の が はやい,Dia berlari dengan cepat.,He runs fast.
+177,JLPT0,一緒に,いっしょに,Bersama-sama,"together, at the same time",Adverb,一緒に帰りましょう。,いっしょに かえりましょう,Mari pulang bersama-sama.,Let's go home together.
+178,JLPT3,日記,にっき,Buku harian,diary,Noun,私は毎日、日記を付けています。,わたし は まいにち にっき を つけて います,Saya menulis buku harian setiap hari.,I keep a diary every day.
+179,JLPT4,今月,こんげつ,Bulan ini,this month,Noun,今月はとても忙しい。,こんげつ は とても いそがしい,Bulan ini sangat sibuk.,I'm very busy this month.
+180,JLPT4,遊ぶ,あそぶ,Bermain,play,Verb,子供たちが公園で遊んでいる。,こどもたち が こうえん で あそんで いる,Anak-anak bermain di taman.,The children are playing in the park.
+181,JLPT4,遠い,とおい,Jauh,"far, distant",Adjective,家から学校までは遠いです。,いえ から がっこう まで は とおい です,Sekolah jauh dari rumah.,It's a long way from my house to the school.
+182,JLPT3,弱い,よわい,Lemah,weak,Adjective,その子は体が少し弱い。,その こ は からだ が すこし よわい,Anak itu tubuhnya sedikit lemah.,That child has a somewhat weak constitution.
+183,JLPT4,耳,みみ,Telinga,"ear, hearing",Noun,彼女は耳がよく聞こえません。,かのじょ は みみ が よく きこえません,Dia tidak bisa mendengar dengan baik.,Her hearing isn't very good.
+184,JLPT4,座る,すわる,Duduk,"sit, sit down",Verb,私は窓側の席に座った。,わたし は まどがわ の せき に すわった,Saya duduk di kursi dekat jendela.,I sat in a window seat.
+185,JLPT4,右,みぎ,Kanan,right,Noun,右のポケットにハンカチが入っています。,みぎ の ぽけっと に はんかち が はいって います,Ada sapu tangan di saku kanan.,There's a handkerchief in my right pocket.
+186,JLPT2,浴びる,あびる,Mandi,take (a shower),Verb,私は朝、シャワーを浴びます。,わたし は あさ しゃわー を あびます,Saya mandi pagi.,I take a shower in the morning.
+187,JLPT2,肩,かた,Bahu,shoulder,Noun,肩が凝りました。,かた が こりました,Bahu saya kaku.,My shoulders are stiff.
+188,JLPT4,飲む,のむ,Minum,drink,Verb,友達とお酒を飲んでいます。,ともだち と おさけ を のんで います,Saya sedang minum alkohol dengan teman.,I'm drinking sake with a friend.
+189,JLPT4,寝る,ねる,Tidur,"sleep, go to sleep",Verb,もう寝よう。,もう ねよう,Mari tidur.,Let's go to bed.
+190,JLPT4,消す,けす,Mematikan,"switch off, turn off",Verb,昼間は電気を消してください。,ひるま は でんき を けして ください,Matikan lampu di siang hari.,Please turn the lights off during the day.
+191,JLPT4,元気,げんき,Sehat,"healthy, energetic",Adjective,おかげさまで元気です。,おかげさま で げんき です,"Terima kasih, saya sehat.","I'm fine, thank you."
+192,JLPT3,負ける,まける,Kalah,lose,Verb,私たちのチームはその試合で負けた。,わたしたち の ちーむ は その しあい で まけた,Tim kami kalah dalam pertandingan itu.,Our team lost the game.
+193,JLPT4,全部,ぜんぶ,Semua,"all, wholly",Adverb,それ、全部ください。,それ ぜんぶ ください,Beri saya semua itu.,"I'd like all of those, please."
+194,JLPT4,去年,きょねん,Tahun lalu,last year,Noun,私は去年フランスへ行った。,わたし は きょねん ふらんす へ いった,Saya pergi ke Prancis tahun lalu.,I went to France last year.
+195,JLPT4,引く,ひく,Tarik,"draw, pull",Verb,このドアは引いてください。,この どあ は ひいて ください,Tarik pintu ini.,Please pull this door open.
+196,JLPT4,図書館,としょかん,Perpustakaan,library,Noun,図書館で料理の本を借りた。,としょかん で りょうり の ほん を かりた,Saya meminjam buku masakan di perpustakaan.,I borrowed a cookbook from the library.
+197,JLPT4,上げる,あげる,Mengangkat,"raise, improve",Verb,彼は荷物をあみだなに上げた。,かれ は にもつ を あみだな に あげた,Dia mengangkat barang ke rak atas.,He put the luggage on the luggage rack.
+198,JLPT3,緑,みどり,Hijau,"green, foliage",Noun,この町には緑がたくさんあります。,この まち に は みどり が たくさん あります,Kota ini banyak hijauannya.,There's a lot of greenery in this town.
+199,JLPT3,腕,うで,Lengan,arm,Noun,彼の腕は太い。,かれ の うで は ふとい,Lengannya besar.,He has big arms.
+200,JLPT4,ドア,ドア,Pintu,door,Noun,ドアを開けてください。,どあ を あけて ください,Tolong buka pintu.,Please open the door.
+201,JLPT2,閉じる,とじる,Menutup,close,Verb,教科書を閉じてください。,きょうかしょ を とじて ください,Tolong tutup buku pelajaran.,Please close your textbooks.
+202,JLPT2,時,とき,Waktu,time,Noun,時の経つのは早い。,とき の たつ の は はやい,Waktu berlalu dengan cepat.,Time passes by quickly.
+203,JLPT3,米,こめ,Nasi,rice (grain),Noun,日本人はお米が大好きです。,にほんじん は おこめ が だいすき です,Orang Jepang sangat suka nasi.,Japanese people love rice.
+204,JLPT4,切る,きる,Memotong,cut,Verb,この紙を半分に切ってください。,この かみ を はんぶん に きって ください,Tolong potong kertas ini menjadi dua.,Please cut this paper in half.
+205,JLPT3,線,せん,Garis,line,Noun,赤い線を2本引いて下さい。,あかい せん を に ほん ひいて ください,Tolong tarik dua garis merah.,Please draw two red lines.
+206,JLPT0,決まる,きまる,Diputuskan,be decided,Verb,旅行の日程が決まりました。,りょこう の にってい が きまりました,Jadwal perjalanan telah diputuskan.,I've decided on my travel schedule.
+207,JLPT4,楽しい,たのしい,Menyenangkan,"fun, enjoyable",Adjective,彼はとても楽しい人です。,かれ は とても たのしい ひと です,Dia orang yang sangat menyenangkan.,He's very fun to be with.
+208,JLPT4,服,ふく,Pakaian,clothes,Noun,昨日、新しい服を買った。,きのう あたらしい ふく を かった,Kemarin saya membeli pakaian baru.,I bought some new clothes yesterday.
+209,JLPT0,後ろ,うしろ,Belakang,"back, behind",Noun,後ろを向いて。,うしろ を むいて,Lihat ke belakang.,Turn around.
+210,JLPT2,嬉しい,うれしい,Senang,"happy, glad",Adjective,彼に会えて嬉しかった。,かれ に あえて うれしかった,Saya senang bisa bertemu dengannya.,I was glad to meet him.
+211,JLPT2,腰,こし,Pinggang,"hip, lower back",Noun,昨日から腰が痛い。,きのう から こし が いたい,Pinggang saya sakit sejak kemarin.,I've had a pain in my lower back since yesterday.
+212,JLPT4,日曜日,にちようび,Minggu,Sunday,Noun,日曜日は海に行きました。,にちようび は うみ に いきました,Saya pergi ke laut pada hari Minggu.,We went to the seaside on Sunday.
+213,JLPT4,開ける,あける,Membuka,"open, unlock",Verb,窓を開けてください。,まど を あけて ください,Tolong buka jendela.,Please open the window.
+214,JLPT4,昼,ひる,Siang,"daytime, midday",Noun,私は昼のドラマを毎日見ます。,わたし は ひる の どらま を まいにち みます,Saya menonton drama siang setiap hari.,I watch daytime dramas every day.
+215,JLPT4,お母さん,おかあさん,Ibu,mother,Noun,お母さんによろしくお伝えください。,おかあさん に よろしく おつたえ ください,Tolong sampaikan salam saya kepada ibumu.,Please give my best to your mother.
+216,JLPT4,留学生,りゅうがくせい,Mahasiswa asing,student studying abroad,Noun,彼は留学生です。,かれ は りゅうがくせい です,Dia adalah mahasiswa asing.,He's a foreign student.
+217,JLPT3,大学生,だいがくせい,Mahasiswa,university student,Noun,姉は大学生です。,あね は だいがくせい です,Kakak perempuan saya adalah mahasiswa.,My big sister's a college student.
+218,JLPT3,終わり,おわり,Akhir,"end, conclusion",Noun,夏休みももう終わりだ。,なつやすみ も もう おわり だ,Liburan musim panas sudah berakhir.,Summer vacation's already over.
+219,JLPT2,背,せ,Tinggi,"height, stature",Noun,彼女は背が高い。,かのじょ は せ が たかい,Dia tinggi.,She's tall.
+220,JLPT3,手伝う,てつだう,Membantu,"help, assist",Verb,私が手伝いましょう。,わたし が てつだいましょう,Biar saya membantu.,Can I help you?
+221,JLPT4,鼻,はな,Hidung,nose,Noun,鼻がかゆいです。,はな が かゆい です,Hidung saya gatal.,My nose itches.
+222,JLPT4,起きる,おきる,Terjadi,occur,Verb,近所で盗難事件が起きました。,きんじょ で とうなん じけん が おきました,Kejadian pencurian terjadi di sekitar sini.,Some burglaries occurred in the neighborhood.
+223,JLPT4,熱い,あつい,Panas,"hot (things, touch)",Adjective,このスープはとても熱い。,この すーぷ は とても あつい,Sup ini sangat panas.,This soup is very hot.
+224,JLPT2,載せる,のせる,Menaruh,"place, put on",Verb,皿にケーキを載せました。,さら に けーき を のせました。,Saya menaruh kue di piring.,I put the cake on the plate.
+225,JLPT3,悲しい,かなしい,Sedih,sad,Adjective,その映画はとても悲しかった。,その えいが は とても かなしかった,Film itu sangat sedih.,That movie was very sad.
+226,JLPT2,愛する,あいする,Mencintai,"love, care for",Verb,私は家族を愛しています。,わたし は かぞく を あいして います,Saya mencintai keluarga saya.,I love my family.
+227,JLPT2,しゃべる,しゃべる,Mengobrol,"chat, talk",Verb,彼女はよくしゃべるね。,かのじょ は よく しゃべる ね,"Dia suka mengobrol, ya.","She really likes to chat, doesn't she?"
+228,JLPT4,近く,ちかく,Dekat,"vicinity, nearby",Noun,私の家は駅の近くです。,わたし の いえ は えき の ちかく です,Rumah saya dekat dengan stasiun.,My house is near the station.
+229,JLPT4,甘い,あまい,Manis,sweet,Adjective,このイチゴは甘い。,この いちご は あまい,Stroberi ini manis.,This strawberry is sweet.
+230,JLPT4,テーブル,テーブル,Meja,table,Noun,新しいテーブルを買いました。,あたらしい てーぶる を かいました,Saya membeli meja baru.,I bought a new table.
+231,JLPT4,食べ物,たべもの,Makanan,food,Noun,日本の食べ物はとても美味しいです。,にっぽん の たべもの は とても おいしい です,Makanan Jepang sangat enak.,Japanese food is very delicious.
+232,JLPT4,始まる,はじまる,Mulai,begin,Verb,新しい仕事が始まりました。,あたらしい しごと が はじまりました,Pekerjaan baru telah dimulai.,My new job started.
+233,JLPT2,ゲーム,ゲーム,Permainan,game,Noun,私たちはビデオゲームをした。,わたしたち は びでおげーむ を した,Kami bermain video game.,We played a video game.
+234,JLPT4,十,じゅう,Sepuluh,ten,Noun,その子は指で十数えました。,その こ は ゆび で じゅう かぞえました,Anak itu menghitung sampai sepuluh dengan jari.,The child counted to ten on her fingers.
+235,JLPT4,天気,てんき,Cuaca,weather,Noun,今日はいい天気ですね。,きょう は いい てんき です ね,"Cuaca bagus hari ini, ya.",It's nice out today.
+236,JLPT4,暑い,あつい,Panas,"hot, warm (temperature of the air)",Adjective,今日はとても暑い。,きょう は とても あつい,Hari ini sangat panas.,It's very hot today.
+237,JLPT4,太い,ふとい,Besar,"thick, fat",Adjective,彼女は足が太い。,かのじょ は あし が ふとい,Kakinya besar.,She has fat legs.
+238,JLPT4,晩,ばん,Malam,evening (usually from sunset to bedtime),Noun,晩ご飯は食べましたか。,ばんごはん は たべました か,Apakah kamu sudah makan malam?,Have you had dinner?
+239,JLPT4,土曜日,どようび,Sabtu,Saturday,Noun,土曜日の夜はクラブに行きます。,どようび の よる は くらぶ に いきます,Saya pergi ke klub pada Sabtu malam.,I'm going to a club Saturday night.
+240,JLPT2,神,かみ,Tuhan,"god, spirit",Noun,彼は神を信じている。,かれ は かみ を しんじて いる,Dia percaya pada Tuhan.,He believes in God.
+241,JLPT4,痛い,いたい,Sakit,painful,Adjective,今日は頭が痛いです。,きょう は あたま が いたい です,Hari ini kepalaku sakit.,I have a headache today.
+242,JLPT4,お父さん,おとうさん,Ayah,father,Noun,お父さんは会社員です。,おとうさん は かいしゃいん です,Ayah adalah pekerja kantoran.,My father's a company employee.
+243,JLPT2,多分,たぶん,Mungkin,"probably, perhaps",Adverb,彼女は多分家で寝ています。,かのじょ は たぶん いえ で ねて います,Mungkin dia sedang tidur di rumah.,She's probably sleeping at home.
+244,JLPT4,時計,とけい,Jam,"clock, watch",Noun,時計を見たらちょうど3時だった。,とけい を みたら ちょうど さんじ だった,"Saat saya melihat jam, sudah jam 3 tepat.",I looked at the clock and it was exactly three.
+245,JLPT3,泊まる,とまる,Menginap,stay overnight,Verb,今日はこのホテルに泊まります。,きょう は この ほてる に とまります,Saya menginap di hotel ini hari ini.,I'm staying at this hotel today.
+246,JLPT4,どうして,どうして,Kenapa,why,Adverb,どうして泣いているの。,どうして ないて いる の,Kenapa kamu menangis?,Why are you crying?
+247,JLPT2,掛ける,かける,Menggantung,"hang, put on",Verb,夫の服をハンガーに掛けた。,おっと の ふく を はんがー に かけた,Saya menggantung pakaian suami di hanger.,I put my husband's clothes on a hanger.
+248,JLPT0,曲がる,まがる,Belok,turn,Verb,そこを左に曲がってください。,そこ を ひだり に まがって ください,Tolong belok kiri di sana.,Please turn left there.
+249,JLPT4,おなか,おなか,Perut,stomach,Noun,おなかが空きました。,おなか が すきました,Saya lapar.,I'm hungry.
+250,JLPT0,ミーティング,ミーティング,Pertemuan,meeting,Noun,朝9時からミーティングが始まった。,あさ 9 じ から みーてぃんぐ が はじまった,Pertemuan dimulai pukul 9 pagi.,The meeting started at 9 a.m.
+251,JLPT4,閉める,しめる,Menutup,"shut, close",Verb,ちゃんとドアを閉めてよ。,ちゃんと どあ を しめてよ,Tolong tutup pintunya dengan benar.,Close the door properly.
+252,JLPT4,嫌い,きらい,Tidak suka,dislike,Adjective,私はタバコが嫌いです。,わたし は たばこ が きらい です,Saya tidak suka rokok.,I hate cigarettes.
+253,JLPT4,金曜日,きんようび,Jumat,Friday,Noun,金曜日の夜は友達と出かけます。,きんようび の よる は ともだち と でかけます,Saya pergi keluar dengan teman pada Jumat malam.,I go out with my friends on Friday nights.
+254,JLPT4,要る,いる,Perlu,"need, require",Verb,予約は要りません。,よやく は いりません,Tidak perlu reservasi.,Reservations are not required.
+255,JLPT2,無い,ない,Tidak ada,to not be,Adjective,ここには何も無い。,ここ に は なに も ない,Tidak ada apa-apa di sini.,There's nothing here.
+256,JLPT4,黄色い,きいろい,Kuning,yellow,Adjective,彼女に黄色いバラを買いました。,かのじょ に きいろい ばら を かいました,Saya membeli mawar kuning untuk dia.,I bought her a yellow rose.
+257,JLPT2,風邪,かぜ,Pilek,cold (illness),Noun,私は風邪を引きました。,わたし は かぜ を ひきました 。,Saya terkena pilek.,I caught a cold.
+258,JLPT3,優しい,やさしい,Baik,"gentle, kind",Adjective,彼はとても優しい人です。,かれ は とても やさしい ひと です,Dia orang yang sangat baik.,He's a very kind person.
+259,JLPT4,晴れる,はれる,Cerah,"be sunny, clear up",Verb,明日は晴れるといいですね。,あした は はれる と いい です ね,Semoga besok cerah.,I hope it'll be sunny tomorrow.
+260,JLPT4,大好き,だいすき,Sangat suka,love,Adjective,私は犬が大好きだ。,わたし は いぬ が だいすき だ,Saya sangat suka anjing.,I love dogs.
+261,JLPT4,茶色,ちゃいろ,Coklat,light brown,Noun,彼女は茶色の靴を履いています。,かのじょ は ちゃいろ の くつ を はいて います,Dia memakai sepatu coklat.,She's wearing brown shoes.
+262,JLPT4,汚い,きたない,Kotor,dirty,Adjective,彼の部屋はとても汚い。,かれ の へや は とても きたない,Kamarnya sangat kotor.,His room is very dirty.
+263,JLPT2,空く,すく,Kosong,be empty,Verb,レストランは空いていました。,れすとらん は すいて いました,Restorannya kosong.,The restaurant was empty.
+264,JLPT2,上る,のぼる,Naik,go up,Verb,猫が屋根に上っている。,ねこ が やね に のぼって いる,Kucing sedang naik ke atap.,The cat's up on the roof.
+265,JLPT0,ご飯,ごはん,Nasi,"cooked rice, meal",Noun,私はパンよりご飯が好きだ。,わたし は ぱん より ごはん が すき だ,Saya lebih suka nasi daripada roti.,I prefer rice to bread.
+266,JLPT2,日,にち,Hari,day,Noun,私たちは先月11日に結婚しました。,わたしたち は せんげつ じゅういち にち に けっこん しました,Kami menikah pada tanggal 11 bulan lalu.,We got married last month on the 11th.
+267,JLPT2,髪の毛,かみのけ,Rambut,hair,Noun,髪の毛が伸びたね。,かみのけ が のびた ね,"Rambutmu tumbuh panjang, ya.","Your hair's longer, isn't it?"
+268,JLPT4,つける,つける,Menyalakan,switch on,Verb,電気をつけてください。,でんき を つけて ください,Tolong nyalakan lampu.,Please turn on the light.
+269,JLPT4,月曜日,げつようび,Senin,Monday,Noun,月曜日に会いましょう。,げつようび に あいましょう,Mari bertemu pada hari Senin.,Let's meet on Monday.
+270,JLPT4,入る,はいる,Masuk,enter,Verb,寒いので中に入ってください。,さむい の で なか に はいって ください,Masuklah ke dalam karena dingin.,It's cold so please come inside.
+271,JLPT4,片仮名,かたかな,Katakana,katakana,Noun,お名前を片仮名で書いてください。,おなまえ を かたかな で かいて ください,Tolong tulis nama Anda dengan katakana.,Please write your name in katakana.
+272,JLPT4,今週,こんしゅう,Minggu ini,this week,Noun,今週は日本語のテストがあります。,こんしゅう は にほんご の てすと が あります,Minggu ini ada tes bahasa Jepang.,There's a Japanese test this week.
+273,JLPT3,開く,ひらく,Membuka,open,Verb,32ページを開いてください。,さんじゅうにぺーじ を ひらいて ください,Pintu kereta terbuka.,Please open to page 32.
+274,JLPT4,水,みず,Air,water,Noun,水を一杯ください。,みず を いっぱい ください,Beri saya segelas air.,Please give me a glass of water.
+275,JLPT4,あれ,あれ,Itu,that over there,Noun,あれは何ですか。,あれ は なん です か,Apa itu?,What's that?
+276,JLPT4,二,に,Dua,two,Noun,その人には二回会った。,その ひと に は に かい あった,Saya bertemu orang itu dua kali.,I met that person twice.
+277,JLPT4,閉まる,しまる,Tutup,"be shut, be closed",Verb,お店はもう閉まっていました。,おみせ は もう しまって いました,Toko sudah tutup.,The shop had already closed.
+278,JLPT4,締める,しめる,Mengencangkan,"tighten, fasten",Verb,彼はシートベルトを締めた。,かれ は しーとべると を しめた,Dia mengencangkan sabuk pengaman.,He fastened his seat belt.
+279,JLPT4,まずい,まずい,Tidak enak,"bad-tasting, bad",Adjective,ここの料理はまずい。,ここ の りょうり は まずい,Makanan di sini tidak enak.,The food here is bad.
+280,JLPT4,平仮名,ひらがな,Hiragana,hiragana,Noun,私は平仮名を全部読めます。,わたし は ひらがな を ぜんぶ よめます,Saya bisa membaca semua hiragana.,I can read all the hiragana.
+281,JLPT4,曇る,くもる,Berawan,become cloudy,Verb,明日は昼頃から曇るでしょう。,あす は ひるごろ から くもる でしょう,Besok mungkin akan berawan dari siang.,It'll probably get cloudy around noon tomorrow.
+282,JLPT3,触る,さわる,Menyentuh,"touch, feel",Verb,絵に触らないでください。,え に さわらない で ください,Jangan sentuh lukisan.,Please don't touch the painting.
+283,JLPT2,駄目,だめ,Tidak bisa,no good,Adjectival Noun,彼は駄目な男だ。,かれ は だめ な おとこ だ,Dia pria yang tidak berguna.,He's a loser.
+284,JLPT0,書き直す,かきなおす,Menulis ulang,rewrite,Verb,この書類を書き直してください。,この しょるい を かきなおして ください,Tolong tulis ulang dokumen ini.,Please rewrite this document.
+285,JLPT4,飲み物,のみもの,Minuman,"beverage, drink",Noun,何か飲み物が欲しいな。,なに か のみもの が ほしい な 。,Saya ingin sesuatu untuk diminum.,I could really use something to drink.
+286,JLPT4,木曜日,もくようび,Kamis,Thursday,Noun,木曜日は仕事が休みです。,もくようび は しごと が やすみ です,Saya libur kerja pada hari Kamis.,Thursday is my day off work.
+287,JLPT2,曜日,ようび,Hari,day of the week,Noun,曜日を間違えました。,ようび を まちがえました,Saya salah hari.,I got the day of the week wrong.
+288,JLPT4,そば,そば,Dekat,"side, vicinity",Noun,そばにいて下さい。,そば に いて ください,Tolong tetap di dekat saya.,Stay with me.
+289,JLPT3,こっち,こっち,Di sini,here,Pronoun,こっちに来て下さい。,こっち に きて ください,Datang ke sini.,Please come here.
+290,JLPT4,火曜日,かようび,Selasa,Tuesday,Noun,火曜日に会議があります。,かようび に かいぎ が あります,Ada rapat pada hari Selasa.,There's a meeting on Tuesday.
+291,JLPT2,渇く,かわく,Haus,be thirsty,Verb,喉が渇きました。,のど が かわきました,Saya haus.,I'm thirsty.
+292,JLPT4,三,さん,Tiga,three,Noun,彼女は三人の子供の母親だ。,かのじょ は さんにん の こども の ははおや だ,Dia ibu dari tiga anak.,She's the mother of three children.
+293,JLPT4,水曜日,すいようび,Rabu,Wednesday,Noun,水曜日はバイトがあります。,すいようび は ばいと が あります,Saya bekerja paruh waktu pada hari Rabu.,I have a part-time job on Wednesdays.
+294,JLPT4,二つ,ふたつ,Dua,two (things),Noun,ソフトクリームを二つください。,そふとくりーむ を ふたつ ください,Beri saya dua es krim.,Please give me two ice cream cones.
+295,JLPT4,今晩,こんばん,Malam ini,"this evening, tonight",Noun,今晩のパーティーは何時からですか。,こんばん の ぱーてぃー は なんじ から です か,Pesta malam ini mulai jam berapa?,From what time is the party tonight?
+296,JLPT4,千,せん,Seribu,thousand,Noun,千円貸してください。,せんえん かして ください,Pinjamkan saya seribu yen.,Please lend me 1000 yen.
+297,JLPT4,六つ,むっつ,Enam,six (things),Noun,息子は六つになりました。,むすこ は むっつ に なりました,Anak laki-laki saya sudah berumur enam tahun.,My son turned six.
+298,JLPT4,六日,むいか,Enam hari,"six days, 6th of the month",Noun,六日前に日本に帰ってきました。,むいかまえ に にほん に かえって きました,Saya kembali ke Jepang enam hari yang lalu.,I came back to Japan six days ago.
+299,JLPT4,お姉さん,おねえさん,Kakak perempuan,older sister,Noun,昨日、あなたのお姉さんに会ったよ。,きのう あなた の おねえさん に あった よ,Kemarin saya bertemu kakak perempuanmu.,I met your older sister yesterday.
+300,JLPT3,直る,なおる,Diperbaiki,"be repaired, return to normal",Verb,クーラーはまだ直りません。,くーらー は まだ なおりません,AC masih belum diperbaiki.,The air conditioner hasn't been repaired yet.
+301,JLPT4,易しい,やさしい,Mudah,"easy, simple",Adjective,この問題はかなり易しいです。,この もんだい は かなり やさしい です,Masalah ini cukup mudah.,This problem is pretty easy.
+302,JLPT4,辺,へん,Dekat,"vicinity, part",Noun,彼はこの辺に住んでいます。,かれ は このへん に すんで います,Dia tinggal di sekitar sini.,He lives around here.
+303,JLPT0,よう,よう,Seperti,"way, like, kind",Noun,彼女は眠いようです。,かのじょ は ねむい よう です,Sepertinya dia mengantuk.,It looks like she's sleepy.
+304,JLPT4,お兄さん,おにいさん,Kakak laki-laki,older brother,Noun,あなたのお兄さんは何歳?,あなた の おにいさん は なんさい,Berapa umur kakak laki-lakimu?,How old's your big brother?
+305,JLPT4,辛い,からい,Pedas,"spicy, salty",Adjective,彼は辛いものが好きです。,かれ は からい もの が すき です,Dia suka makanan pedas.,He likes spicy food.
+306,JLPT4,八,はち,Delapan,eight,Noun,りんごを八個ください。,りんご を はちこ ください,Beri saya delapan apel.,Please give me eight apples.
+307,JLPT4,三日,みっか,Tiga hari,"three days, 3rd of the month",Noun,手紙が届くのに三日かかりました。,てがみ が とどく の に みっか かかりました,Butuh tiga hari untuk surat sampai.,It took three days for the letter to arrive.
+308,JLPT4,あそこ,あそこ,Di sana,over there,Pronoun,あそこにバス停があります。,あそこ に ばすてい が あります,Ada halte bus di sana.,There's a bus stop over there.
+309,JLPT4,来る,くる,Datang,come,Verb,彼は昼過ぎに来ます。,かれ は ひるすぎ に きます,Dia akan datang setelah siang.,He'll come after lunch.
+310,JLPT4,前,まえ,Depan,"front, before",Noun,その店の前で会いましょう。,その みせ の まえ で あいましょう,Mari bertemu di depan toko itu.,Let's meet in front of the shop.
+311,JLPT4,五日,いつか,Lima hari,"five days, 5th of the month",Noun,五月五日は祝日です,ごがつ いつか は しゅくじつ です,Tanggal 5 Mei adalah hari libur.,May 5th is a holiday.
+312,JLPT0,一杯,いっぱい,Penuh,full,Adverb,プールは人で一杯です。,ぷーる は ひと で いっぱい です,Kolam renang penuh dengan orang.,The pool is packed.
+313,JLPT4,九,きゅう,Sembilan,nine,Noun,野球は九人で1チームです。,やきゅう は きゅうにん で ひとちーむ です,Baseball dimainkan oleh satu tim yang terdiri dari sembilan orang.,In baseball there are nine people on one team.
+314,JLPT0,酸っぱい,すっぱい,Asam,sour,Adjective,このぶどうは酸っぱいです。,この ぶどう は すっぱい です,Anggur ini asam.,These grapes are sour.
+315,JLPT4,違う,ちがう,Berbeda,"differ, be wrong",Verb,答えが違います。,こたえ が ちがいます,Jawabannya berbeda.,That's the wrong answer.
+316,JLPT4,細い,ほそい,Langsing,"thin, slender, narrow",Adjective,彼女は指が細いですね。,かのじょ は ゆび が ほそい です ね,"Jarinya langsing, ya.",Her fingers are thin.
+317,JLPT4,三つ,みっつ,Tiga,three (things),Noun,コップを三つ買いました。,こっぷ を みっつ かいました,Saya membeli tiga gelas.,I bought three glasses.
+318,JLPT4,八日,ようか,Delapan hari,"eight days, 8th of the month",Noun,八日からイギリスに行きます。,ようか から いぎりす に いきます,Saya pergi ke Inggris pada tanggal delapan.,I go to England on the eighth.
+319,JLPT3,高校生,こうこうせい,Siswa SMA,high school student,Noun,私の弟は高校生です。,わたし の おとうと は こうこうせい です,Adik laki-laki saya adalah siswa SMA.,My little brother's a high school student.
+320,JLPT4,上手,じょうず,Pandai,"good, skilled",Adjectival Noun,妹は歌が上手です。,いもうと は うた が じょうず です,Adik perempuan saya pandai bernyanyi.,My little sister can sing.
+321,JLPT4,強い,つよい,Kuat,strong,Adjective,今日は風が強い。,きょう は かぜ が つよい,Hari ini anginnya kencang.,There's a strong wind today.
+322,JLPT2,七,なな,Tujuh,seven,Noun,バナナが七本あります。,ばなな が ななほん あります,Ada tujuh pisang.,There are seven bananas.
+323,JLPT4,二十日,はつか,Dua puluh hari,"20 days, 20th of the month",Noun,来月の二十日は弟の誕生日です。,らいげつ の はつか は おとうと の たんじょうび です,Tanggal 20 bulan depan adalah ulang tahun adik laki-laki saya.,The 20th of next month is my little brother's birthday.
+324,JLPT4,左,ひだり,Kiri,left,Noun,そこを左に曲がってください。,そこ を ひだり に まがって ください,Belok kiri di sana.,Please turn left there.
+325,JLPT4,二日,ふつか,Dua hari,"two days, 2nd of the month",Noun,私は二日待った。,わたし は ふつか まった,Saya menunggu dua hari.,I waited two days.
+326,JLPT4,四つ,よっつ,Empat,four (things),Noun,私は腕時計を四つ持っています。,わたし は うでどけい を よっつ もって います,Saya punya empat jam tangan.,I have four wristwatches.
+327,JLPT4,暖かい,あたたかい,Hangat,warm,Adjective,このコートはとても暖かい。,この こーと は とても あたたかい。,Mantel ini sangat hangat.,This coat is really warm.
+328,JLPT2,有る,ある,Ada,"exist, possess",Verb,私の机の上に書類がたくさん有ります。,わたし の つくえ の うえ に しょるい が たくさん あります,Ada banyak dokumen di atas meja saya.,There are a lot of documents on my desk.
+329,JLPT0,良い,いい,Baik,good,Adjective,彼女は良い友達です。,かのじょ は いい ともだち です,Dia adalah teman baik.,She's a good friend.
+330,JLPT4,五つ,いつつ,Lima,five (things),Noun,桃を五つください。,もも を いつつ ください,Beri saya lima buah persik.,"I'd like five peaches, please."
+331,JLPT4,妹,いもうと,Adik perempuan,younger sister,Noun,私の妹は小学生です。,わたし の いもうと は しょうがくせい です,Adik perempuan saya adalah siswa SD.,My little sister goes to elementary school.
+332,JLPT4,上,うえ,Atas,"up, above",Noun,上を向いて。,うえ を むいて,Lihat ke atas.,Look up.
+333,JLPT3,動く,うごく,Bergerak,move,Verb,動かないで。,うごかない で,Jangan bergerak.,Freeze!
+334,JLPT4,駅,えき,Stasiun,railway station,Noun,駅はどこですか。,えき は どこ です か,Di mana stasiun?,Where's the station?
+335,JLPT4,おいしい,おいしい,Enak,tasty,Adjective,このケーキはおいしいね。,この けーき は おいしい ね,"Kue ini enak, ya.",This cake is yummy.
+336,JLPT4,大きい,おおきい,Besar,big,Adjective,あの大きい建物は何ですか。,あの おおきい たてもの は なん です か,Bangunan besar itu apa?,What's that big building?
+337,JLPT4,弟,おとうと,Adik laki-laki,younger brother,Noun,弟は野球が好きです。,おとうと は やきゅう が すき です,Adik laki-laki saya suka baseball.,My little brother likes baseball.
+338,JLPT4,男,おとこ,Pria,"man, male",Noun,男の人が私たちに話しかけた。,おとこ の ひと が わたしたち に はなしかけた,Seorang pria berbicara kepada kami.,This guy began talking to us.
+339,JLPT4,大人,おとな,Dewasa,adult,Noun,お酒は大人になってから。,おさけ は おとな に なって から,Minum alkohol setelah dewasa.,You can drink alcohol when you're an adult.
+340,JLPT0,お願い,おねがい,Permintaan,favor,Verbal Noun,お願いがあります。,おねがい が あります,Saya punya permintaan.,I have a favor to ask.
+341,JLPT4,女,おんな,Wanita,"woman, girl",Noun,店員は若い女の人でした。,てんいん は わかい おんな の ひと でした,Pelayan toko adalah wanita muda.,The salesclerk was a young woman.
+342,JLPT2,金,かね,Uang,money,Noun,これはかなり金がかかった。,これ は かなり かね が かかった,Ini memakan cukup banyak uang.,This cost quite a bit of money.
+343,JLPT3,彼,かれ,Dia (pria),"he, one's boyfriend",Noun,彼は私の上司です。,かれ は わたし の じょうし です,Dia adalah bos saya.,He's my senior.
+344,JLPT4,昨日,きのう,Kemarin,yesterday,Noun,昨日、友達に会った。,きのう ともだち に あった,Kemarin saya bertemu teman.,I met a friend yesterday.
+345,JLPT0,奇麗,きれい,Cantik,beautiful,Adjectival Noun,彼女はとても奇麗だ。,かのじょ は とても きれい だ,Dia sangat cantik.,She's very beautiful.
+346,JLPT4,口,くち,Mulut,mouth,Noun,口を大きく開けてください。,くち を おおきく あけて ください,Tolong buka mulutmu lebar-lebar.,"Open wide, please."
+347,JLPT4,五,ご,Lima,five,Noun,五人で旅行に行きました。,ごにん で りょこう に いきました,Kami pergi berlibur berlima.,Five of us went on a trip.
+348,JLPT4,九日,ここのか,Sembilan hari,"nine days, 9th of the month",Noun,九日に荷物が届きます。,ここのか に にもつ が とどきます,Paket akan tiba pada tanggal sembilan.,The package will arrive on the ninth.
+349,JLPT4,九つ,ここのつ,Sembilan,nine (things),Noun,娘は明日九つになります。,むすめ は あす ここのつ に なります,Besok putri saya berumur sembilan tahun.,My daughter's turning nine tomorrow.
+350,JLPT4,答える,こたえる,Menjawab,"answer, reply",Verb,私の質問に答えてください。,わたし の しつもん に こたえて ください,Tolong jawab pertanyaan saya.,Please answer my question.
+351,JLPT4,先,さき,Duluan,"ahead, first",Noun,お先にどうぞ。,おさきに どうぞ,Silakan duluan.,Please go ahead.
+352,JLPT4,寒い,さむい,Dingin,cold (temperature of the air),Adjective,この部屋は寒いです。,この へや は さむい です,Ruangan ini dingin.,It's cold in this room.
+353,JLPT4,四,し,Empat,four,Noun,四月に大学に入学しました。,しがつ に だいがく に にゅうがく しました,Ini kali keempat saya di Hawaii.,I entered my university in April.
+354,JLPT4,下,した,Bawah,"under, below",Noun,財布は机の下にあった。,さいふ は つくえ の した に あった,Dompet ada di bawah meja.,My purse was under the desk.
+355,JLPT4,大丈夫,だいじょうぶ,Baik-baik saja,"alright, OK",Adjectival Noun,大丈夫ですか。,だいじょうぶ です か,Apakah kamu baik-baik saja?,Are you OK?
+356,JLPT4,出す,だす,Mengeluarkan,take out,Verb,彼はかばんから教科書を出した。,かれ は かばん から きょうかしょ を だした,Dia mengeluarkan buku pelajaran dari tas.,He took the textbook out of his bag.
+357,JLPT4,小さい,ちいさい,Kecil,small,Adjective,小さい花が咲いています。,ちいさい はな が さいて います,Bunga kecil sedang mekar.,Small flowers are blooming.
+358,JLPT4,父,ちち,Ayah,(speaker's)father,Noun,私は父が大好きです。,わたし は ちち が だいすき です,Saya sangat suka ayah.,I love my father.
+359,JLPT4,一日,ついたち,Satu hari,1st of the month,Noun,来月の一日は空いていますか。,らいげつ の ついたち は あいています か,Apakah kamu kosong pada tanggal satu bulan depan?,Are you free on the 1st of next month?
+360,JLPT2,月,つき,Bulan,moon,Noun,今夜は月がとてもきれいです。,こんや は つき が とても きれい です,Bulan sangat indah malam ini.,The moon looks so beautiful tonight.
+361,JLPT3,妻,つま,Istri,wife,Noun,今日は妻の誕生日だ。,きょう は つま の たんじょうび だ,Hari ini ulang tahun istri saya.,It's my wife's birthday today.
+362,JLPT4,冷たい,つめたい,Dingin,"cold (things, touch)",Adjective,冷たい飲み物をください。,つめたい のみもの を ください,Beri saya minuman dingin.,Please give me a cold drink.
+363,JLPT4,手,て,Tangan,hand,Noun,分かった人は手を上げてください。,わかった ひと は て を あげて ください,"Yang tahu, angkat tangan.",Please raise your hand if you understand.
+364,JLPT4,十日,とおか,Sepuluh hari,"ten days, 10th of the month",Noun,十日後に帰ります。,とおかご に かえります,Saya akan pulang dalam sepuluh hari.,I'll come home in ten days.
+365,JLPT4,時々,ときどき,Kadang-kadang,sometimes,Adverb,彼は時々遅刻します。,かれ は ときどき ちこく します,Dia kadang-kadang terlambat.,He's sometimes late.
+366,JLPT4,夏,なつ,Musim panas,summer,Noun,私は夏が大好き。,わたし は なつ が だいすき,Saya sangat suka musim panas.,I just love summer.
+367,JLPT4,七つ,ななつ,Tujuh,seven (things),Noun,この子は今年七つになります。,この こ は ことし ななつ に なります,Anak ini akan berumur tujuh tahun tahun ini.,Our kid's turning seven this year.
+368,JLPT4,何,なに,Apa,"what, which",Noun,夕食には何を食べたいですか。,ゆうしょく に は なに を たべたい です か,Apa yang ingin kamu makan untuk makan malam?,What would you like for supper?
+369,JLPT4,七日,なのか,Tujuh hari,"seven days, 7th of the month",Noun,先月の七日に孫が生まれました。,せんげつ の なのか に まご が うまれました,Cucu saya lahir pada tanggal tujuh bulan lalu.,My grandchild was born on the seventh of last month.
+370,JLPT4,母,はは,Ibu,(speaker's)mother,Noun,昨日、母と話をしました。,きのう はは と はなし を しました,Saya berbicara dengan ibu kemarin.,I talked to my mother yesterday.
+371,JLPT4,人,ひと,Orang,person,Noun,彼は優しい人です。,かれ は やさしい ひと です,Dia orang yang baik.,He's a nice guy.
+372,JLPT4,一人,ひとり,Sendirian,"one, one person",Noun,そこには私一人しかいなかった。,そこ に は わたし ひとり しか いなかった,Saya satu-satunya orang di sana.,I was the only one there.
+373,JLPT4,百,ひゃく,Seratus,hundred,Noun,私の祖母は百才です。,わたし の そぼ は ひゃくさい です,Nenek saya berumur seratus tahun.,My grandmother is 100 years old.
+374,JLPT2,方,ほう,Arah,"direction, side",Noun,彼は私の方を見ました。,かれ は わたし の ほう を みました,Dia melihat ke arah saya.,He looked at me.
+375,JLPT2,他,ほか,Lain,other,Noun,他に方法がありません。,ほか に ほうほう が ありません,Tidak ada cara lain.,There's no other way.
+376,JLPT3,僕,ぼく,Saya,I (young male),Noun,僕は学生です。,ぼく は がくせい です,Saya seorang pelajar.,I'm a student.
+377,JLPT4,欲しい,ほしい,Ingin,"want, desire",Adjective,僕は新しい靴が欲しいです。,ぼく は あたらしい くつ が ほしい です,Saya ingin sepatu baru.,I want new shoes.
+378,JLPT4,万,まん,Sepuluh ribu,ten thousand,Noun,この靴は1万円です。,この くつ は いちまんえん です,Sepatu ini berharga 10 ribu yen.,These shoes are ten thousand yen.
+379,JLPT3,見える,みえる,Terlihat,be visible,Verb,ここから富士山がよく見えます。,ここ から ふじさん が よく みえます,Gunung Fuji terlihat jelas dari sini.,You can see Mount Fuji well from here.
+380,JLPT4,店,みせ,Toko,"shop, store",Noun,私はこの店によく来ます。,わたし は この みせ に よく きます,Saya sering datang ke toko ini.,I come to this store quite often.
+381,JLPT4,道,みち,Jalan,"road, street",Noun,この道を真っ直ぐ行くと駅です。,この みち を まっすぐ いく と えき です,Jalan lurus di jalan ini adalah stasiun.,Go straight along this road to get to the station.
+382,JLPT4,目,め,Mata,eye,Noun,彼女は青い目をしています。,かのじょ は あおい め を して います,Dia punya mata biru.,She has blue eyes.
+383,JLPT4,八つ,やっつ,Delapan,eight (things),Noun,あの家には時計が八つあります。,あの いえ に は とけい が やっつ あります,Ada delapan jam di rumah itu.,There are eight clocks in that house.
+384,JLPT2,止める,やめる,Menghentikan,"stop, give up, abolish",Verb,話すのを止めてください。,はなす の を やめて ください,Tolong berhenti berbicara.,"Stop talking, please."
+385,JLPT4,四日,よっか,Empat hari,"four days, 4th of the month",Noun,新学期は来月の四日からです。,しんがっき は らいげつ の よっか から です,Semester baru dimulai pada tanggal empat bulan depan.,The new school term starts on the fourth of next month.
+386,JLPT4,夜,よる,Malam,night (from sunset to sunrise),Noun,きのうの夜は家にいました。,きのう の よる は いえ に いました,Saya berada di rumah tadi malam.,I was at home last night.
+387,JLPT2,四,よん,Empat,four,Noun,ハワイは四回目です。,はわい は よんかいめ です,Ini kali keempat saya di Hawaii.,This is my fourth trip to Hawaii.
+388,JLPT4,来年,らいねん,Tahun depan,next year,Noun,来年一緒に旅行しましょう。,らいねん いっしょ に りょこう しましょう,Mari pergi berlibur bersama tahun depan.,Let's travel together next year.
+389,JLPT4,六,ろく,Enam,six,Noun,彼には子供が六人います。,かれ に は こども が ろくにん います,Dia punya enam anak.,He has six children.
+390,JLPT4,悪い,わるい,Buruk,bad,Adjective,たばこは体に悪い。,たばこ は からだ に わるい,Rokok buruk bagi kesehatan.,Cigarettes are bad for your health.
+391,JLPT4,お手洗い,おてあらい,Toilet,"toilet, bathroom",Noun,お手洗いはどこですか。,おてあらい は どこ です か,Di mana toilet?,Where's the bathroom?
+392,JLPT0,ご主人,ごしゅじん,Suami,(your) husband,Noun,ご主人はお元気ですか。,ごしゅじん は おげんき です か,Apakah suamimu sehat?,How is your husband?
+393,JLPT0,本当に,ほんとうに,Benar-benar,"really, truly",Adverb,あなたが本当に好きです。,あなた が ほんとうに すき です,Saya benar-benar suka kamu.,I really like you.
+394,JLPT4,自分,じぶん,Sendiri,"self, oneself",Noun,宿題は自分でやりなさい。,しゅくだい は じぶん で やりなさい,Kerjakan PR sendiri.,Do your homework by yourself.
+395,JLPT4,なる,なる,Menjadi,become,Verb,柿の木に実がたくさんなっています。,かきのき に み が たくさん なって います,Banyak buah tumbuh di pohon kesemek.,A lot of fruit is ripening on the persimmon tree.
+396,JLPT3,ため,ため,Untuk,"sake, purpose",Noun,これは医者のためのサイトです。,これ は いしゃ の ため の さいと です,Ini adalah situs untuk dokter.,This is a site for doctors.
+397,JLPT2,円,えん,Yen,yen,Noun,カレーライスは700円です。,かれーらいす は ななひゃくえん です,Kare rice harganya 700 yen.,The curry and rice is 700 yen.
+398,JLPT3,場合,ばあい,Kasus,"situation, case",Noun,分からない場合は私に聞いてください。,わからない ばあい は わたし に きいて ください,"Jika tidak mengerti, tanyakan pada saya.",Please ask me if you don't understand.
+399,JLPT4,休む,やすむ,Istirahat,"take a day off, take a break",Verb,明日、会社を休みます。,あした かいしゃ を やすみます,Saya akan istirahat dari kerja besok.,I'm off work tomorrow.
+400,JLPT3,見つかる,みつかる,Ditemukan,"be found, be caught",Verb,メガネが見つかりません。,めがね が みつかりません,Kacamata saya tidak ditemukan.,I can't find my glasses.
+401,JLPT4,問題,もんだい,Masalah,"problem, question",Noun,問題が一つあります。,もんだい が ひとつ あります,Ada satu masalah.,There's one problem.
+402,JLPT1,開発,かいはつ,Pengembangan,development,Verbal Noun,ダムの開発に住民は反対しています。,だむ の かいはつ に じゅうみん は はんたい して います,Penduduk menentang pengembangan bendungan.,The residents are against the development of the dam.
+403,JLPT2,事件,じけん,Kasus,"affair, case",Noun,その事件の犯人はまだ捕まっていない。,その じけん の はんにん は まだ つかまって いない,Pelaku kasus itu belum tertangkap.,The perpetrator of the incident hasn't been caught yet.
+404,JLPT3,必要,ひつよう,Diperlukan,"need, necessity",Adjectival Noun,私にはたくさんのお金が必要だ。,わたし に は たくさん の おかね が ひつよう だ,Saya memerlukan banyak uang.,I need a lot of money.
+405,JLPT2,企業,きぎょう,Perusahaan,"corporation, business",Noun,彼女はアメリカの企業で働いています。,かのじょ は あめりか の きぎょう で はたらいて います,Dia bekerja di perusahaan Amerika.,She works in an American company.
+406,JLPT3,行う,おこなう,Melaksanakan,"do, carry out",Verb,その会社は来月、キャンペーンを行う。,その かいしゃ は らいげつ きゃんぺーん を おこなう,Perusahaan itu akan melaksanakan kampanye bulan depan.,That company is going to run a campaign next month.
+407,JLPT2,現在,げんざい,Saat ini,"the present, present time",Noun,現在の気温は30度です。,げんざい の きおん は さんじゅうど です,Suhu saat ini adalah 30 derajat.,The current temperature is 30 degrees.
+408,JLPT3,利用,りよう,Menggunakan,"utilization, usage",Verbal Noun,私はよく図書館を利用します。,わたし は よく としょかん を りよう します,Saya sering menggunakan perpustakaan.,I often use the library.
+409,JLPT2,首相,しゅしょう,Perdana Menteri,prime minister,Noun,今の首相はあまり力がない。,いま の しゅしょう は あまり ちから が ない,Perdana Menteri saat ini tidak memiliki banyak kekuatan.,The current Prime Minister doesn't have much power.
+410,JLPT4,持つ,もつ,Memiliki,"maintain, last long",Verb,この車はよく持っているね。,この くるま は よく もって いる ね,Mobil ini masih bagus.,This car has lasted a long time.
+411,JLPT2,政府,せいふ,Pemerintah,"government, administration",Noun,そのデモについて政府は何もしなかった。,その でも に ついて せいふ は なにも しなかった,Pemerintah tidak melakukan apa-apa tentang demo itu.,The government didn't do anything about the demonstration.
+412,JLPT2,発表,はっぴょう,Pengumuman,announcement,Verbal Noun,合格者が発表された。,ごうかくしゃ が はっぴょう された,Peserta yang lulus telah diumumkan.,Those who passed were announced.
+413,JLPT4,開く,あく,Membuka,open,Verb,電車のドアが開きました。,でんしゃ の どあ が あきました,Pintu kereta terbuka.,The train door opened.
+414,JLPT3,受ける,うける,Mengikuti,"receive, accept",Verb,彼は就職試験を受けた。,かれ は しゅうしょく しけん を うけた,Dia mengikuti ujian pekerjaan.,He took an exam to apply for a job.
+415,JLPT2,より,より,Lebih,"more, further",Adverb,これから、より一層努力します。,これから より いっそう どりょく します,"Mulai sekarang, saya akan berusaha lebih keras.",I'll work that much harder from now.
+416,JLPT0,昨年,さくねん,Tahun lalu,last year,Noun,昨年は地震が多い年でした。,さくねん は じしん が おおい とし でした,Tahun lalu adalah tahun dengan banyak gempa bumi.,Last year there were a lot of earthquakes.
+417,JLPT2,情報,じょうほう,Informasi,information,Noun,学生たちはインターネットでいろいろな情報を集めた。,がくせいたち は いんたーねっと で いろいろな じょうほう を あつめた,Para siswa mengumpulkan berbagai informasi di internet.,The students gathered all kinds of information on the Internet.
+418,JLPT2,示す,しめす,Menunjukkan,"show, indicate",Verb,彼は新製品に興味を示している。,かれ は しんせいひん に きょうみ を しめして いる,Dia menunjukkan minat pada produk baru.,He's showing interest in the new product.
+419,JLPT2,建設,けんせつ,Konstruksi,"construction, building",Verbal Noun,新しいビルの建設が始まった。,あたらしい びる の けんせつ が はじまった,Konstruksi gedung baru telah dimulai.,Construction began on the new building.
+420,JLPT2,販売,はんばい,Penjualan,"sale, selling",Verbal Noun,前売券は窓口で販売しています。,まえうりけん は まどぐち で はんばい して います,Tiket pre-sale dijual di loket.,Advance tickets are being sold at the ticket window.
+421,JLPT3,治る,なおる,Sembuh,"be cured, get well",Verb,けがはもう治りましたか。,けが は もう なおりました か,Apakah lukamu sudah sembuh?,Is your injury better yet?
+422,JLPT2,機能,きのう,Fungsi,"function, feature",Verbal Noun,このソフトにはいろいろな機能があります。,この そふと に は いろいろな きのう が あります,Perangkat lunak ini memiliki berbagai fungsi.,This software has a lot of various features.
+423,JLPT3,研究,けんきゅう,Penelitian,"research, study",Verbal Noun,彼は何年も地震の研究をしている。,かれ は なんねん も じしん の けんきゅう を して いる,Dia telah melakukan penelitian tentang gempa bumi selama bertahun-tahun.,He's been researching earthquakes for many years.
+424,JLPT2,一方,いっぽう,Satu arah,one way,Noun,ここは一方通行です。,ここ は いっぽう つうこう です,Ini adalah jalan satu arah.,This is a one-way street.
+425,JLPT0,ドル,ドル,Dolar,dollar,Noun,この服は300ドルしました。,この ふく は さんびゃくどる しました,Pakaian ini seharga 300 dolar.,These clothes cost 300 dollars.
+426,JLPT1,システム,システム,Sistem,system,Noun,全てのシステムが停止した。,すべて の しすてむ が ていし した,Semua sistem berhenti.,All systems have stopped.
+427,JLPT2,頃,ころ,Waktu,time,Noun,子供の頃、よくその公園で遊んだ。,こども の ころ よく その こうえん で あそんだ,"Saat masih anak-anak, saya sering bermain di taman itu.",I often played in that park when I was a kid.
+428,JLPT2,対する,たいする,Terhadap,"face, be in response to",Verb,その質問に対する答えが見つからなかった。,その しつもん に たいする こたえ が みつからなかった,Tidak menemukan jawaban terhadap pertanyaan itu.,I couldn't find an answer to that question.
+429,JLPT2,方法,ほうほう,Cara,"method, procedure",Noun,いい方法を思いつきました。,いい ほうほう を おもいつきました,Saya memikirkan cara yang bagus.,We hit on a good method.
+430,JLPT3,以上,いじょう,Lebih dari,"not less than, more than",Noun,飛行機が1時間以上遅れた。,ひこうき が いちじかん いじょう おくれた,Pesawat tertunda lebih dari satu jam.,The plane arrived over an hour late.
+431,JLPT3,最近,さいきん,Akhir-akhir ini,"late, recent",Noun,それは最近話題の本ですね。,それ は さいきん わだい の ほん です ね,Itu adalah buku yang sedang populer akhir-akhir ini.,That's the book that people have been talking about lately.
+432,JLPT2,今後,こんご,Ke depan,"after this, in the future",Noun,今後ともよろしくお願いします。,こんご とも よろしく おねがい します,Mohon dukungannya ke depan.,I look forward to working with you in the future.
+433,JLPT3,世界,せかい,Dunia,world,Noun,私は世界旅行をしたい。,わたし は せかい りょこう を したい,Saya ingin melakukan perjalanan keliling dunia.,I want to travel around the world.
+434,JLPT2,用いる,もちいる,Menggunakan,"use, make use of",Verb,彼はその詩を用いて自分の気持ちを伝えた。,かれ は その し を もちいて じぶん の きもち を つたえた,Dia menggunakan puisi itu untuk menyampaikan perasaannya.,He conveyed his feelings through poetry.
+435,JLPT2,語る,かたる,Berbicara,"tell, talk",Verb,今夜は大いに語りましょう。,こんや は おおいに かたりましょう,Mari kita berbicara banyak malam ini.,Let's talk about everything tonight.
+436,JLPT2,コンピューター,コンピューター,Komputer,computer,Noun,新しいコンピューターを買った。,あたらしい こんぴゅーたー を かった,Saya membeli komputer baru.,I bought a new computer.
+437,JLPT2,中心,ちゅうしん,Tengah,"center, middle",Noun,ここが建物の中心です。,ここ が たてもの の ちゅうしん です,Ini adalah tengah bangunan.,This is the center of the building.
+438,JLPT4,やる,やる,Memberi,give (to an inferior),Verb,犬にえさをやった。,いぬ に えさ を やった,Saya memberi makan anjing.,I fed the dog.
+439,JLPT4,意味,いみ,Arti,"meaning, significance",Noun,それはどういう意味ですか。,それ は どういう いみ です か,Apa arti itu?,What does that mean?
+440,JLPT3,計画,けいかく,Rencana,"plan, project",Verbal Noun,彼は一人旅の計画を立てた。,かれ は ひとりたび の けいかく を たてた,Dia membuat rencana perjalanan sendirian.,He planned a journey alone.
+441,JLPT2,影響,えいきょう,Pengaruh,"influence, effect",Verbal Noun,私は彼から大きな影響を受けました。,わたし は かれ から おおき な えいきょう を うけました,Saya sangat dipengaruhi olehnya.,I was deeply influenced by him.
+442,JLPT3,増える,ふえる,Bertambah,"increase, accrue",Verb,この町は人口が増えた。,この まち は じんこう が ふえた,Penduduk kota ini bertambah.,The population has increased in this town.
+443,JLPT3,選ぶ,えらぶ,Memilih,"choose, elect",Verb,良い家を選ぶのは難しい。,よい いえ を えらぶ の は むずかしい,Sulit memilih rumah yang bagus.,It's difficult to choose a good house.
+444,JLPT3,経済,けいざい,Ekonomi,"economy, economics",Noun,大学で経済を勉強しました。,だいがく で けいざい を べんきょう しました,Saya belajar ekonomi di universitas.,I studied economics in college.
+445,JLPT1,導入,どうにゅう,Pengenalan,introduction,Verbal Noun,会社で新しいシステムを導入した。,かいしゃ で あたらしい しすてむ を どうにゅう した,Perusahaan memperkenalkan sistem baru.,A new system was introduced in the company.
+446,JLPT3,生活,せいかつ,Hidup,"life, living",Verbal Noun,日本での生活は楽しいです。,にほん で の せいかつ は たのしい です,Hidup di Jepang menyenangkan.,Life in Japan is fun.
+447,JLPT2,進める,すすめる,Melanjutkan,"advance, promote",Verb,早く授業を進めましょう。,はやく じゅぎょう を すすめましょう,Mari kita lanjutkan pelajaran.,Let's hurry up and proceed with our class.
+448,JLPT3,関係,かんけい,Terkait,"relation, relationship",Verbal Noun,彼はその事件に関係がない。,かれ は その じけん に かんけい が ない,Dia tidak terkait dengan kasus itu.,He has nothing to do with that incident.
+449,JLPT3,続ける,つづける,Melanjutkan,"continue, keep up",Verb,仕事を続けてください。,しごと を つづけて ください,Tolong lanjutkan pekerjaan.,Please continue working.
+450,JLPT0,ロボット,ロボット,Robot,robot,Noun,彼はロボットの研究をしています。,かれ は ろぼっと の けんきゅう を しています 。,Dia meneliti robot.,He is doing research on robots.
+451,JLPT3,ほとんど,ほとんど,Hampir,"almost, hardly",Adverb,お金がほとんどありません。,おかね が ほとんど ありません,Saya hampir tidak punya uang.,There's hardly any money.
+452,JLPT0,国内,こくない,Domestik,"domestic, internal",Noun,この携帯電話が使えるのは国内だけです。,この けいたい でんわ が つかえる の は こくない だけ です,Ponsel ini hanya bisa digunakan di dalam negeri.,You can only use this mobile phone domestically.
+453,JLPT2,分野,ぶんや,Bidang,"field, sphere",Noun,音楽は彼の得意な分野です。,おんがく は かれ の とくい な ぶんや です,Musik adalah bidang keahliannya.,Music is his field of specialty.
+454,JLPT4,会社,かいしゃ,Perusahaan,"company, corporation",Noun,彼は小さな会社に勤めています。,かれ は ちいさ な かいしゃ に つとめて います,Dia bekerja di perusahaan kecil.,He's working for a small business firm.
+455,JLPT2,関する,かんする,Terkait,"concern, relate to",Verb,その問題に関する記事を読みました。,その もんだい に かんする きじ を よみました,Saya membaca artikel terkait masalah itu.,I read an article about the problem.
+456,JLPT2,状態,じょうたい,Kondisi,"state, appearance",Noun,ここは道の状態がとても悪いです。,ここ は みち の じょうたい が とても わるい です,Kondisi jalan di sini sangat buruk.,The road is in a very bad state here.
+457,JLPT2,大統領,だいとうりょう,Presiden,president (of a country),Noun,フランスの大統領は誰ですか。,ふらんす の だいとうりょう は だれ です か,Siapa presiden Prancis?,Who's the president of France?
+458,JLPT2,対象,たいしょう,Target,"target, object",Noun,このアンケートは大学生が対象です。,この あんけーと は だいがくせい が たいしょう です,Kuesioner ini ditujukan untuk mahasiswa.,This questionnaire targets university students.
+459,JLPT2,処理,しょり,Pemrosesan,"management, process",Verbal Noun,事務的な処理に1週間かかります。,じむてき な しょり に いっしゅうかん かかります,Pemrosesan administratif membutuhkan waktu satu minggu.,The administrative processing takes one week.
+460,JLPT3,女性,じょせい,Wanita,"woman, female",Noun,そのパーティーに女性は何人来ますか。,その ぱーてぃー に じょせい は なんにん きます か,Berapa banyak wanita yang datang ke pesta itu?,How many women are coming to that party?
+461,JLPT4,家,いえ,Rumah,"house, home",Noun,ここが私の家です。,ここ が わたし の いえ です,Ini adalah rumah saya.,This is my house.
+462,JLPT0,パソコン,パソコン,Komputer,personal computer,Noun,彼はパソコンを2台持っています。,かれ は ぱそこん を にだい もって います,Dia punya dua komputer.,He has two personal computers.
+463,JLPT2,解決,かいけつ,Penyelesaian,"solution, settlement",Verbal Noun,トラブルがやっと解決した。,とらぶる が やっと かいけつ した,Masalah akhirnya terselesaikan.,The problem has finally been solved.
+464,JLPT2,実現,じつげん,Terwujud,"implementation, realization",Verbal Noun,夢を実現するには努力が必要です。,ゆめ を じつげん する に は どりょく が ひつよう です,Perlu usaha untuk mewujudkan mimpi.,You need to make an effort to make your dreams come true.
+465,JLPT0,多く,おおく,Banyak,"much, largely",Adverb,毎年多くの人が海外へ旅行する。,まいとし おおく の ひと が かいがい へ りょこう する,Setiap tahun banyak orang pergi ke luar negeri.,A lot of people travel abroad every year.
+466,JLPT1,動き,うごき,Gerakan,"movement, motion",Noun,まず相手の動きを見ましょう。,まず あいて の うごき を みましょう,Mari kita lihat gerakan lawan terlebih dahulu.,"First, watch your opponent's moves."
+467,JLPT4,話,はなし,Cerita,"talk, story",Noun,あなたの話は面白いね。,あなた の はなし は おもしろい ね,"Ceritamu menarik, ya.",Your story's interesting.
+468,JLPT2,価格,かかく,Harga,"price, cost",Noun,ガソリンの価格がどんどん上がっている。,がそりん の かかく が どんどん あがって いる,Harga bensin terus naik.,The price of gasoline keeps going up fast.
+469,JLPT0,上がる,あがる,Naik,"go up, rise",Verb,私たちは２階に上がった。,わたしたち は にかい に あがった,Kami naik ke lantai dua.,We went up to the second floor.
+470,JLPT4,もう,もう,Lagi,"another, again",Adverb,コーヒーをもう一杯ください。,こーひー を もう いっぱい ください,Tolong beri saya secangkir kopi lagi.,Please give me another cup of coffee.
+471,JLPT3,集める,あつめる,Mengumpulkan,"collect, gather",Verb,弟は切手を集めています。,おとうと は きって を あつめて います,Adik laki-laki saya mengumpulkan perangko.,My little brother collects stamps.
+472,JLPT4,声,こえ,Suara,"voice, sound",Noun,彼は大きな声で話した。,かれ は おおき な こえ で はなした,Dia berbicara dengan suara keras.,He spoke loudly.
+473,JLPT4,初めて,はじめて,Pertama kali,for the first time,Adverb,東京に来るのは初めてです。,とうきょう に くる の は はじめて です 。,Ini pertama kalinya saya ke Tokyo.,It's the first time I've been to Tokyo.
+474,JLPT2,明らか,あきらか,Jelas,"clear, obvious",Adjective,明らかに彼が悪い。,あきらか に かれ が わるい,Jelas dia yang salah.,It's clearly his fault.
+475,JLPT0,一部,いちぶ,Sebagian,part,Noun,計画を一部変更しましょう。,けいかく を いちぶ へんこう しましょう,Mari ubah sebagian rencana.,Let's change part of the plan.
+476,JLPT2,調査,ちょうさ,Penyelidikan,"investigation, inquiry",Verbal Noun,私たちがその問題を調査しています。,わたしたち が その もんだい を ちょうさ して います,Kami sedang menyelidiki masalah itu.,We're investigating that problem.
+477,JLPT2,党,とう,Partai,political party,Noun,党の代表が質問に答えました。,とう の だいひょう が しつもん に こたえました,Perwakilan partai menjawab pertanyaan.,The party spokesman answered the question.
+478,JLPT3,変わる,かわる,Berubah,change,Verb,信号が青に変わりました。,しんごう が あお に かわりました。,Lampu lalu lintas berubah menjadi hijau.,The traffic light turned green.
+479,JLPT3,社長,しゃちょう,Presiden Direktur,president (of a company),Noun,おばは小さな会社の社長です。,おば は ちいさ な かいしゃ の しゃちょう です,Bibi saya adalah presiden direktur perusahaan kecil.,My aunt is the president of a small firm.
+480,JLPT2,全国,ぜんこく,Seluruh negeri,the whole country,Noun,次は全国のお天気です。,つぎ は ぜんこく の おてんき です,Selanjutnya adalah cuaca seluruh negeri.,And now for the nation's weather.
+481,JLPT2,地域,ちいき,Wilayah,"region, area",Noun,この地域は雨が多い。,この ちいき は あめ が おおい,Wilayah ini banyak hujan.,There's a lot of rain in this region.
+482,JLPT2,重要,じゅうよう,Penting,"important, essential",Adjectival Noun,これは重要な書類です。,これ は じゅうよう な しょるい です,Ini adalah dokumen penting.,This is an important document.
+483,JLPT2,姿,すがた,Sosok,"figure, appearance",Noun,遠くに彼女の姿が見えた。,とおく に かのじょ の すがた が みえた,Saya melihat sosoknya di kejauhan.,I saw her figure from a long way away.
+484,JLPT2,先ず,まず,Pertama-tama,first,Adverb,帰ったら先ず手を洗いましょう。,かえったら まず て を あらいましょう 。,"Pertama-tama, cuci tangan saat kamu pulang.","When you get home, wash your hands first."
+485,JLPT0,昭和,しょうわ,Showa,Showa era,Noun,私の両親は昭和生まれです。,わたし の りょうしん は しょうわうまれ です,Orang tua saya lahir di era Showa.,My parents were born in the Showa era.
+486,JLPT3,社会,しゃかい,Masyarakat,society,Noun,これは大きな社会問題になっている。,これ は おおき な しゃかい もんだい に なって いる,Ini menjadi masalah besar di masyarakat.,This is a major social issue.
+487,JLPT2,プログラム,プログラム,Program,program,Noun,受付でプログラムを受け取った。,うけつけ で ぷろぐらむ を うけとった,Saya menerima program di resepsi.,I got my program at the reception.
+488,JLPT2,期待,きたい,Harapan,"expectation, anticipation",Verbal Noun,みんな私たちに期待しています。,みんな わたしたち に きたい して います,Semua orang mengharapkan kita.,Everyone has high expectations of us.
+489,JLPT3,力,ちから,Kekuatan,"strength, power",Noun,お相撲さんは、みんな力持ちだ。,おすもうさん は みんな ちからもち だ,Semua pegulat sumo kuat.,All sumo wrestlers are strong.
+490,JLPT2,除く,のぞく,Mengecualikan,"rid of, exclude",Verb,部長を除く全員が土曜日も働いた。,ぶちょう を のぞく ぜんいん が どようび も はたらいた,Semua orang bekerja pada hari Sabtu kecuali kepala departemen.,Everyone except the director worked on Saturday.
+491,JLPT2,一般,いっぱん,Umum,"general, common",Noun,一般の方はこちらの席へどうぞ。,いっぱん の かた は こちら の せき へ どうぞ,Tempat duduk umum ada di sini.,General seating is over here.
+492,JLPT2,今回,こんかい,Kali ini,this time,Noun,まあ今回は許してあげよう。,まあ こんかい は ゆるして あげよう,"Baiklah, kali ini saya maafkan.","Well, I'll let you off this time."
+493,JLPT2,普及,ふきゅう,Penyebaran,"diffusion, spread",Verbal Noun,ゴミのリサイクルが普及している。,ごみ の りさいくる が ふきゅう して いる,Daur ulang sampah semakin menyebar.,Garbage recycling has become widespread.
+494,JLPT2,表現,ひょうげん,Ekspresi,expression,Verbal Noun,彼は歌で自分の気持ちを表現した。,かれ は うた で じぶん の きもち を ひょうげん した,Dia mengekspresikan perasaannya melalui lagu.,He expressed his feelings in song.
+495,JLPT2,作業,さぎょう,Pekerjaan,"work, operation",Verbal Noun,作業するにはもっと広いスペースが必要だ。,さぎょう する に は もっと ひろい すぺーす が ひつよう だ,Perlu lebih banyak ruang untuk bekerja.,I need a bigger space to work.
+496,JLPT3,予定,よてい,Rencana,"schedule, plan",Verbal Noun,今日の予定を教えてください。,きょう の よてい を おしえて ください,Tolong beri tahu saya rencana hari ini.,Please tell me what your schedule is for today.
+497,JLPT3,工場,こうじょう,Pabrik,"factory, plant",Noun,彼は食品工場で働いています。,かれ は しょくひん こうじょう で はたらいて います,Dia bekerja di pabrik makanan.,He's working at the food factory.
+498,JLPT4,よく,よく,Dengan baik,well,Adverb,よく答えが分かりましたね。,よく こたえ が わかりました ね,"Kamu tahu jawabannya dengan baik, ya.",You did well in coming up with the answer.
+499,JLPT2,生産,せいさん,Produksi,production,Verbal Noun,ボルドーはワインの生産で有名だ。,ぼるどー は わいん の せいさん で ゆうめい だ,Bordeaux terkenal dengan produksi anggurnya.,Bordeau is famous for wine production.
+500,JLPT1,政権,せいけん,Pemerintahan,political power,Noun,政権が交代した。,せいけん が こうたい した,Pemerintahan telah berubah.,There was a regime change.

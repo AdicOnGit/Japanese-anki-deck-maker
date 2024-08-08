@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+    <title>Card Back</title>
+  </head>
+  <body>
+    {{FrontSide}}
+
+    <hr id="answer" />
+
+    <div class="card back-card">
+      <div class="details">
+        <div class="section">
+          <h3>Vocabulary</h3>
+          <p>
+            <strong>Kanji:</strong>
+            <span class="kanji-bg">{{Vocab-expression}}</span>
+          </p>
+          <p>
+            <strong>Kana:</strong> <span class="kana-bg">{{Vocab-kana}}</span>
+          </p>
+        </div>
+        <div class="section">
+          <h3>Example Sentence</h3>
+          <p>
+            <strong>Japanese:</strong>
+            <span class="kanji-bg">{{Sentence-expression}}</span>
+          </p>
+          <p>
+            <strong>Kana:</strong>
+            <span class="kana-bg">{{Sentence-kana}}</span>
+          </p>
+          <p>
+            <strong>{{conversion_language}}:</strong>
+            <span class="conversion-language-bg">
+              {{Sentence-meaning-conversion_language}}</span
+            >
+          </p>
+          <p><strong>English:</strong> {{Sentence-meaning-eng}}</p>
+        </div>
+        <div class="section">
+          <h3>Details</h3>
+          <p><strong>English:</strong> {{Vocab-meaning-eng}}</p>
+          <p><strong>Part of Speech:</strong> {{Vocab-pos}}</p>
+          <p><strong>JLPT Level:</strong> {{JLPT}}</p>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,89 @@
+.card {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    text-align: left;
+    color: #f9fafb;
+    background-color: #1f2937;
+    padding: 10px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+
+.card-content {
+    padding: 20px;
+    position: relative;
+}
+
+.front-card {
+    background-color: #6b21a8;
+}
+
+.back-card {
+    background-color: #1f2937;
+}
+
+.core-index {
+    display: inline-block;
+    font-size: 14px;
+    color: #f9fafb;
+    background-color: rgba(255,255,255,0.2);
+    padding: 2px 6px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.main-content {
+    font-size: 24px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.details {
+    margin-top: 20px;
+}
+
+.section {
+    margin-bottom: 20px;
+}
+
+h3 {
+    color: #F7F9F2;
+    border-bottom: 1px solid #F7F9F2;
+    padding-bottom: 5px;
+}
+
+hr {
+    margin: 20px 0;
+    border: none;
+    border-top: 1px solid #F7F9F2;
+}
+
+.kanji-bg {
+    background-color: #FB773C;
+    padding: 2px 6px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.kana-bg {
+    background-color: #EB3678;
+    padding: 2px 6px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.conversion-language-bg{
+    background-color: #7E8EF1;
+    padding: 2px 6px;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+@media (max-width: 600px) {
+    .card-content {
+        font-size: 14px;
+    }
+    .main-content {
+        font-size: 20px;
+    }
+}

@@ -1,0 +1,4458 @@
+[
+    {
+        "word": "技術",
+        "Nep-meaning": "कौशल, प्रविधि",
+        "sent-Nep": "उहाँसँग धेरै उच्च स्तरको कौशल छ।",
+        "mnemonic": "Imagine a ninja named Gi (技 - ぎ) using the latest gadgets and tech to perform stunts. He's juggling lasers, robots, and drones, showing off his top-notch skills. 技術 (ぎじゅつ) means 'technology' or 'skill' in Japanese. Picture Gi saying, 'With my gadgets, I’m the tech king!'",
+        "explanation": {
+            "word": "技術",
+            "pronunciation": "ぎじゅつ",
+            "meanings": [
+                {
+                    "nepali": "कौशल",
+                    "english": "skill",
+                    "details": [
+                        "कुनै काम वा प्रक्रियामा दक्षता र दक्षताको स्तर।",
+                        "जस्तै - चित्रकलामा कलाकारको कौशल, नृत्यमा नर्तकको कौशल, लेखनमा लेखकको कौशल आदि।"
+                    ]
+                },
+                {
+                    "nepali": "प्रविधि",
+                    "english": "technology, method",
+                    "details": [
+                        "वैज्ञानिक र प्राविधिक ज्ञानको उपयोग गरेर विकास गरिएको विधि वा उपकरण।",
+                        "जस्तै - कम्प्युटर प्रविधि, सूचना प्रविधि, निर्माण प्रविधि आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "まま",
+        "Nep-meaning": "जस्ताको तस्तै, अझै पनि (वर्तमान अवस्थामा)",
+        "sent-Nep": "बत्ती अझै पनि बलिरहेको छ।",
+        "mnemonic": "Picture your mom (まま) trying to fix a leaky faucet with a spoon, but she insists, 'This is the way it is, no changes!' まま means 'as it is' or 'without change' in Japanese. Imagine her saying, 'If it ain’t broke, don’t fix it!'",
+        "explanation": {
+            "word": "まま",
+            "pronunciation": "まま",
+            "meanings": [
+                {
+                    "nepali": "जस्ताको तस्तै",
+                    "english": "as is",
+                    "details": [
+                        "कुनै परिवर्तन नगरी, जस्तो अवस्थामा हो त्यसै।"
+                    ]
+                },
+                {
+                    "nepali": "अझै पनि (वर्तमान अवस्थामा)",
+                    "english": "still (in the current state)",
+                    "details": [
+                        "वर्तमान अवस्थालाई निरन्तर राखेर।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "完成",
+        "Nep-meaning": "सम्पन्नता, समाप्त",
+        "sent-Nep": "नयाँ होमपेज सम्पूर्ण भयो।",
+        "mnemonic": "Imagine a superhero named Kansei (完成 - かんせい) who can perfectly complete any task with a snap of his fingers. He finishes building a skyscraper in seconds and stands proudly. 完成 (かんせい) means 'completion' or 'perfection' in Japanese. Picture him saying, 'Mission complete!'",
+        "explanation": {
+            "word": "完成",
+            "pronunciation": "かんせい",
+            "meanings": [
+                {
+                    "nepali": "सम्पन्नता",
+                    "english": "completion",
+                    "details": [
+                        "कुनै काम वा परियोजनाको सम्पूर्णता।"
+                    ]
+                },
+                {
+                    "nepali": "समाप्त",
+                    "english": "finish",
+                    "details": [
+                        "कुनै कामको अन्तिम चरण।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "変化",
+        "Nep-meaning": "परिवर्तन",
+        "sent-Nep": "यस वर्ष धेरै परिवर्तन भएको वर्ष थियो।",
+        "mnemonic": "Visualize a hen (変 - へん) going through a crazy transformation into a flashy sports car (化 - か). It's the ultimate makeover show! 変化 (へんか) means 'change' or 'transformation' in Japanese. Imagine the hen-car honking, 'Bawk bawk, vroom!'",
+        "explanation": {
+            "word": "変化",
+            "pronunciation": "へんか",
+            "meanings": [
+                {
+                    "nepali": "परिवर्तन",
+                    "english": "change",
+                    "details": [
+                        "कुनै कुरा वा अवस्थामा भएको रूपान्तरण।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "存在",
+        "Nep-meaning": "अस्तित्व",
+        "sent-Nep": "तपाईंलाई लाग्छ कि एलियन्सको अस्तित्व छ?",
+        "mnemonic": "Imagine a giant sun (存 - そん) wearing glasses and reading a book, proving it’s very much alive and present. 存在 (そんざい) means 'existence' or 'being' in Japanese. Picture the sun saying, 'I shine, therefore I am!'",
+        "explanation": {
+            "word": "存在",
+            "pronunciation": "そんざい",
+            "meanings": [
+                {
+                    "nepali": "अस्तित्व",
+                    "english": "existence",
+                    "details": [
+                        "कुनै चीज वा व्यक्तिको वर्तमान अवस्था।"
+                    ]
+                },
+                {
+                    "nepali": "स्थिति",
+                    "english": "being",
+                    "details": [
+                        "कुनै व्यक्तिको अस्तित्व वा उपस्थिति।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "参加",
+        "Nep-meaning": "सहभागिता",
+        "sent-Nep": "भोलि नगर म्याराथनमा सहभागी हुनेछु।",
+        "mnemonic": "Picture a sun (参 - さん) enthusiastically joining a karaoke (加 - か) contest, belting out tunes with a microphone. 参加 (さんか) means 'participation' in Japanese. Imagine the sun singing, 'Joining in on the fun!'",
+        "explanation": {
+            "word": "参加",
+            "pronunciation": "さんか",
+            "meanings": [
+                {
+                    "nepali": "सहभागिता",
+                    "english": "participation",
+                    "details": [
+                        "कुनै गतिविधिमा भाग लिने क्रिया।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "テレビ",
+        "Nep-meaning": "टेलिभिजन",
+        "sent-Nep": "म धेरै टेलिभिजन हेर्दिन।",
+        "mnemonic": "Imagine a TV (テレビ) that comes to life and turns into a giant bee (ビ) that flies around broadcasting shows. テレビ (てれび) means 'television' in Japanese. Picture the bee saying, 'Buzzing with entertainment!'",
+        "explanation": {
+            "word": "テレビ",
+            "pronunciation": "てれび",
+            "meanings": [
+                {
+                    "nepali": "टेलिभिजन",
+                    "english": "television",
+                    "details": [
+                        "दूरसञ्चार माध्यम जसले आवाज र तस्वीरहरू प्रसारण गर्दछ।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "土地",
+        "Nep-meaning": "भूमि",
+        "sent-Nep": "यो मेरो बुवाको भूमि हो।",
+        "mnemonic": "Imagine a toucan (土地 - とち) flying around, proudly showing off its plot of land, planting trees and flowers. 土地 (とち) means 'land' or 'ground' in Japanese. Picture the toucan saying, 'Welcome to my land!'",
+        "explanation": {
+            "word": "土地",
+            "pronunciation": "とち",
+            "meanings": [
+                {
+                    "nepali": "भूमि",
+                    "english": "land",
+                    "details": [
+                        "जमिनको क्षेत्रफल, जुन कुनै व्यक्तिको स्वामित्वमा हुन्छ।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "減る",
+        "Nep-meaning": "घट्नु",
+        "sent-Nep": "मेरो तौल धेरै घट्यो।",
+        "mnemonic": "Visualize a hare (減る - へる) on a diet, shrinking every day until it's a tiny bunny, all while jogging on a treadmill. 減る (へる) means 'to decrease' or 'to reduce' in Japanese. Picture the hare saying, 'Getting smaller and fitter!'",
+        "explanation": {
+            "word": "減る",
+            "pronunciation": "へる",
+            "meanings": [
+                {
+                    "nepali": "घट्नु",
+                    "english": "decrease, diminish",
+                    "details": [
+                        "कुनै वस्तु वा मात्रामा कमी आउनु।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "検討",
+        "Nep-meaning": "विचार, जाँच",
+        "sent-Nep": "कृपया आज यो समस्यालाई विचार गर्नुहोस्।",
+        "mnemonic": "Imagine a detective named Ken (検 - けん) thinking deeply (討 - とう) with a magnifying glass, solving the toughest cases. 検討 (けんとう) means 'consideration' or 'examination' in Japanese. Picture Ken saying, 'Elementary, my dear Watson!'",
+        "explanation": {
+            "word": "検討",
+            "pronunciation": "けんとう",
+            "meanings": [
+                {
+                    "nepali": "विचार",
+                    "english": "consideration",
+                    "details": [
+                        "कुनै विषयमा गहिरो सोच।"
+                    ]
+                },
+                {
+                    "nepali": "जाँच",
+                    "english": "inspection",
+                    "details": [
+                        "कुनै वस्तुको जाँच र समीक्षा।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "政治",
+        "Nep-meaning": "राजनीति",
+        "sent-Nep": "मलाई राजनीतिमा चासो छ।",
+        "mnemonic": "Imagine a sage (政治 - せいじ) giving a speech in front of a giant cheese wheel, discussing important political issues. 政治 (せいじ) means 'politics' in Japanese. Picture the sage saying, 'Cheese for all in my political agenda!'",
+        "explanation": {
+            "word": "政治",
+            "pronunciation": "せいじ",
+            "meanings": [
+                {
+                    "nepali": "राजनीति",
+                    "english": "politics",
+                    "details": [
+                        "देश वा समाजको प्रशासनिक प्रणाली।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "実施",
+        "Nep-meaning": "कार्यान्वयन",
+        "sent-Nep": "हाल, विशेष अभियान कार्यान्वयनमा छ।",
+        "mnemonic": "Visualize a genie (実 - じつ) granting wishes by giving people umbrellas (施 - し) to implement a rain-free day. 実施 (じっし) means 'implementation' or 'enforcement' in Japanese. Imagine the genie saying, 'Your wish for implementation is my command!'",
+        "explanation": {
+            "word": "実施",
+            "pronunciation": "じっし",
+            "meanings": [
+                {
+                    "nepali": "कार्यान्वयन",
+                    "english": "enforcement",
+                    "details": [
+                        "कुनै योजना वा नियमलाई कार्यान्वयन गर्नु।"
+                    ]
+                },
+                {
+                    "nepali": "अमल",
+                    "english": "implementation",
+                    "details": [
+                        "कुनै कुरा लागू गर्नु।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "開始",
+        "Nep-meaning": "सुरू",
+        "sent-Nep": "खेलकुद प्रतियोगिता बिहान ९ बजे सुरू हुन्छ।",
+        "mnemonic": "Imagine a giant kite (開始 - かいし) signaling the start of a big festival, soaring high in the sky. 開始 (かいし) means 'start' or 'commencement' in Japanese. Picture the kite saying, 'Let the festivities begin!'",
+        "explanation": {
+            "word": "開始",
+            "pronunciation": "かいし",
+            "meanings": [
+                {
+                    "nepali": "सुरू",
+                    "english": "beginning",
+                    "details": [
+                        "कुनै कामको प्रारम्भ।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "備える",
+        "Nep-meaning": "तयार गर्नु, व्यवस्था गर्नु",
+        "sent-Nep": "प्राकृतिक प्रकोपको तयारीका लागि धेरै पानी किनें।",
+        "mnemonic": "Visualize a bear (備 - び) preparing (備える - そなえる) for hibernation, gathering supplies and making lists. 備える (そなえる) means 'to prepare' or 'to equip' in Japanese. Picture the bear saying, 'Gotta be prepared for winter!'",
+        "explanation": {
+            "word": "備える",
+            "pronunciation": "そなえる",
+            "meanings": [
+                {
+                    "nepali": "तयार गर्नु",
+                    "english": "provide for",
+                    "details": [
+                        "कुनै स्थिति वा घटनाका लागि तयार हुनु।"
+                    ]
+                },
+                {
+                    "nepali": "व्यवस्था गर्नु",
+                    "english": "furnish",
+                    "details": [
+                        "आवश्यक वस्तुहरू जुटाउनु।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "輸入",
+        "Nep-meaning": "आयात",
+        "sent-Nep": "यो इटालीबाट आयात गरिएको लुगा हो।",
+        "mnemonic": "Imagine a giant UFO (輸 - ゆ) importing noodles (入 - にゅう) from space, delivering them to Earth. 輸入 (ゆにゅう) means 'import' in Japanese. Picture the UFO saying, 'Intergalactic noodle import service!'",
+        "explanation": {
+            "word": "輸入",
+            "pronunciation": "ゆにゅう",
+            "meanings": [
+                {
+                    "nepali": "आयात",
+                    "english": "import",
+                    "details": [
+                        "विदेशी सामान ल्याउनु।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "最大",
+        "Nep-meaning": "सबैभन्दा ठूलो",
+        "sent-Nep": "यो संसारको सबैभन्दा ठूलो जहाज हो।",
+        "mnemonic": "Picture a massive max-sized (最大 - さいだい) daikon radish winning a giant vegetable contest. 最大 (さいだい) means 'maximum' or 'largest' in Japanese. Imagine the radish saying, 'I’m the biggest of them all!'",
+        "explanation": {
+            "word": "最大",
+            "pronunciation": "さいだい",
+            "meanings": [
+                {
+                    "nepali": "सबैभन्दा ठूलो",
+                    "english": "biggest",
+                    "details": [
+                        "सबैभन्दा ठूलो आकार वा परिमाण।"
+                    ]
+                },
+                {
+                    "nepali": "विशाल",
+                    "english": "largest",
+                    "details": [
+                        "विस्तृत वा महान् परिमाण।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "競争",
+        "Nep-meaning": "प्रतिस्पर्धा",
+        "sent-Nep": "दुई कम्पनीहरू एकअर्कासँग प्रतिस्पर्धा गर्दैछन्।",
+        "mnemonic": "Visualize two crazy cows (競 - きょう) racing in a competition (争 - そう) to win a golden trophy. 競争 (きょうそう) means 'competition' in Japanese. Picture the cows saying, 'May the best cow win!'",
+        "explanation": {
+            "word": "競争",
+            "pronunciation": "きょうそう",
+            "meanings": [
+                {
+                    "nepali": "प्रतिस्पर्धा",
+                    "english": "competition",
+                    "details": [
+                        "कुनै लक्ष्यमा पुग्न दुई वा दुईभन्दा बढी व्यक्तिहरू बीचको संघर्ष।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "部分",
+        "Nep-meaning": "भाग, खण्ड",
+        "sent-Nep": "यो भाग समस्यामुक्त छ।",
+        "mnemonic": "Imagine a giant puzzle (部分 - ぶぶん) with each piece representing a different part of a story. 部分 (ぶぶん) means 'part' or 'section' in Japanese. Picture the puzzle pieces saying, 'We’re all parts of the whole!'",
+        "explanation": {
+            "word": "部分",
+            "pronunciation": "ぶぶん",
+            "meanings": [
+                {
+                    "nepali": "भाग",
+                    "english": "part",
+                    "details": [
+                        "कुनै वस्तु वा संरचनाको एउटा हिस्सा।"
+                    ]
+                },
+                {
+                    "nepali": "खण्ड",
+                    "english": "section",
+                    "details": [
+                        "कुनै वस्तु वा संरचनाको उपविभाग।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "消える",
+        "Nep-meaning": "मेटिनु, हराउनु",
+        "sent-Nep": "अचानक बत्ती मेटियो।",
+        "mnemonic": "Imagine a magical koala (消 - き) disappearing (消える - きえる) in a puff of smoke during a magic show. 消える (きえる) means 'to disappear' or 'to vanish' in Japanese. Picture the koala saying, 'Now you see me, now you don’t!'",
+        "explanation": {
+            "word": "消える",
+            "pronunciation": "きえる",
+            "meanings": [
+                {
+                    "nepali": "मेटिनु",
+                    "english": "be extinguished",
+                    "details": [
+                        "केही वस्तु वा उज्यालो बन्द हुनु।"
+                    ]
+                },
+                {
+                    "nepali": "हराउनु",
+                    "english": "disappear",
+                    "details": [
+                        "कुनै वस्तु वा व्यक्ति दृश्यबाट हट्नु।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "家族",
+        "Nep-meaning": "परिवार, घर",
+        "sent-Nep": "हामी पाँच जनाको परिवार हौं।",
+        "mnemonic": "Visualize a family of kazoo-playing (家 - か) zebras (族 - ぞく) having a fun concert together. 家族 (かぞく) means 'family' in Japanese. Picture the zebras saying, 'Let’s play together as a family!'",
+        "explanation": {
+            "word": "家族",
+            "pronunciation": "かぞく",
+            "meanings": [
+                {
+                    "nepali": "परिवार",
+                    "english": "family",
+                    "details": [
+                        "रक्त सम्बन्ध वा विवाहद्वारा सम्बन्धित व्यक्तिहरूको समूह।"
+                    ]
+                },
+                {
+                    "nepali": "घर",
+                    "english": "household",
+                    "details": [
+                        "एउटै घरमा बस्ने व्यक्तिहरूको समूह।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "内容",
+        "Nep-meaning": "सामग्री, विषयवस्तु",
+        "sent-Nep": "यस पुस्तकको सामग्री वर्णन गर्नुहोस्।",
+        "mnemonic": "Imagine a giant book (内 - ない) filled with yogurt (容 - よう), with each page revealing delicious secrets. 内容 (ないよう) means 'content' in Japanese. Picture the book saying, 'Yummy secrets inside!'",
+        "explanation": {
+            "word": "内容",
+            "pronunciation": "ないよう",
+            "meanings": [
+                {
+                    "nepali": "सामग्री",
+                    "english": "contents",
+                    "details": [
+                        "कुनै वस्तु वा लेखको सामग्री वा विवरण।"
+                    ]
+                },
+                {
+                    "nepali": "विषयवस्तु",
+                    "english": "subject matter",
+                    "details": [
+                        "कुनै लेख, पुस्तक वा छलफलको मुख्य विषय।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "比べる",
+        "Nep-meaning": "तुलना गर्नु",
+        "sent-Nep": "यो महिना र गत महिनाको बिक्री तुलना गरियो।",
+        "mnemonic": "Picture two burritos (比 - くら) being compared (比べる - くらべる) in a taste test to see which one is better. 比べる (くらべる) means 'to compare' in Japanese. Picture the burritos saying, 'Who’s tastier?'",
+        "explanation": {
+            "word": "比べる",
+            "pronunciation": "くらべる",
+            "meanings": [
+                {
+                    "nepali": "तुलना गर्नु",
+                    "english": "compare",
+                    "details": [
+                        "दुई वा दुई भन्दा बढी वस्तुहरूका विशेषताहरूको तुलना गर्नु।"
+                    ]
+                },
+                {
+                    "nepali": "मूल्याङ्कन गर्नु",
+                    "english": "contrast",
+                    "details": [
+                        "दुई वा दुई भन्दा बढी वस्तुहरूको भिन्नता तुलना गर्नु।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "生まれる",
+        "Nep-meaning": "जन्मनु",
+        "sent-Nep": "मेरो दिदीभिनाजुको एउटा छोरा जन्मियो।",
+        "mnemonic": "Imagine a bear (生 - う) giving birth (生まれる - うまれる) to a bunch of tiny cubs, all popping out of eggs. 生まれる (うまれる) means 'to be born' in Japanese. Picture the bear saying, 'Welcome to the world, cubs!'",
+        "explanation": {
+            "word": "生まれる",
+            "pronunciation": "うまれる",
+            "meanings": [
+                {
+                    "nepali": "जन्मनु",
+                    "english": "be born",
+                    "details": [
+                        "कुनै व्यक्तिको जन्म हुनु।"
+                    ]
+                },
+                {
+                    "nepali": "उत्पन्न हुनु",
+                    "english": "come into existence",
+                    "details": [
+                        "कुनै नयाँ वस्तु वा विचारको उत्पत्ति हुनु।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "与える",
+        "Nep-meaning": "दिनु",
+        "sent-Nep": "त्यो समाचारले उसलाई ठूलो झटका दियो।",
+        "mnemonic": "Visualize a yo-yo (与 - あた) being given (与える - あたえる) to a happy child as a gift. 与える (あたえる) means 'to give' in Japanese. Picture the child saying, 'Thank you for the yo-yo!'",
+        "explanation": {
+            "word": "与える",
+            "pronunciation": "あたえる",
+            "meanings": [
+                {
+                    "nepali": "दिनु",
+                    "english": "give",
+                    "details": [
+                        "कसैलाई केही प्रदान गर्नु।"
+                    ]
+                },
+                {
+                    "nepali": "प्रभाव पार्नु",
+                    "english": "affect",
+                    "details": [
+                        "कुनै कुरा वा घटना कसैमा प्रभाव पार्नु।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "選挙",
+        "Nep-meaning": "निर्वाचन",
+        "sent-Nep": "उहाँ निर्वाचनमा उठ्न चाहनुहुन्छ।",
+        "mnemonic": "Imagine a giant senko (選 - せん) stick being used to draw votes (挙 - きょ) during an election. 選挙 (せんきょ) means 'election' in Japanese. Picture the stick saying, 'Vote for me!'",
+        "explanation": {
+            "word": "選挙",
+            "pronunciation": "せんきょ",
+            "meanings": [
+                {
+                    "nepali": "निर्वाचन",
+                    "english": "election",
+                    "details": [
+                        "जनताले आफ्नो प्रतिनिधि चयन गर्न मतदान गर्ने प्रक्रिया।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "対立",
+        "Nep-meaning": "विरोध, प्रतिद्वन्द्विता",
+        "sent-Nep": "ती दुई कम्पनीहरू एकअर्काको विरोधमा छन्।",
+        "mnemonic": "Picture two tigers (対 - たい) facing off in a dramatic standoff (立 - りつ). 対立 (たいりつ) means 'confrontation' or 'opposition' in Japanese. Imagine the tigers saying, 'Let’s settle this!'",
+        "explanation": {
+            "word": "対立",
+            "pronunciation": "たいりつ",
+            "meanings": [
+                {
+                    "nepali": "विरोध",
+                    "english": "opposition",
+                    "details": [
+                        "कुनै विचार, प्रस्ताव वा व्यक्तिको विरोध गर्नु।"
+                    ]
+                },
+                {
+                    "nepali": "प्रतिद्वन्द्विता",
+                    "english": "antagonism",
+                    "details": [
+                        "दुई वा दुईभन्दा बढी पक्षहरूको बीचमा हुने प्रतिद्वन्द्विता।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "理由",
+        "Nep-meaning": "कारण",
+        "sent-Nep": "किन ढिलो भएको भन्ने कारण बताउनुहोस्।",
+        "mnemonic": "Visualize a lion (理 - り) and a unicorn (由 - ゆう) debating the reasons for why they should be king. 理由 (りゆう) means 'reason' in Japanese. Picture them saying, 'The reason is obvious!'",
+        "explanation": {
+            "word": "理由",
+            "pronunciation": "りゆう",
+            "meanings": [
+                {
+                    "nepali": "कारण",
+                    "english": "reason",
+                    "details": [
+                        "कुनै घटनाको कारण।"
+                    ]
+                },
+                {
+                    "nepali": "कारक",
+                    "english": "cause",
+                    "details": [
+                        "कुनै परिणाम ल्याउने कारक।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "構成",
+        "Nep-meaning": "संरचना, संगठन",
+        "sent-Nep": "मैले प्रणालीको संरचना परिवर्तन गरें।",
+        "mnemonic": "Imagine a construction crew (構 - こう) building a giant sandcastle (成 - せい) on the beach, with each member knowing their role. 構成 (こうせい) means 'composition' or 'organization' in Japanese. Picture them saying, 'Building together perfectly!'",
+        "explanation": {
+            "word": "構成",
+            "pronunciation": "こうせい",
+            "meanings": [
+                {
+                    "nepali": "संरचना",
+                    "english": "organization",
+                    "details": [
+                        "कुनै वस्तुको बनावट वा संरचना।"
+                    ]
+                },
+                {
+                    "nepali": "संगठन",
+                    "english": "constitution",
+                    "details": [
+                        "कुनै समूह वा प्रणालीको गठन।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "管理",
+        "Nep-meaning": "व्यवस्थापन, प्रशासन",
+        "sent-Nep": "उहाँले मेरो तालिका व्यवस्थापन गर्नुहुन्छ।",
+        "mnemonic": "Picture a kangaroo (管 - かん) with a clipboard managing (理 - り) a bustling zoo. 管理 (かんり) means 'management' or 'control' in Japanese. Imagine the kangaroo saying, 'Everything under control!'",
+        "explanation": {
+            "word": "管理",
+            "pronunciation": "かんり",
+            "meanings": [
+                {
+                    "nepali": "व्यवस्थापन",
+                    "english": "management",
+                    "details": [
+                        "स्रोतहरू, प्रक्रियाहरू, र मानिसहरूको समुचित नियन्त्रण र समन्वय।"
+                    ]
+                },
+                {
+                    "nepali": "प्रशासन",
+                    "english": "administration",
+                    "details": [
+                        "कुनै संगठन वा प्रणालीको सञ्चालन र व्यवस्थापन।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "増加",
+        "Nep-meaning": "वृद्धि",
+        "sent-Nep": "द्वीपको जनसंख्या हरेक वर्ष बढ्दैछ।",
+        "mnemonic": "Imagine a giant zookeeper (増 - ぞう) adding more and more animals (加 - か) to the zoo. 増加 (ぞうか) means 'increase' in Japanese. Picture the zookeeper saying, 'More animals, more fun!'",
+        "explanation": {
+            "word": "増加",
+            "pronunciation": "ぞうか",
+            "meanings": [
+                {
+                    "nepali": "वृद्धि",
+                    "english": "increase",
+                    "details": [
+                        "कुनै वस्तु, परिमाण, वा जनसंख्याको बृद्धि।"
+                    ]
+                },
+                {
+                    "nepali": "वृद्धि हुनु",
+                    "english": "gain",
+                    "details": [
+                        "परिमाणमा वृद्धि हुनु।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "改革",
+        "Nep-meaning": "सुधार",
+        "sent-Nep": "उहाँ प्रशासनलाई सुधार गर्न चाहनुहुन्छ।",
+        "mnemonic": "Picture a kaiju (改革 - かいかく) monster transforming (reforming) the city with a giant magic wand. 改革 (かいかく) means 'reform' in Japanese. Imagine the kaiju saying, 'Reforming the world!'",
+        "explanation": {
+            "word": "改革",
+            "pronunciation": "かいかく",
+            "meanings": [
+                {
+                    "nepali": "सुधार",
+                    "english": "reform",
+                    "details": [
+                        "कुनै प्रणाली, संगठन, वा प्रक्रियामा सुधार गर्नु।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "会談",
+        "Nep-meaning": "वार्ता, बैठक",
+        "sent-Nep": "वार्ताको सामग्री घोषणा गरियो।",
+        "mnemonic": "Imagine a giant danish pastry (談 - だん) hosting a meeting (会 - かい) with other pastries discussing their plans. 会談 (かいだん) means 'meeting' or 'conference' in Japanese. Picture the pastry saying, 'Let’s discuss over coffee!'",
+        "explanation": {
+            "word": "会談",
+            "pronunciation": "かいだん",
+            "meanings": [
+                {
+                    "nepali": "वार्ता",
+                    "english": "conversation",
+                    "details": [
+                        "दुई वा दुईभन्दा बढी व्यक्तिहरू बीचको औपचारिक छलफल।"
+                    ]
+                },
+                {
+                    "nepali": "बैठक",
+                    "english": "meeting",
+                    "details": [
+                        "कुनै विशेष उद्देश्यका लागि आयोजना गरिएको सभा।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "会長",
+        "Nep-meaning": "अध्यक्ष, सभापति",
+        "sent-Nep": "पहिले अध्यक्षले अभिवादन गर्नुभयो।",
+        "mnemonic": "Picture a giant choo-choo train (長 - ちょう) being the chairman (会 - かい) of a train company. 会長 (かいちょう) means 'chairman' in Japanese. Imagine the train saying, 'All aboard the leadership train!'",
+        "explanation": {
+            "word": "会長",
+            "pronunciation": "かいちょう",
+            "meanings": [
+                {
+                    "nepali": "अध्यक्ष",
+                    "english": "president",
+                    "details": [
+                        "कुनै संगठनको प्रमुख।"
+                    ]
+                },
+                {
+                    "nepali": "सभापति",
+                    "english": "chairperson",
+                    "details": [
+                        "कुनै सभा वा समितिको अध्यक्षता गर्ने व्यक्ति।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "ソフト",
+        "Nep-meaning": "सफ्टवेयर",
+        "sent-Nep": "यो सफ्टवेयरले जापानी भाषा सिक्न सकिन्छ।",
+        "mnemonic": "Imagine a soft-serve ice cream (ソフト) that can also function as a computer software. ソフト (そふと) means 'software' in Japanese. Picture the ice cream saying, 'I’m delicious and useful!'",
+        "explanation": {
+            "word": "ソフト",
+            "pronunciation": "そふと",
+            "meanings": [
+                {
+                    "nepali": "सफ्टवेयर",
+                    "english": "software",
+                    "details": [
+                        "कम्प्युटर प्रोग्रामहरू र डेटा।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "提供",
+        "Nep-meaning": "प्रदान, प्रस्ताव",
+        "sent-Nep": "उहाँले पार्टी स्थल प्रदान गर्नुभयो।",
+        "mnemonic": "Imagine a koala (供 - きょう) offering (提供 - ていきょう) you a cup of tea. 提供 (ていきょう) means 'offer' or 'supply' in Japanese. Picture the koala saying, 'Tea for you!'",
+        "explanation": {
+            "word": "提供",
+            "pronunciation": "ていきょう",
+            "meanings": [
+                {
+                    "nepali": "प्रदान",
+                    "english": "offer",
+                    "details": [
+                        "कुनै सेवा वा वस्तु प्रदान गर्नु।"
+                    ]
+                },
+                {
+                    "nepali": "प्रस्ताव",
+                    "english": "provide",
+                    "details": [
+                        "आवश्यकताहरू पूरा गर्ने प्रस्ताव गर्नु।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "ただ",
+        "Nep-meaning": "निःशुल्क",
+        "sent-Nep": "यो तातोपानी निःशुल्क छ।",
+        "mnemonic": "Visualize a pirate (ただ) who insists everything should be free, giving away treasure chests. ただ means 'free' or 'only' in Japanese. Picture the pirate saying, 'Free for all!'",
+        "explanation": {
+            "word": "ただ",
+            "pronunciation": "ただ",
+            "meanings": [
+                {
+                    "nepali": "निःशुल्क",
+                    "english": "free",
+                    "details": [
+                        "कुनै मूल्य नलाग्ने।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "これら",
+        "Nep-meaning": "यी",
+        "sent-Nep": "आज हामी यी समस्याहरूको बारेमा छलफल गर्छौं।",
+        "mnemonic": "Imagine a bunch of corgis (これ) saying 'Here are these things' while pointing to various objects. これら (これら) means 'these' in Japanese. Picture the corgis saying, 'These are ours!'",
+        "explanation": {
+            "word": "これら",
+            "pronunciation": "これら",
+            "meanings": [
+                {
+                    "nepali": "यी",
+                    "english": "these",
+                    "details": [
+                        "कुनै निश्चित कुराहरू।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "広がる",
+        "Nep-meaning": "फैलिनु, पुग्नु",
+        "sent-Nep": "विद्यार्थी भएपछि मेरो संसार फैलियो।",
+        "mnemonic": "Picture a hippo (広 - ひろ) spreading (広がる - ひろがる) its arms wide to show how far things can spread. 広がる (ひろがる) means 'to spread' in Japanese. Imagine the hippo saying, 'Spreading far and wide!'",
+        "explanation": {
+            "word": "広がる",
+            "pronunciation": "ひろがる",
+            "meanings": [
+                {
+                    "nepali": "फैलिनु",
+                    "english": "spread out",
+                    "details": [
+                        "कुनै कुरा विस्तार हुनु।"
+                    ]
+                },
+                {
+                    "nepali": "पुग्नु",
+                    "english": "reach",
+                    "details": [
+                        "कुनै कुरा विस्तार भएर पुग्नु।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "特徴",
+        "Nep-meaning": "विशेषता, चरित्र",
+        "sent-Nep": "यो कारको यो वक्र रेखा यसको विशेषता हो।",
+        "mnemonic": "Imagine a talking choco-chip (特徴 - とくちょう) cookie explaining its unique features. 特徴 (とくちょう) means 'feature' or 'characteristic' in Japanese. Picture the cookie saying, 'I’m special because of my choco-chips!'",
+        "explanation": {
+            "word": "特徴",
+            "pronunciation": "とくちょう",
+            "meanings": [
+                {
+                    "nepali": "विशेषता",
+                    "english": "distinctive feature",
+                    "details": [
+                        "कुनै वस्तु वा व्यक्तिको विशेष गुण।"
+                    ]
+                },
+                {
+                    "nepali": "चरित्र",
+                    "english": "characteristic",
+                    "details": [
+                        "कुनै वस्तु वा व्यक्तिको विशिष्टता।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "調べる",
+        "Nep-meaning": "अनुसन्धान गर्नु, जाँच गर्नु",
+        "sent-Nep": "यस शब्दको अर्थ शब्दकोशमा जाँचौं।",
+        "mnemonic": "Imagine a detective shrimp (調 - しら) investigating (調べる - しらべる) a crime scene with a magnifying glass. 調べる (しらべる) means 'to investigate' or 'to look into' in Japanese. Picture the shrimp saying, 'Investigation is on!'",
+        "explanation": {
+            "word": "調べる",
+            "pronunciation": "しらべる",
+            "meanings": [
+                {
+                    "nepali": "अनुसन्धान गर्नु",
+                    "english": "investigate",
+                    "details": [
+                        "कुनै विषय वा समस्याको बारेमा गहिरो अनुसन्धान गर्नु।"
+                    ]
+                },
+                {
+                    "nepali": "जाँच गर्नु",
+                    "english": "check",
+                    "details": [
+                        "कुनै वस्तु वा कुराको सटीकता वा स्थिति जाँच गर्नु।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "強調",
+        "Nep-meaning": "जोड, बलियो बनाउनु",
+        "sent-Nep": "उहाँले राम्रो पक्ष मात्र जोड दिनुभयो।",
+        "mnemonic": "Picture a kangaroo (強 - きょう) emphasizing (強調 - きょうちょう) how strong it is by lifting weights. 強調 (きょうちょう) means 'emphasis' in Japanese. Imagine the kangaroo saying, 'I emphasize strength!'",
+        "explanation": {
+            "word": "強調",
+            "pronunciation": "きょうちょう",
+            "meanings": [
+                {
+                    "nepali": "जोड",
+                    "english": "emphasis",
+                    "details": [
+                        "कुनै कुरा वा बिन्दुलाई जोड दिनु।"
+                    ]
+                },
+                {
+                    "nepali": "बलियो बनाउनु",
+                    "english": "stress",
+                    "details": [
+                        "कुनै कुरा वा बिन्दुलाई विशेष महत्व दिनु।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "制度",
+        "Nep-meaning": "प्रणाली, संगठन",
+        "sent-Nep": "भोलि नयाँ प्रणाली सुरु हुनेछ।",
+        "mnemonic": "Imagine a sage (制 - せい) setting up a giant domino (度 - ど) system that falls perfectly in order. 制度 (せいど) means 'system' or 'institution' in Japanese. Picture the sage saying, 'System in place!'",
+        "explanation": {
+            "word": "制度",
+            "pronunciation": "せいど",
+            "meanings": [
+                {
+                    "nepali": "प्रणाली",
+                    "english": "system",
+                    "details": [
+                        "कुनै संस्था वा समाजको सञ्चालनको विधि वा संरचना।"
+                    ]
+                },
+                {
+                    "nepali": "संगठन",
+                    "english": "organization",
+                    "details": [
+                        "कुनै संस्था वा समाजको संरचना।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "方針",
+        "Nep-meaning": "नीति, दिशा",
+        "sent-Nep": "अबको नीति निर्णय भयो।",
+        "mnemonic": "Visualize a compass (方 - ほう) pointing to a shiny (針 - しん) goal, guiding you. 方針 (ほうしん) means 'policy' or 'direction' in Japanese. Imagine the compass saying, 'This is the way!'",
+        "explanation": {
+            "word": "方針",
+            "pronunciation": "ほうしん",
+            "meanings": [
+                {
+                    "nepali": "नीति",
+                    "english": "policy",
+                    "details": [
+                        "कुनै संस्थाको लक्ष्य वा उद्देश्य पूरा गर्ने योजना।"
+                    ]
+                },
+                {
+                    "nepali": "दिशा",
+                    "english": "course",
+                    "details": [
+                        "कुनै योजना वा मार्गनिर्देशनको दिशा।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "従来",
+        "Nep-meaning": "पूर्व, पुरानो",
+        "sent-Nep": "यो प्रिन्टर पुरानो भन्दा छिटो छ।",
+        "mnemonic": "Imagine a train (従 - じゅう) following the old tracks (従来 - じゅうらい) of tradition. 従来 (じゅうらい) means 'as usual' or 'up until now' in Japanese. Picture the train saying, 'Following the usual path!'",
+        "explanation": {
+            "word": "従来",
+            "pronunciation": "じゅうらい",
+            "meanings": [
+                {
+                    "nepali": "पूर्व",
+                    "english": "former",
+                    "details": [
+                        "पहिलेको समय वा अवस्था।"
+                    ]
+                },
+                {
+                    "nepali": "पुरानो",
+                    "english": "old",
+                    "details": [
+                        "पहिलेको वा अघिल्लो।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "いずれ",
+        "Nep-meaning": "अन्ततः, कहिले",
+        "sent-Nep": "कहिले फेरि भेटौं।",
+        "mnemonic": "Imagine a wizard (いずれ) casting a spell to decide which path to take in the future. いずれ means 'eventually' or 'sooner or later' in Japanese. Picture the wizard saying, 'Eventually, we’ll find the way!'",
+        "explanation": {
+            "word": "いずれ",
+            "pronunciation": "いずれ",
+            "meanings": [
+                {
+                    "nepali": "अन्ततः",
+                    "english": "eventually",
+                    "details": [
+                        "अन्ततः कुनै समयमा।"
+                    ]
+                },
+                {
+                    "nepali": "कहिले",
+                    "english": "sometime",
+                    "details": [
+                        "अज्ञात समयमा।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "事故",
+        "Nep-meaning": "दुर्घटना, घटना",
+        "sent-Nep": "उहाँ दुर्घटनामा घाइते हुनुभयो।",
+        "mnemonic": "Picture a jeep (事 - じ) colliding with a giant cocoa bean (故 - こ) causing a big accident. 事故 (じこ) means 'accident' in Japanese. Imagine the jeep saying, 'Cocoa collision!'",
+        "explanation": {
+            "word": "事故",
+            "pronunciation": "じこ",
+            "meanings": [
+                {
+                    "nepali": "दुर्घटना",
+                    "english": "accident",
+                    "details": [
+                        "अकस्मात हुने दुर्घटना।"
+                    ]
+                },
+                {
+                    "nepali": "घटना",
+                    "english": "incident",
+                    "details": [
+                        "विशेष घटना वा अवस्था।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "電話",
+        "Nep-meaning": "टेलिफोन, फोन कल",
+        "sent-Nep": "पछि फोन गर्छु।",
+        "mnemonic": "Visualize a giant telephone (電話 - でんわ) that roars like a dinosaur whenever it rings. 電話 (でんわ) means 'telephone' in Japanese. Picture the phone saying, 'Dino-call incoming!'",
+        "explanation": {
+            "word": "電話",
+            "pronunciation": "でんわ",
+            "meanings": [
+                {
+                    "nepali": "टेलिफोन",
+                    "english": "telephone",
+                    "details": [
+                        "दूरसञ्चारको साधन।"
+                    ]
+                },
+                {
+                    "nepali": "फोन कल",
+                    "english": "phone call",
+                    "details": [
+                        "फोनबाट गरिने कल।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "外国",
+        "Nep-meaning": "विदेशी देश",
+        "sent-Nep": "आमालाई अझै विदेश जानु भएको छैन।",
+        "mnemonic": "Imagine a giant guy (外 - がい) dressed as a kooky foreigner (外国 - がいこく) waving a flag. 外国 (がいこく) means 'foreign country' in Japanese. Picture the guy saying, 'Welcome to my foreign land!'",
+        "explanation": {
+            "word": "外国",
+            "pronunciation": "がいこく",
+            "meanings": [
+                {
+                    "nepali": "विदेशी देश",
+                    "english": "foreign country",
+                    "details": [
+                        "आफ्नो देश बाहिरको कुनै पनि देश।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "目的",
+        "Nep-meaning": "उद्देश्य, उद्देश्यपूर्ण",
+        "sent-Nep": "उहाँ किन आए भन्ने मलाई थाहा छैन।",
+        "mnemonic": "Visualize a mummy (目 - もく) with a detective hat (的 - てき) searching for its purpose. 目的 (もくてき) means 'purpose' or 'goal' in Japanese. Picture the mummy saying, 'What’s my goal?'",
+        "explanation": {
+            "word": "目的",
+            "pronunciation": "もくてき",
+            "meanings": [
+                {
+                    "nepali": "उद्देश्य",
+                    "english": "object",
+                    "details": [
+                        "कुनै कार्यको लक्ष्य वा उद्देश्य।"
+                    ]
+                },
+                {
+                    "nepali": "उद्देश्यपूर्ण",
+                    "english": "purpose",
+                    "details": [
+                        "कुनै कार्य वा गतिविधिको मुख्य कारण।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "自由",
+        "Nep-meaning": "स्वतन्त्रता",
+        "sent-Nep": "आजको दिन स्वतन्त्र समय छ।",
+        "mnemonic": "Imagine a jester (自 - じ) flying a kite (由 - ゆう) freely in the sky. 自由 (じゆう) means 'freedom' in Japanese. Picture the jester saying, 'Free to fly!'",
+        "explanation": {
+            "word": "自由",
+            "pronunciation": "じゆう",
+            "meanings": [
+                {
+                    "nepali": "स्वतन्त्रता",
+                    "english": "freedom",
+                    "details": [
+                        "बिना प्रतिबन्धको अवस्था।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "資金",
+        "Nep-meaning": "पूँजी, रकम",
+        "sent-Nep": "हामी अहिले विवाहको लागि पूँजी जम्मा गर्दैछौं।",
+        "mnemonic": "Picture a giant can (資 - し) filled with gold coins (金 - きん) representing funds. 資金 (しきん) means 'funds' in Japanese. Picture the can saying, 'Filled with funds!'",
+        "explanation": {
+            "word": "資金",
+            "pronunciation": "しきん",
+            "meanings": [
+                {
+                    "nepali": "पूँजी",
+                    "english": "funds",
+                    "details": [
+                        "आर्थिक स्रोतहरू।"
+                    ]
+                },
+                {
+                    "nepali": "रकम",
+                    "english": "capital",
+                    "details": [
+                        "व्यवसायमा लगानीको लागि चाहिने आर्थिक स्रोत।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "銀行",
+        "Nep-meaning": "बैंक",
+        "sent-Nep": "बैंक तीन बजेसम्म खुल्छ।",
+        "mnemonic": "Imagine a giant piggy bank (銀 - ぎん) that’s actually a dragon (行 - こう) guarding its treasure. 銀行 (ぎんこう) means 'bank' in Japanese. Picture the dragon saying, 'Protecting the bank!'",
+        "explanation": {
+            "word": "銀行",
+            "pronunciation": "ぎんこう",
+            "meanings": [
+                {
+                    "nepali": "बैंक",
+                    "english": "bank",
+                    "details": [
+                        "आर्थिक कारोबारको लागि संस्था।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "事実",
+        "Nep-meaning": "तथ्य, साँचो कुरा",
+        "sent-Nep": "यो सबै साँचो हो?",
+        "mnemonic": "Visualize a genie (事 - じ) presenting facts (事実 - じじつ) on a golden scroll. 事実 (じじつ) means 'fact' in Japanese. Picture the genie saying, 'Here are the facts!'",
+        "explanation": {
+            "word": "事実",
+            "pronunciation": "じじつ",
+            "meanings": [
+                {
+                    "nepali": "तथ्य",
+                    "english": "fact",
+                    "details": [
+                        "कुनै कुरा वा घटनाको वास्तविकता।"
+                    ]
+                },
+                {
+                    "nepali": "साँचो कुरा",
+                    "english": "truth",
+                    "details": [
+                        "कुनै कुरा वा घटनाको सत्यता।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "決定",
+        "Nep-meaning": "निर्णय, स्थिरता",
+        "sent-Nep": "बैठकमा महत्वपूर्ण निर्णय गरियो।",
+        "mnemonic": "Imagine a giant kettle (決 - けつ) deciding (定 - てい) the winner of a tea-making contest. 決定 (けってい) means 'decision' in Japanese. Picture the kettle saying, 'Decision made!'",
+        "explanation": {
+            "word": "決定",
+            "pronunciation": "けってい",
+            "meanings": [
+                {
+                    "nepali": "निर्णय",
+                    "english": "decision",
+                    "details": [
+                        "कुनै कार्य वा योजनाको लागि लिइएको अन्तिम निर्णय।"
+                    ]
+                },
+                {
+                    "nepali": "स्थिरता",
+                    "english": "settlement",
+                    "details": [
+                        "कुनै विवाद वा मुद्दाको अन्तिम स्थिरता।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "方向",
+        "Nep-meaning": "दिशा, मार्ग",
+        "sent-Nep": "ती सबै व्यक्ति एउटै दिशामा हेरिरहेका छन्।",
+        "mnemonic": "Picture a hawk (方 - ほう) flying towards a glowing cornfield (向 - こう). 方向 (ほうこう) means 'direction' in Japanese. Imagine the hawk saying, 'This way to the corn!'",
+        "explanation": {
+            "word": "方向",
+            "pronunciation": "ほうこう",
+            "meanings": [
+                {
+                    "nepali": "दिशा",
+                    "english": "direction",
+                    "details": [
+                        "कुनै स्थान वा गन्तव्यको दिशा।"
+                    ]
+                },
+                {
+                    "nepali": "मार्ग",
+                    "english": "course",
+                    "details": [
+                        "कुनै कार्य वा यात्रा गर्ने मार्ग।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "住宅",
+        "Nep-meaning": "आवास, निवास",
+        "sent-Nep": "यो शान्त आवासीय क्षेत्र हो।",
+        "mnemonic": "Visualize a giant juke-box (住 - じゅう) playing music in a cozy house (宅 - たく). 住宅 (じゅうたく) means 'residence' in Japanese. Picture the juke-box saying, 'Home sweet home!'",
+        "explanation": {
+            "word": "住宅",
+            "pronunciation": "じゅうたく",
+            "meanings": [
+                {
+                    "nepali": "आवास",
+                    "english": "housing",
+                    "details": [
+                        "बसेर बस्ने स्थान।"
+                    ]
+                },
+                {
+                    "nepali": "निवास",
+                    "english": "residence",
+                    "details": [
+                        "रहने स्थान।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "代表",
+        "Nep-meaning": "प्रतिनिधि",
+        "sent-Nep": "उहाँ कक्षाको प्रतिनिधि हुनुहुन्छ।",
+        "mnemonic": "Imagine a giant bear (代 - だい) representing (表 - ひょう) his forest in a grand council. 代表 (だいひょう) means 'representative' in Japanese. Picture the bear saying, 'I represent the forest!'",
+        "explanation": {
+            "word": "代表",
+            "pronunciation": "だいひょう",
+            "meanings": [
+                {
+                    "nepali": "प्रतिनिधि",
+                    "english": "representative",
+                    "details": [
+                        "कुनै समूहको प्रतिनिधित्व गर्ने व्यक्ति।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "激しい",
+        "Nep-meaning": "भीषण, तीव्र",
+        "sent-Nep": "भीषण वर्षा भइरहेको छ।",
+        "mnemonic": "Picture a giant hag (激 - はげ) running a fiery and intense race (激しい - はげしい). 激しい (はげしい) means 'intense' in Japanese. Picture the hag saying, 'Feel the intensity!'",
+        "explanation": {
+            "word": "激しい",
+            "pronunciation": "はげしい",
+            "meanings": [
+                {
+                    "nepali": "भीषण",
+                    "english": "violent",
+                    "details": [
+                        "धेरै बलियो वा उग्र।"
+                    ]
+                },
+                {
+                    "nepali": "तीव्र",
+                    "english": "intense",
+                    "details": [
+                        "धेरै शक्तिशाली वा उग्र।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "株",
+        "Nep-meaning": "सेयर, शेयर",
+        "sent-Nep": "भर्खर सेयर कारोबार सुरु गरें।",
+        "mnemonic": "Imagine a cab (株 - かぶ) filled with stock certificates driving around Wall Street. 株 (かぶ) means 'stock' in Japanese. Picture the cab saying, 'Stocks on the move!'",
+        "explanation": {
+            "word": "株",
+            "pronunciation": "かぶ",
+            "meanings": [
+                {
+                    "nepali": "सेयर",
+                    "english": "stocks",
+                    "details": [
+                        "कुनै कम्पनीको स्वामित्वको हिस्सा।"
+                    ]
+                },
+                {
+                    "nepali": "शेयर",
+                    "english": "shares",
+                    "details": [
+                        "कुनै कम्पनीको स्वामित्वको हिस्सा।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "交渉",
+        "Nep-meaning": "वार्ता, मोलमोलाई",
+        "sent-Nep": "म अहिले मूल्यमा मोलमोलाई गरिरहेको छु।",
+        "mnemonic": "Visualize a cow (交 - こう) negotiating (渉 - しょう) a peace treaty with a sheep. 交渉 (こうしょう) means 'negotiation' in Japanese. Picture the cow saying, 'Let’s negotiate!'",
+        "explanation": {
+            "word": "交渉",
+            "pronunciation": "こうしょう",
+            "meanings": [
+                {
+                    "nepali": "वार्ता",
+                    "english": "negotiation",
+                    "details": [
+                        "दुई पक्षबीचको छलफल।"
+                    ]
+                },
+                {
+                    "nepali": "मोलमोलाई",
+                    "english": "bargaining",
+                    "details": [
+                        "मूल्य वा सर्तहरूमा सम्झौता गर्ने प्रक्रिया।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "結果",
+        "Nep-meaning": "परिणाम",
+        "sent-Nep": "म खेलको परिणाम चाँडै जान्न चाहन्छु।",
+        "mnemonic": "Imagine a koala (結 - けっ) revealing the results (果 - か) of a big experiment. 結果 (けっか) means 'result' in Japanese. Picture the koala saying, 'Here are the results!'",
+        "explanation": {
+            "word": "結果",
+            "pronunciation": "けっか",
+            "meanings": [
+                {
+                    "nepali": "परिणाम",
+                    "english": "result",
+                    "details": [
+                        "कुनै कार्य वा घटनाको अन्तिम स्थिति।"
+                    ]
+                },
+                {
+                    "nepali": "निष्कर्ष",
+                    "english": "outcome",
+                    "details": [
+                        "कुनै प्रक्रिया वा घटनाको अन्तिम स्थिति।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "全体",
+        "Nep-meaning": "समग्र, कुल",
+        "sent-Nep": "समग्रको ८० प्रतिशत पूरा भयो।",
+        "mnemonic": "Visualize a zen master (全 - ぜん) teaching a class about the whole universe (体 - たい). 全体 (ぜんたい) means 'whole' in Japanese. Picture the master saying, 'Understanding the whole!'",
+        "explanation": {
+            "word": "全体",
+            "pronunciation": "ぜんたい",
+            "meanings": [
+                {
+                    "nepali": "समग्र",
+                    "english": "whole",
+                    "details": [
+                        "कुनै वस्तु वा समूहको सम्पूर्ण।"
+                    ]
+                },
+                {
+                    "nepali": "कुल",
+                    "english": "total",
+                    "details": [
+                        "कुनै वस्तु वा समूहको पूर्ण परिमाण।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "後",
+        "Nep-meaning": "पछि, पछाडि",
+        "sent-Nep": "पछि उहाँ प्रधानमन्त्री बन्नुभयो।",
+        "mnemonic": "Imagine a giant goat (後 - ご) following (後 - ご) you around, waiting patiently. 後 (ご) means 'after' in Japanese. Picture the goat saying, 'I’m after you!'",
+        "explanation": {
+            "word": "後",
+            "pronunciation": "あと",
+            "meanings": [
+                {
+                    "nepali": "पछि",
+                    "english": "after",
+                    "details": [
+                        "कुनै समय वा घटनाको पछाडि।"
+                    ]
+                },
+                {
+                    "nepali": "पछाडि",
+                    "english": "afterwards",
+                    "details": [
+                        "कुनै समय वा घटनाको पछाडि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "命令",
+        "Nep-meaning": "आदेश",
+        "sent-Nep": "उहाँले आदेश पालना गर्नुभएन।",
+        "mnemonic": "Picture a lion (命 - めい) giving orders (令 - れい) to a group of zebras. 命令 (めいれい) means 'command' or 'order' in Japanese. Imagine the lion saying, 'Follow my command!'",
+        "explanation": {
+            "word": "命令",
+            "pronunciation": "めいれい",
+            "meanings": [
+                {
+                    "nepali": "आदेश",
+                    "english": "command",
+                    "details": [
+                        "कुनै उच्च अधिकारी वा व्यक्तिबाट दिइएको निर्देशन।"
+                    ]
+                },
+                {
+                    "nepali": "आदेश",
+                    "english": "order",
+                    "details": [
+                        "कुनै कार्य वा गतिविधिका लागि दिइएको निर्देशन।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "十分",
+        "Nep-meaning": "प्रचुर, पर्याप्त",
+        "sent-Nep": "पैसा अझै पनि प्रचुर छ।",
+        "mnemonic": "Visualize a giant ten (十分 - じゅうぶん) delivering ten boxes, saying 'This is enough!' 十分 (じゅうぶん) means 'enough' or 'sufficient' in Japanese. Picture the number saying, 'Ten is enough!'",
+        "explanation": {
+            "word": "十分",
+            "pronunciation": "じゅうぶん",
+            "meanings": [
+                {
+                    "nepali": "प्रचुर",
+                    "english": "plentiful",
+                    "details": [
+                        "प्रचुर मात्रामा भएको।"
+                    ]
+                },
+                {
+                    "nepali": "पर्याप्त",
+                    "english": "sufficient",
+                    "details": [
+                        "कुनै आवश्यकता वा उद्देश्य पूरा गर्न पर्याप्त।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "あまり",
+        "Nep-meaning": "त्यति, धेरै",
+        "sent-Nep": "यो बियर त्यति मिठो छैन।",
+        "mnemonic": "Imagine a giant almond (あまり) that’s too much to handle. あまり means 'too much' in Japanese. Picture the almond saying, 'I’m too much!'",
+        "explanation": {
+            "word": "あまり",
+            "pronunciation": "あまり",
+            "meanings": [
+                {
+                    "nepali": "त्यति",
+                    "english": "(not) much",
+                    "details": [
+                        "कुनै कुरा त्यति धेरै नभएको।"
+                    ]
+                },
+                {
+                    "nepali": "धेरै",
+                    "english": "much",
+                    "details": [
+                        "धेरै मात्रामा।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "経営",
+        "Nep-meaning": "व्यवस्थापन",
+        "sent-Nep": "हाम्रो कम्पनीको व्यवस्थापन राम्रो छ।",
+        "mnemonic": "Picture a king (経 - けい) managing (営 - えい) a giant egg factory. 経営 (けいえい) means 'management' in Japanese. Picture the king saying, 'Managing the eggs!'",
+        "explanation": {
+            "word": "経営",
+            "pronunciation": "けいえい",
+            "meanings": [
+                {
+                    "nepali": "व्यवस्थापन",
+                    "english": "management",
+                    "details": [
+                        "स्रोतहरू, प्रक्रियाहरू, र मानिसहरूको समुचित नियन्त्रण र समन्वय।"
+                    ]
+                },
+                {
+                    "nepali": "सञ्चालन",
+                    "english": "operation",
+                    "details": [
+                        "कुनै व्यवसाय वा संगठनको सञ्चालन।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "原因",
+        "Nep-meaning": "कारण, उत्पत्ति",
+        "sent-Nep": "यो दुर्घटनाको कारण के हो?",
+        "mnemonic": "Imagine a giant genie (原 - げん) identifying the cause (因 - いん) of a magical event. 原因 (げんいん) means 'cause' in Japanese. Picture the genie saying, 'Here’s the cause!'",
+        "explanation": {
+            "word": "原因",
+            "pronunciation": "げんいん",
+            "meanings": [
+                {
+                    "nepali": "कारण",
+                    "english": "cause",
+                    "details": [
+                        "कुनै घटनाको उत्पत्तिको मुख्य कारण।"
+                    ]
+                },
+                {
+                    "nepali": "उत्पत्ति",
+                    "english": "origin",
+                    "details": [
+                        "कुनै वस्तु वा घटनाको उत्पत्ति।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "写真",
+        "Nep-meaning": "फोटो, तस्बिर",
+        "sent-Nep": "फोटो राम्रो सम्झना हुन्छ।",
+        "mnemonic": "Visualize a shark (写 - しゃ) taking photos (真 - しん) underwater with a camera. 写真 (しゃしん) means 'photograph' in Japanese. Picture the shark saying, 'Smile for the photo!'",
+        "explanation": {
+            "word": "写真",
+            "pronunciation": "しゃしん",
+            "meanings": [
+                {
+                    "nepali": "फोटो",
+                    "english": "photograph",
+                    "details": [
+                        "कुनै दृश्य वा व्यक्तिको छायाचित्र।"
+                    ]
+                },
+                {
+                    "nepali": "तस्बिर",
+                    "english": "picture",
+                    "details": [
+                        "कुनै दृश्य वा व्यक्तिको छायाचित्र।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "立場",
+        "Nep-meaning": "स्थिति, दृष्टिकोण",
+        "sent-Nep": "उहाँ आफ्नो स्थिति बुझ्नुहुन्न।",
+        "mnemonic": "Picture a llama (立 - たち) standing proudly in its spot (場 - ば). 立場 (たちば) means 'position' or 'standpoint' in Japanese. Picture the llama saying, 'This is my position!'",
+        "explanation": {
+            "word": "立場",
+            "pronunciation": "たちば",
+            "meanings": [
+                {
+                    "nepali": "स्थिति",
+                    "english": "standpoint",
+                    "details": [
+                        "कुनै विशेष दृष्टिकोण वा स्थिति।"
+                    ]
+                },
+                {
+                    "nepali": "दृष्टिकोण",
+                    "english": "position",
+                    "details": [
+                        "कुनै विशेष दृष्टिकोण वा स्थिति।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "対策",
+        "Nep-meaning": "उपाय, उपाय योजना",
+        "sent-Nep": "संगै उपाय योजना गरौं।",
+        "mnemonic": "Imagine a tie (対 - たい) giving a strategy (策 - さく) presentation to a group of shirts. 対策 (たいさく) means 'countermeasure' or 'strategy' in Japanese. Picture the tie saying, 'Here’s the strategy!'",
+        "explanation": {
+            "word": "対策",
+            "pronunciation": "たいさく",
+            "meanings": [
+                {
+                    "nepali": "उपाय",
+                    "english": "measure",
+                    "details": [
+                        "कुनै समस्याको समाधानका लागि लिइएको उपाय।"
+                    ]
+                },
+                {
+                    "nepali": "उपाय योजना",
+                    "english": "action",
+                    "details": [
+                        "कुनै समस्याको समाधानका लागि गरिने कार्य।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "繰り返す",
+        "Nep-meaning": "पुनरावृत्ति गर्नु, दोहोर्याउनु",
+        "sent-Nep": "उहाँले उस्तै गल्ती पुनरावृत्ति गरिन्।",
+        "mnemonic": "Picture a squirrel (繰 - く) repeatedly (繰り返す - くりかえす) gathering nuts in the same spot. 繰り返す (くりかえす) means 'to repeat' in Japanese. Picture the squirrel saying, 'Repeat and gather!'",
+        "explanation": {
+            "word": "繰り返す",
+            "pronunciation": "くりかえす",
+            "meanings": [
+                {
+                    "nepali": "पुनरावृत्ति गर्नु",
+                    "english": "repeat",
+                    "details": [
+                        "कुनै क्रिया वा प्रक्रियालाई फेरि गर्नु।"
+                    ]
+                },
+                {
+                    "nepali": "दोहोर्याउनु",
+                    "english": "reiterate",
+                    "details": [
+                        "कुनै कुरा फेरि भनिनु वा गरिनु।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "評価",
+        "Nep-meaning": "मूल्याङ्कन, प्रशंसा",
+        "sent-Nep": "हालै उहाँको मूल्याङ्कन बढेको छ।",
+        "mnemonic": "Imagine a hippopotamus (評 - ひょう) evaluating (価 - か) a talent show. 評価 (ひょうか) means 'evaluation' in Japanese. Picture the hippo saying, 'You get a 10!'",
+        "explanation": {
+            "word": "評価",
+            "pronunciation": "ひょうか",
+            "meanings": [
+                {
+                    "nepali": "मूल्याङ्कन",
+                    "english": "evaluation",
+                    "details": [
+                        "कुनै वस्तु, व्यक्ति वा प्रक्रियाको गुणस्तर वा मूल्य निर्धारण।"
+                    ]
+                },
+                {
+                    "nepali": "प्रशंसा",
+                    "english": "appraisal",
+                    "details": [
+                        "कुनै वस्तु वा व्यक्तिको गुणस्तर वा मूल्यको प्रशंसा।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "なお",
+        "Nep-meaning": "अझै, थप",
+        "sent-Nep": "अझै, वर्षा भएमा रद्द गरिनेछ।",
+        "mnemonic": "Visualize a nautilus (なお) saying 'still, there’s more!' while presenting facts. なお means 'still' or 'furthermore' in Japanese. Picture the nautilus saying, 'Still more to come!'",
+        "explanation": {
+            "word": "なお",
+            "pronunciation": "なお",
+            "meanings": [
+                {
+                    "nepali": "अझै",
+                    "english": "still",
+                    "details": [
+                        "अहिलेसम्म पनि।"
+                    ]
+                },
+                {
+                    "nepali": "थप",
+                    "english": "in addition",
+                    "details": [
+                        "अर्को कुरा थप गर्नु।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "計算",
+        "Nep-meaning": "गणना, हिसाब",
+        "sent-Nep": "यो गणना गलत छ।",
+        "mnemonic": "Imagine a calculator (計 - けい) working out the math with a samurai (算 - さん). 計算 (けいさん) means 'calculation' in Japanese. Picture the calculator saying, 'Let’s calculate!'",
+        "explanation": {
+            "word": "計算",
+            "pronunciation": "けいさん",
+            "meanings": [
+                {
+                    "nepali": "गणना",
+                    "english": "calculation",
+                    "details": [
+                        "कुनै संख्याको हिसाब गर्नु।"
+                    ]
+                },
+                {
+                    "nepali": "हिसाब",
+                    "english": "accounting",
+                    "details": [
+                        "अर्थ सम्बन्धी गणना।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "投資",
+        "Nep-meaning": "लगानी",
+        "sent-Nep": "मैले चारवटा कम्पनीमा लगानी गरेको छु।",
+        "mnemonic": "Picture a toaster (投 - とう) making a wise investment (資 - し) in golden bread. 投資 (とうし) means 'investment' in Japanese. Picture the toaster saying, 'Investing in gold!'",
+        "explanation": {
+            "word": "投資",
+            "pronunciation": "とうし",
+            "meanings": [
+                {
+                    "nepali": "लगानी",
+                    "english": "investment",
+                    "details": [
+                        "कुनै कम्पनी वा परियोजनामा पैसा लगाउनु।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "可能",
+        "Nep-meaning": "संभव",
+        "sent-Nep": "२० किलो तौल घटाउनु सम्भव छ भनी तपाईं सोच्नुहुन्छ?",
+        "mnemonic": "Visualize a kangaroo (可 - か) holding a sign saying 'possible' (能 - のう). 可能 (かのう) means 'possible' in Japanese. Picture the kangaroo saying, 'Anything is possible!'",
+        "explanation": {
+            "word": "可能",
+            "pronunciation": "かのう",
+            "meanings": [
+                {
+                    "nepali": "संभव",
+                    "english": "possible",
+                    "details": [
+                        "केही गर्न सकिने।"
+                    ]
+                },
+                {
+                    "nepali": "संभावना",
+                    "english": "potential",
+                    "details": [
+                        "केही गर्न सकिने सम्भावना।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "加える",
+        "Nep-meaning": "थप्नु, समावेश गर्नु",
+        "sent-Nep": "नुन, मरिच थप्नुहोस्।",
+        "mnemonic": "Imagine a koala (加 - くわ) adding (加える - くわえる) toppings to its pizza. 加える (くわえる) means 'to add' in Japanese. Picture the koala saying, 'Add more toppings!'",
+        "explanation": {
+            "word": "加える",
+            "pronunciation": "くわえる",
+            "meanings": [
+                {
+                    "nepali": "थप्नु",
+                    "english": "add",
+                    "details": [
+                        "केही कुरा थप्नु।"
+                    ]
+                },
+                {
+                    "nepali": "समावेश गर्नु",
+                    "english": "include",
+                    "details": [
+                        "केही कुरा समावेश गर्नु।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "種類",
+        "Nep-meaning": "प्रकार, जात",
+        "sent-Nep": "गुलाबका विभिन्न प्रकार छन्।",
+        "mnemonic": "Picture a giant shrimp (種 - しゅ) showcasing various types (類 - るい) of shells. 種類 (しゅるい) means 'type' or 'kind' in Japanese. Picture the shrimp saying, 'Variety is the spice!'",
+        "explanation": {
+            "word": "種類",
+            "pronunciation": "しゅるい",
+            "meanings": [
+                {
+                    "nepali": "प्रकार",
+                    "english": "kind",
+                    "details": [
+                        "कुनै वस्तुको विविधता।"
+                    ]
+                },
+                {
+                    "nepali": "जात",
+                    "english": "species",
+                    "details": [
+                        "जीवहरूको विविधता।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "強化",
+        "Nep-meaning": "मजबूत, सुदृढ",
+        "sent-Nep": "देशले मातृभाषा शिक्षालाई सुदृढ गरिरहेको छ।",
+        "mnemonic": "Imagine a kangaroo (強 - きょう) strengthening (化 - か) its muscles by lifting weights. 強化 (きょうか) means 'strengthening' in Japanese. Picture the kangaroo saying, 'Building strength!'",
+        "explanation": {
+            "word": "強化",
+            "pronunciation": "きょうか",
+            "meanings": [
+                {
+                    "nepali": "मजबूत",
+                    "english": "strengthening",
+                    "details": [
+                        "केही कुरा अझ बलियो बनाउनु।"
+                    ]
+                },
+                {
+                    "nepali": "सुदृढ",
+                    "english": "reinforcement",
+                    "details": [
+                        "केही कुरा अझ बलियो बनाउन थप्नु।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "意見",
+        "Nep-meaning": "विचार, मत",
+        "sent-Nep": "तपाईंको विचार सुन्न चाहन्छु।",
+        "mnemonic": "Visualize an eagle (意 - い) sharing its opinion (見 - けん) loudly from the sky. 意見 (いけん) means 'opinion' in Japanese. Picture the eagle saying, 'Here’s my opinion!'",
+        "explanation": {
+            "word": "意見",
+            "pronunciation": "いけん",
+            "meanings": [
+                {
+                    "nepali": "विचार",
+                    "english": "opinion",
+                    "details": [
+                        "कुनै विषयमा व्यक्त गरिएको विचार।"
+                    ]
+                },
+                {
+                    "nepali": "मत",
+                    "english": "view",
+                    "details": [
+                        "कुनै विषयमा व्यक्त गरिएको दृष्टिकोण।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "伴う",
+        "Nep-meaning": "साथमा हुनु, साथमा लिने",
+        "sent-Nep": "त्यो काम खतरासँग हुन्छ।",
+        "mnemonic": "Picture a panda (伴 - とも) accompanying (伴う - ともなう) a friend on an adventure. 伴う (ともなう) means 'to accompany' in Japanese. Picture the panda saying, 'I’ll accompany you!'",
+        "explanation": {
+            "word": "伴う",
+            "pronunciation": "ともなう",
+            "meanings": [
+                {
+                    "nepali": "साथमा हुनु",
+                    "english": "accompany",
+                    "details": [
+                        "कुनै कुराको साथमा हुनु।"
+                    ]
+                },
+                {
+                    "nepali": "साथमा लिने",
+                    "english": "go with",
+                    "details": [
+                        "कुनै कुराको साथमा जानु।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "新聞",
+        "Nep-meaning": "समाचारपत्र",
+        "sent-Nep": "आजको समाचारपत्र कहाँ राखिएको छ?",
+        "mnemonic": "Imagine a ninja (新 - しん) reading the morning newspaper (聞 - ぶん). 新聞 (しんぶん) means 'newspaper' in Japanese. Picture the ninja saying, 'Today’s news!'",
+        "explanation": {
+            "word": "新聞",
+            "pronunciation": "しんぶん",
+            "meanings": [
+                {
+                    "nepali": "समाचारपत्र",
+                    "english": "newspaper",
+                    "details": [
+                        "समाचार र जानकारी दिने छापिएको पत्र।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "文章",
+        "Nep-meaning": "लेखन, गद्य",
+        "sent-Nep": "उहाँको लेखन धेरै राम्रो छ।",
+        "mnemonic": "Picture a monkey (文 - ぶん) writing a long essay (章 - しょう) with a banana pen. 文章 (ぶんしょう) means 'essay' or 'writing' in Japanese. Picture the monkey saying, 'Writing my masterpiece!'",
+        "explanation": {
+            "word": "文章",
+            "pronunciation": "ぶんしょう",
+            "meanings": [
+                {
+                    "nepali": "लेखन",
+                    "english": "writing",
+                    "details": [
+                        "लेखिएको सामग्री।"
+                    ]
+                },
+                {
+                    "nepali": "गद्य",
+                    "english": "prose",
+                    "details": [
+                        "गद्यमा लेखिएको साहित्य।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "目立つ",
+        "Nep-meaning": "目立つ",
+        "sent-Nep": "उहाँको ठूलो टोपी धेरै目立つ।",
+        "mnemonic": "Visualize a giant eye (目 - め) standing out (目立つ - めだつ) in a crowd. 目立つ (めだつ) means 'to stand out' in Japanese. Picture the eye saying, 'Look at me!'",
+        "explanation": {
+            "word": "目立つ",
+            "pronunciation": "めだつ",
+            "meanings": [
+                {
+                    "nepali": "目立つ",
+                    "english": "stand out",
+                    "details": [
+                        "धेरै राम्रोसँग目立つ।"
+                    ]
+                },
+                {
+                    "nepali": "प्रमुख हुनु",
+                    "english": "be conspicuous",
+                    "details": [
+                        "सजिलै देखिनु वा目立つ。"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "設計",
+        "Nep-meaning": "डिजाइन, योजना",
+        "sent-Nep": "भाइ जहाज डिजाइन गर्छन्।",
+        "mnemonic": "Imagine a set (設 - せつ) of kites (計 - けい) being carefully designed. 設計 (せっけい) means 'design' in Japanese. Picture the kites saying, 'Designed to fly!'",
+        "explanation": {
+            "word": "設計",
+            "pronunciation": "せっけい",
+            "meanings": [
+                {
+                    "nepali": "डिजाइन",
+                    "english": "design",
+                    "details": [
+                        "कुनै वस्तु वा संरचनाको डिजाइन।"
+                    ]
+                },
+                {
+                    "nepali": "योजना",
+                    "english": "plan",
+                    "details": [
+                        "कुनै वस्तु वा परियोजनाको योजना।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "構造",
+        "Nep-meaning": "संरचना",
+        "sent-Nep": "यो भवनको संरचना जटिल छ।",
+        "mnemonic": "Picture a giant koala (構 - こう) building the structure (造 - ぞう) of a treehouse. 構造 (こうぞう) means 'structure' in Japanese. Picture the koala saying, 'Building the structure!'",
+        "explanation": {
+            "word": "構造",
+            "pronunciation": "こうぞう",
+            "meanings": [
+                {
+                    "nepali": "संरचना",
+                    "english": "construction",
+                    "details": [
+                        "कुनै वस्तु वा संरचनाको निर्माण।"
+                    ]
+                },
+                {
+                    "nepali": "संरचना",
+                    "english": "structure",
+                    "details": [
+                        "कुनै वस्तु वा संरचनाको संरचना।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "国会",
+        "Nep-meaning": "राष्ट्रिय संसद",
+        "sent-Nep": "राष्ट्रिय संसद पुनः सुरु भयो।",
+        "mnemonic": "Imagine a cookie (国 - こく) giving a speech in parliament (会 - かい). 国会 (こっかい) means 'parliament' in Japanese. Picture the cookie saying, 'Parliament is in session!'",
+        "explanation": {
+            "word": "国会",
+            "pronunciation": "こっかい",
+            "meanings": [
+                {
+                    "nepali": "राष्ट्रिय संसद",
+                    "english": "National Diet",
+                    "details": [
+                        "कुनै देशको राष्ट्रिय संसद।"
+                    ]
+                },
+                {
+                    "nepali": "संसद",
+                    "english": "parliament",
+                    "details": [
+                        "कुनै देशको संसद।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "ほぼ",
+        "Nep-meaning": "लगभग",
+        "sent-Nep": "काम लगभग समाप्त भयो।",
+        "mnemonic": "Picture a hobo (ほぼ) almost (ほぼ) finding his treasure. ほぼ means 'almost' in Japanese. Picture the hobo saying, 'Almost there!'",
+        "explanation": {
+            "word": "ほぼ",
+            "pronunciation": "ほぼ",
+            "meanings": [
+                {
+                    "nepali": "लगभग",
+                    "english": "almost",
+                    "details": [
+                        "कुनै कुरा लगभग पूरा हुनु।"
+                    ]
+                },
+                {
+                    "nepali": "लगभग",
+                    "english": "nearly",
+                    "details": [
+                        "कुनै कुरा लगभग पूरा हुनु।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "相手",
+        "Nep-meaning": "प्रतिद्वन्द्वी, साथी",
+        "sent-Nep": "खेलको प्रतिद्वन्द्वी को हो?",
+        "mnemonic": "Visualize an aardvark (相 - あい) with a tennis racket, facing (手 - て) its opponent. 相手 (あいて) means 'opponent' in Japanese. Picture the aardvark saying, 'Ready for the match!'",
+        "explanation": {
+            "word": "相手",
+            "pronunciation": "あいて",
+            "meanings": [
+                {
+                    "nepali": "प्रतिद्वन्द्वी",
+                    "english": "opponent",
+                    "details": [
+                        "खेल वा प्रतिस्पर्धामा प्रतिस्पर्धा गर्ने व्यक्ति।"
+                    ]
+                },
+                {
+                    "nepali": "साथी",
+                    "english": "partner",
+                    "details": [
+                        "कुनै कार्य वा गतिविधिमा सहभागी व्यक्ति।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "発生",
+        "Nep-meaning": "घटना, घटित हुनु",
+        "sent-Nep": "चोकमा दुर्घटना भयो।",
+        "mnemonic": "Imagine a giant hot spring (発 - はっ) suddenly emerging (生 - せい) from the ground. 発生 (はっせい) means 'occurrence' in Japanese. Picture the hot spring saying, 'I just emerged!'",
+        "explanation": {
+            "word": "発生",
+            "pronunciation": "はっせい",
+            "meanings": [
+                {
+                    "nepali": "घटना",
+                    "english": "occurrence",
+                    "details": [
+                        "कुनै घटना हुनु।"
+                    ]
+                },
+                {
+                    "nepali": "घटित हुनु",
+                    "english": "happening",
+                    "details": [
+                        "कुनै घटना घटित हुनु।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "採用",
+        "Nep-meaning": "भर्ना, रोजगारी",
+        "sent-Nep": "त्यो कम्पनीले धेरै महिलालाई भर्ना गरेको छ।",
+        "mnemonic": "Picture a giant Saiyan (採 - さい) from Dragon Ball Z being recruited (用 - よう) for a job. 採用 (さいよう) means 'recruitment' or 'adoption' in Japanese. Picture the Saiyan saying, 'You’re hired!'",
+        "explanation": {
+            "word": "採用",
+            "pronunciation": "さいよう",
+            "meanings": [
+                {
+                    "nepali": "भर्ना",
+                    "english": "employment",
+                    "details": [
+                        "कुनै कम्पनी वा संस्थामा काममा लगाउनु।"
+                    ]
+                },
+                {
+                    "nepali": "रोजगारी",
+                    "english": "recruitment",
+                    "details": [
+                        "कुनै कम्पनी वा संस्थामा नयाँ कर्मचारी भर्ना गर्नु।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "残る",
+        "Nep-meaning": "बाँकी रहनु",
+        "sent-Nep": "धेरै खाना बाँकी रह्यो।",
+        "mnemonic": "Imagine a zombie (残 - のこ) remaining (残る - のこる) at a party long after everyone left. 残る (のこる) means 'to remain' in Japanese. Picture the zombie saying, 'Still here!'",
+        "explanation": {
+            "word": "残る",
+            "pronunciation": "のこる",
+            "meanings": [
+                {
+                    "nepali": "बाँकी रहनु",
+                    "english": "remain",
+                    "details": [
+                        "कुनै कुरा बाँकी रहनु।"
+                    ]
+                },
+                {
+                    "nepali": "बाँकी रहनु",
+                    "english": "be left over",
+                    "details": [
+                        "कुनै कुरा बाँकी रहनु।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "段階",
+        "Nep-meaning": "चरण",
+        "sent-Nep": "यस चरणमा, निर्णय गर्न अझै चाँडो छ।",
+        "mnemonic": "Visualize a giant dancing (段 - だん) kite (階 - かい) representing different stages of a festival. 段階 (だんかい) means 'stage' or 'level' in Japanese. Picture the kite saying, 'Stage one, dance!'",
+        "explanation": {
+            "word": "段階",
+            "pronunciation": "だんかい",
+            "meanings": [
+                {
+                    "nepali": "चरण",
+                    "english": "stage",
+                    "details": [
+                        "कुनै प्रक्रिया वा कार्यको चरण।"
+                    ]
+                },
+                {
+                    "nepali": "चरण",
+                    "english": "phase",
+                    "details": [
+                        "कुनै प्रक्रिया वा कार्यको चरण।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "報告",
+        "Nep-meaning": "रिपोर्ट",
+        "sent-Nep": "हिजोको बैठकको बारेमा रिपोर्ट छ।",
+        "mnemonic": "Imagine a robot (報 - ほう) delivering a report (告 - こく) with a holographic display. 報告 (ほうこく) means 'report' in Japanese. Picture the robot saying, 'Reporting in!'",
+        "explanation": {
+            "word": "報告",
+            "pronunciation": "ほうこく",
+            "meanings": [
+                {
+                    "nepali": "रिपोर्ट",
+                    "english": "report",
+                    "details": [
+                        "कुनै घटनाको लेखाजोखा।"
+                    ]
+                },
+                {
+                    "nepali": "रिपोर्ट",
+                    "english": "documentation",
+                    "details": [
+                        "कुनै घटनाको लेखाजोखा।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "商品",
+        "Nep-meaning": "सामान, वस्तुहरू",
+        "sent-Nep": "यो सामान राम्रोसँग बिक्री भईरहेको छ।",
+        "mnemonic": "Picture a giant shopping cart (商 - しょう) filled with products (品 - ひん). 商品 (しょうひん) means 'product' in Japanese. Picture the cart saying, 'Products galore!'",
+        "explanation": {
+            "word": "商品",
+            "pronunciation": "しょうひん",
+            "meanings": [
+                {
+                    "nepali": "सामान",
+                    "english": "goods",
+                    "details": [
+                        "व्यापारको लागि उत्पादन गरिएको र बिक्री गरिने सामग्री।",
+                        "जस्तै - कपडा, इलेक्ट्रोनिक्स, खाद्य वस्तुहरू आदि।"
+                    ]
+                },
+                {
+                    "nepali": "वस्तुहरू",
+                    "english": "commodities",
+                    "details": [
+                        "व्यापारिक रूपमा आदानप्रदान गरिने प्राथमिक वस्तुहरू।",
+                        "जस्तै - कच्चा तेल, सुन, चाँदी आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "都市",
+        "Nep-meaning": "शहरहरू, शहरी समुदाय",
+        "sent-Nep": "टोकियो जापानको सबैभन्दा ठूलो शहर हो।",
+        "mnemonic": "Imagine a tall tower (都 - と) in a bustling city (市 - し) with people moving everywhere. 都市 (とし) means 'city' in Japanese. Picture the tower saying, 'City life is busy!'",
+        "explanation": {
+            "word": "都市",
+            "pronunciation": "とし",
+            "meanings": [
+                {
+                    "nepali": "शहरहरू",
+                    "english": "cities",
+                    "details": [
+                        "उच्च जनसङ्ख्या र विकास भएको क्षेत्र।",
+                        "जस्तै - काठमाडौं, न्यूयोर्क, टोकियो आदि।"
+                    ]
+                },
+                {
+                    "nepali": "शहरी समुदाय",
+                    "english": "urban community",
+                    "details": [
+                        "शहरमा बसोबास गर्ने मानिसहरूको समूह।",
+                        "जस्तै - शहरी क्षेत्रका बासिन्दाहरू, शहरी संस्कार आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "病院",
+        "Nep-meaning": "अस्पताल",
+        "sent-Nep": "अस्पताल कहाँ छ?",
+        "mnemonic": "Picture a giant bee (病 - びょう) running a hospital (院 - いん) with honey medicine. 病院 (びょういん) means 'hospital' in Japanese. Picture the bee saying, 'Honey heals!'",
+        "explanation": {
+            "word": "病院",
+            "pronunciation": "びょういん",
+            "meanings": [
+                {
+                    "nepali": "अस्पताल",
+                    "english": "hospital",
+                    "details": [
+                        "बिरामीहरूको उपचार र हेरचाह गर्ने स्वास्थ्य संस्था।",
+                        "जस्तै - चिकित्सा उपचार गर्ने ठाउँ, सर्जरी गर्ने ठाउँ आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "規模",
+        "Nep-meaning": "परिमाण, दायरा",
+        "sent-Nep": "यो चिडियाखाना जापानको सबैभन्दा ठूलो परिमाणको छ।",
+        "mnemonic": "Visualize a gigantic kiwi (規 - き) measuring the scale (模 - ぼ) of a project. 規模 (きぼ) means 'scale' or 'scope' in Japanese. Picture the kiwi saying, 'Measuring the scale!'",
+        "explanation": {
+            "word": "規模",
+            "pronunciation": "きぼ",
+            "meanings": [
+                {
+                    "nepali": "परिमाण",
+                    "english": "scale",
+                    "details": [
+                        "केही कुराको आकार वा मापन।",
+                        "जस्तै - परियोजनाको परिमाण, योजनाको परिमाण आदि।"
+                    ]
+                },
+                {
+                    "nepali": "दायरा",
+                    "english": "scope",
+                    "details": [
+                        "केही कुराको फैलावट वा प्रभावको सीमा।",
+                        "जस्तै - अध्ययनको दायरा, परियोजनाको दायरा आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "業者",
+        "Nep-meaning": "व्यवसायी",
+        "sent-Nep": "स्थानान्तरणको लागि व्यवसायीलाई भरपर्दा भयो।",
+        "mnemonic": "Imagine a gecko (業 - ぎょう) as a professional trader (者 - しゃ) in a market. 業者 (ぎょうしゃ) means 'trader' or 'dealer' in Japanese. Picture the gecko saying, 'Trade with me!'",
+        "explanation": {
+            "word": "業者",
+            "pronunciation": "ぎょうしゃ",
+            "meanings": [
+                {
+                    "nepali": "व्यवसायी",
+                    "english": "businessman",
+                    "details": [
+                        "व्यवसाय सञ्चालन गर्ने व्यक्ति।",
+                        "जस्तै - व्यापारी, उद्यमी आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "経験",
+        "Nep-meaning": "अनुभव",
+        "sent-Nep": "आजको खेल राम्रो अनुभव बन्यो।",
+        "mnemonic": "Picture a king (経 - けい) gaining experience (験 - けん) by trying on different crowns. 経験 (けいけん) means 'experience' in Japanese. Picture the king saying, 'Experience makes me wise!'",
+        "explanation": {
+            "word": "経験",
+            "pronunciation": "けいけん",
+            "meanings": [
+                {
+                    "nepali": "अनुभव",
+                    "english": "experience",
+                    "details": [
+                        "कुनै क्रियाकलाप वा घटना मार्फत प्राप्त ज्ञान वा सीप।",
+                        "जस्तै - काम गर्ने अनुभव, यात्रा अनुभव, अध्ययन अनुभव आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "能力",
+        "Nep-meaning": "क्षमता",
+        "sent-Nep": "उहाँ एक क्षमतावान कर्मचारी हुनुहुन्छ।",
+        "mnemonic": "Imagine a ninja (能 - のう) demonstrating its abilities (力 - りょく) by performing incredible stunts. 能力 (のうりょく) means 'ability' in Japanese. Picture the ninja saying, 'Check out my abilities!'",
+        "explanation": {
+            "word": "能力",
+            "pronunciation": "のうりょく",
+            "meanings": [
+                {
+                    "nepali": "क्षमता",
+                    "english": "ability, capacity",
+                    "details": [
+                        "कुनै क्रियाकलाप वा कार्य सम्पादन गर्न सक्ने शक्ति वा दक्षता।",
+                        "जस्तै - अध्ययन क्षमता, खेल क्षमता, काम क्षमता आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "最初",
+        "Nep-meaning": "सुरु",
+        "sent-Nep": "पृष्ठ ५ को सुरुमा हेर्नुहोस्।",
+        "mnemonic": "Picture a samurai (最 - さい) being the first (初 - しょ) to arrive at a duel. 最初 (さいしょ) means 'first' or 'beginning' in Japanese. Picture the samurai saying, 'I’m first!'",
+        "explanation": {
+            "word": "最初",
+            "pronunciation": "さいしょ",
+            "meanings": [
+                {
+                    "nepali": "सुरु",
+                    "english": "first, outset",
+                    "details": [
+                        "कुनै कार्य वा प्रक्रियाको प्रारम्भिक चरण।",
+                        "जस्तै - सुरुवाती समय, पहिलो पाइला, पहिलो दिन आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "国際",
+        "Nep-meaning": "अन्तर्राष्ट्रिय",
+        "sent-Nep": "यहाँ अन्तर्राष्ट्रिय सम्मेलन आयोजना हुँदैछ।",
+        "mnemonic": "Imagine a giant globe (国 - こく) with international (際 - さい) flags waving around it. 国際 (こくさい) means 'international' in Japanese. Picture the globe saying, 'International unity!'",
+        "explanation": {
+            "word": "国際",
+            "pronunciation": "こくさい",
+            "meanings": [
+                {
+                    "nepali": "अन्तर्राष्ट्रिय",
+                    "english": "international",
+                    "details": [
+                        "विभिन्न देशहरूको सहभागिता वा सम्बन्ध।",
+                        "जस्तै - अन्तर्राष्ट्रिय व्यापार, अन्तर्राष्ट्रिय सम्मेलन, अन्तर्राष्ट्रिय सम्बन्ध आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "議員",
+        "Nep-meaning": "सांसद",
+        "sent-Nep": "उहाँ संसदको सदस्य हुनुहुन्छ।",
+        "mnemonic": "Visualize a giant gear (議 - ぎ) representing a member (員 - いん) of a political assembly. 議員 (ぎいん) means 'member of parliament' in Japanese. Picture the gear saying, 'I turn the wheels of parliament!'",
+        "explanation": {
+            "word": "議員",
+            "pronunciation": "ぎいん",
+            "meanings": [
+                {
+                    "nepali": "सांसद",
+                    "english": "legislator",
+                    "details": [
+                        "संसद वा विधायिका सदस्य।",
+                        "जस्तै - सांसदहरूको काम, संसदको बैठक, संसद सदस्यको जिम्मेवारी आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "記者",
+        "Nep-meaning": "पत्रकार",
+        "sent-Nep": "उहाँ समाचारपत्रका पत्रकार हुनुहुन्छ।",
+        "mnemonic": "Imagine a giant key (記 - き) interviewing people as a reporter (者 - しゃ). 記者 (きしゃ) means 'reporter' in Japanese. Picture the key saying, 'Reporting live!'",
+        "explanation": {
+            "word": "記者",
+            "pronunciation": "きしゃ",
+            "meanings": [
+                {
+                    "nepali": "पत्रकार",
+                    "english": "journalist, reporter",
+                    "details": [
+                        "समाचार वा जानकारी सङ्कलन गर्ने र रिपोर्ट गर्ने व्यक्ति।",
+                        "जस्तै - समाचारपत्र पत्रकार, टिभी पत्रकार, रेडियो पत्रकार आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "場所",
+        "Nep-meaning": "स्थान",
+        "sent-Nep": "कम्पनीको स्थान बताउनुहोस्।",
+        "mnemonic": "Picture a giant bus (場 - ば) marking a special place (所 - しょ) on a map. 場所 (ばしょ) means 'place' in Japanese. Picture the bus saying, 'This is the place!'",
+        "explanation": {
+            "word": "場所",
+            "pronunciation": "ばしょ",
+            "meanings": [
+                {
+                    "nepali": "स्थान",
+                    "english": "place, space",
+                    "details": [
+                        "कुनै निश्चित स्थान वा क्षेत्र।",
+                        "जस्तै - काम गर्ने स्थान, भेटघाटको स्थान, खेलकुद स्थान आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "運動",
+        "Nep-meaning": "व्यायाम",
+        "sent-Nep": "उहाँले अझ धेरै व्यायाम गर्नु पर्छ।",
+        "mnemonic": "Imagine a giant unicycle (運 - うん) leading a sports (動 - どう) parade. 運動 (うんどう) means 'exercise' or 'movement' in Japanese. Picture the unicycle saying, 'Let’s get moving!'",
+        "explanation": {
+            "word": "運動",
+            "pronunciation": "うんどう",
+            "meanings": [
+                {
+                    "nepali": "व्यायाम",
+                    "english": "movement, exercise",
+                    "details": [
+                        "शारीरिक फिटनेसको लागि गरिने गतिविधि।",
+                        "जस्तै - दौड, जिममा व्यायाम, योग आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "サービス",
+        "Nep-meaning": "सेवा",
+        "sent-Nep": "यो पसलको सेवा राम्रो छ।",
+        "mnemonic": "Visualize a server (サービス) juggling plates while singing, 'Service with a smile!' サービス (さーびす) means 'service' in Japanese. Picture the server saying, 'Always at your service!'",
+        "explanation": {
+            "word": "サービス",
+            "pronunciation": "さーびす",
+            "meanings": [
+                {
+                    "nepali": "सेवा",
+                    "english": "service, on the house",
+                    "details": [
+                        "ग्राहकको आवश्यकता पूरा गर्ने गतिविधि वा सुविधा।",
+                        "जस्तै - ग्राहक सेवा, खाना सेवा, होटेल सेवा आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "集まる",
+        "Nep-meaning": "भेला हुनु",
+        "sent-Nep": "स्टेशनअगाडि मान्छेहरू भेला भएका छन्।",
+        "mnemonic": "Picture a giant mat (集 - あつ) where ants are gathering (集まる - あつまる) for a picnic. 集まる (あつまる) means 'to gather' in Japanese. Picture the ants saying, 'Gather around!'",
+        "explanation": {
+            "word": "集まる",
+            "pronunciation": "あつまる",
+            "meanings": [
+                {
+                    "nepali": "भेला हुनु",
+                    "english": "gather, be collected",
+                    "details": [
+                        "कुनै निश्चित स्थानमा मानिस वा वस्तुहरू जम्मा हुनु।",
+                        "जस्तै - मित्रहरूसँग भेटघाट, सभा, बैठक आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "政策",
+        "Nep-meaning": "नीति",
+        "sent-Nep": "नयाँ नीति त्यति राम्रो लागेन।",
+        "mnemonic": "Imagine a samurai (政 - せい) with a sack (策 - さく) full of policies. 政策 (せいさく) means 'policy' in Japanese. Picture the samurai saying, 'Policy in hand!'",
+        "explanation": {
+            "word": "政策",
+            "pronunciation": "せいさく",
+            "meanings": [
+                {
+                    "nepali": "नीति",
+                    "english": "policy, political measures",
+                    "details": [
+                        "सरकार वा संगठनद्वारा अपनाइएको नियम वा निर्देश।",
+                        "जस्तै - आर्थिक नीति, शैक्षिक नीति, स्वास्थ्य नीति आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "車",
+        "Nep-meaning": "गाडी",
+        "sent-Nep": "यो बाटोमा धेरै गाडीहरू छन्।",
+        "mnemonic": "Visualize a giant car (車 - くるま) driving through a jungle. 車 (くるま) means 'car' in Japanese. Picture the car saying, 'Let’s go on a drive!'",
+        "explanation": {
+            "word": "車",
+            "pronunciation": "くるま",
+            "meanings": [
+                {
+                    "nepali": "गाडी",
+                    "english": "car",
+                    "details": [
+                        "मोटर चल्ने सवारी साधन।",
+                        "जस्तै - निजी गाडी, ट्याक्सी, बस आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "拡大",
+        "Nep-meaning": "विस्तार",
+        "sent-Nep": "यो चित्रलाई ठूलो बनाएर प्रतिलिपि गर्नुहोस्।",
+        "mnemonic": "Imagine a kangaroo (拡 - かく) with a magnifying glass enlarging (大 - だい) everything it sees. 拡大 (かくだい) means 'enlargement' in Japanese. Picture the kangaroo saying, 'Making it bigger!'",
+        "explanation": {
+            "word": "拡大",
+            "pronunciation": "かくだい",
+            "meanings": [
+                {
+                    "nepali": "विस्तार",
+                    "english": "magnification, enlargement",
+                    "details": [
+                        "कुनै वस्तुको आकार वा माप बढाउने कार्य।",
+                        "जस्तै - फोटो विस्तार, व्यापार विस्तार, परियोजना विस्तार आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "進む",
+        "Nep-meaning": "अगाडि बढ्नु",
+        "sent-Nep": "अगाडि बढ्नुहोस्।",
+        "mnemonic": "Picture a spaceship (進 - すす) moving forward (進む - すすむ) through space. 進む (すすむ) means 'to advance' in Japanese. Picture the spaceship saying, 'Forward we go!'",
+        "explanation": {
+            "word": "進む",
+            "pronunciation": "すすむ",
+            "meanings": [
+                {
+                    "nepali": "अगाडि बढ्नु",
+                    "english": "advance, move forward",
+                    "details": [
+                        "कुनै निश्चित दिशा वा गन्तव्य तर्फ अगाडि बढ्ने कार्य।",
+                        "जस्तै - करियरमा प्रगति, परियोजनामा अगाडि बढ्नु आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "達する",
+        "Nep-meaning": "पुग्नु",
+        "sent-Nep": "तापक्रम ३५ डिग्रीमा पुग्यो।",
+        "mnemonic": "Imagine a taxi (達 - たつ) reaching (達する - たっする) its destination on time. 達する (たっする) means 'to reach' in Japanese. Picture the taxi saying, 'We’ve reached our goal!'",
+        "explanation": {
+            "word": "達する",
+            "pronunciation": "たっする",
+            "meanings": [
+                {
+                    "nepali": "पुग्नु",
+                    "english": "attain, reach",
+                    "details": [
+                        "कुनै निश्चित स्तर वा गन्तव्यमा पुग्नु।",
+                        "जस्तै - लक्ष्यमा पुग्नु, तापक्रम पुग्नु, गन्तव्यमा पुग्नु आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "会議",
+        "Nep-meaning": "बैठक",
+        "sent-Nep": "आज दिउँसो महत्वपूर्ण बैठक छ।",
+        "mnemonic": "Visualize a conference room (会 - かい) filled with giant gears (議 - ぎ) having a meeting. 会議 (かいぎ) means 'meeting' in Japanese. Picture the gears saying, 'Meeting in progress!'",
+        "explanation": {
+            "word": "会議",
+            "pronunciation": "かいぎ",
+            "meanings": [
+                {
+                    "nepali": "बैठक",
+                    "english": "conference, meeting",
+                    "details": [
+                        "कुनै समूह वा संगठनको औपचारिक भेला।",
+                        "जस्तै - कम्पनीको बैठक, परियोजना बैठक, परिवारको बैठक आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "装置",
+        "Nep-meaning": "उपकरण",
+        "sent-Nep": "प्रयोगको लागि यो उपकरण प्रयोग गरिन्छ।",
+        "mnemonic": "Imagine a giant sewing machine (装 - そう) creating gadgets (置 - ち). 装置 (そうち) means 'device' in Japanese. Picture the sewing machine saying, 'Creating devices!'",
+        "explanation": {
+            "word": "装置",
+            "pronunciation": "そうち",
+            "meanings": [
+                {
+                    "nepali": "उपकरण",
+                    "english": "equipment, device",
+                    "details": [
+                        "विशेष कामको लागि प्रयोग गरिने मेसिन वा यन्त्र।",
+                        "जस्तै - प्रयोगशाला उपकरण, कम्प्युटर उपकरण, खेलकुद उपकरण आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "主張",
+        "Nep-meaning": "दाबी",
+        "sent-Nep": "मेरो दाबीलाई मेरो वरिष्ठले स्विकारे।",
+        "mnemonic": "Picture a giant shoe (主 - しゅ) arguing (張 - ちょう) its case in a courtroom. 主張 (しゅちょう) means 'assertion' in Japanese. Picture the shoe saying, 'I assert my point!'",
+        "explanation": {
+            "word": "主張",
+            "pronunciation": "しゅちょう",
+            "meanings": [
+                {
+                    "nepali": "दाबी",
+                    "english": "insistence, assertion",
+                    "details": [
+                        "आफ्नो विचार वा अधिकारको लागि दृढता देखाउनु।",
+                        "जस्तै - अधिकारको दाबी, विचारको दाबी, सहमतिको दाबी आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "記録",
+        "Nep-meaning": "रेखाङ्कन",
+        "sent-Nep": "म्याराथनमा विश्व रेकर्ड बन्यो।",
+        "mnemonic": "Imagine a giant record player (記 - き) keeping track (録 - ろく) of history. 記録 (きろく) means 'record' in Japanese. Picture the record player saying, 'Recording history!'",
+        "explanation": {
+            "word": "記録",
+            "pronunciation": "きろく",
+            "meanings": [
+                {
+                    "nepali": "रेखाङ्कन",
+                    "english": "record, documentation",
+                    "details": [
+                        "कुनै घटनाको लिखित वा दृश्य रूपमा सुरक्षित राखिएको प्रमाण।",
+                        "जस्तै - खेलकुद रेकर्ड, कानुनी रेकर्ड, व्यक्तिगत रेकर्ड आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "年度",
+        "Nep-meaning": "वर्ष",
+        "sent-Nep": "बिक्री वर्ष अनुसार फरक हुन्छ।",
+        "mnemonic": "Visualize a giant calendar (年 - ねん) celebrating each year (度 - ど). 年度 (ねんど) means 'year' in Japanese. Picture the calendar saying, 'Happy new year!'",
+        "explanation": {
+            "word": "年度",
+            "pronunciation": "ねんど",
+            "meanings": [
+                {
+                    "nepali": "वर्ष",
+                    "english": "year, school year",
+                    "details": [
+                        "कुनै निश्चित कार्य वा शैक्षिक कार्यक्रमको लागि समय अवधि।",
+                        "जस्तै - शैक्षिक वर्ष, वित्तीय वर्ष, कामको वर्ष आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "産業",
+        "Nep-meaning": "उद्योग",
+        "sent-Nep": "जापानको मोटर वाहन उद्योग विश्व प्रसिद्ध छ।",
+        "mnemonic": "Picture a giant factory (産 - さん) producing geese (業 - ぎょう). 産業 (さんぎょう) means 'industry' in Japanese. Picture the factory saying, 'Industry in action!'",
+        "explanation": {
+            "word": "産業",
+            "pronunciation": "さんぎょう",
+            "meanings": [
+                {
+                    "nepali": "उद्योग",
+                    "english": "industry",
+                    "details": [
+                        "सामान वा सेवाहरू उत्पादन गर्ने आर्थिक क्षेत्र।",
+                        "जस्तै - मोटर वाहन उद्योग, टेक्सटाइल उद्योग, सूचना प्रविधि उद्योग आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "背景",
+        "Nep-meaning": "पृष्ठभूमि",
+        "sent-Nep": "घटनाको पृष्ठभूमिमा के थियो भनेर सोच्दै छु।",
+        "mnemonic": "Imagine a haystack (背 - はい) as the background (景 - けい) in a farm scene. 背景 (はいけい) means 'background' in Japanese. Picture the haystack saying, 'I’m the backdrop!'",
+        "explanation": {
+            "word": "背景",
+            "pronunciation": "はいけい",
+            "meanings": [
+                {
+                    "nepali": "पृष्ठभूमि",
+                    "english": "background, scenery, setting",
+                    "details": [
+                        "कुनै घटनाको सन्दर्भ वा परिस्थिति।",
+                        "जस्तै - पारिवारिक पृष्ठभूमि, ऐतिहासिक पृष्ठभूमि, सांस्कृतिक पृष्ठभूमि आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "材料",
+        "Nep-meaning": "सामग्री",
+        "sent-Nep": "सालादको सामग्री जुटाएँ।",
+        "mnemonic": "Visualize a giant zamboni (材 - ざい) gathering materials (料 - りょう) on an ice rink. 材料 (ざいりょう) means 'materials' in Japanese. Picture the zamboni saying, 'Collecting materials!'",
+        "explanation": {
+            "word": "材料",
+            "pronunciation": "ざいりょう",
+            "meanings": [
+                {
+                    "nepali": "सामग्री",
+                    "english": "material, factor",
+                    "details": [
+                        "कुनै वस्तु वा उत्पादनको लागि आवश्यक घटकहरू।",
+                        "जस्तै - निर्माण सामग्री, खानाको सामग्री, कपडाको सामग्री आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "要求",
+        "Nep-meaning": "माग",
+        "sent-Nep": "उहाँले मेरो माग पूरा गर्नुभयो।",
+        "mnemonic": "Picture a yak (要 - よう) demanding (求 - きゅう) more hay. 要求 (ようきゅう) means 'demand' in Japanese. Picture the yak saying, 'I demand hay!'",
+        "explanation": {
+            "word": "要求",
+            "pronunciation": "ようきゅう",
+            "meanings": [
+                {
+                    "nepali": "माग",
+                    "english": "requirement, demand",
+                    "details": [
+                        "कुनै वस्तु वा सेवा प्राप्त गर्न गरिएको अनुरोध।",
+                        "जस्तै - कामको माग, उत्पादनको माग, सेवाको माग आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "市民",
+        "Nep-meaning": "नागरिक",
+        "sent-Nep": "नागरिकहरूको सुरक्षा महत्त्वपूर्ण छ।",
+        "mnemonic": "Imagine a giant city (市 - し) with tiny people (民 - みん) living in it. 市民 (しみん) means 'citizen' in Japanese. Picture the city saying, 'Citizens everywhere!'",
+        "explanation": {
+            "word": "市民",
+            "pronunciation": "しみん",
+            "meanings": [
+                {
+                    "nepali": "नागरिक",
+                    "english": "citizens, townsmen",
+                    "details": [
+                        "कुनै शहर वा राष्ट्रको बासिन्दा।",
+                        "जस्तै - स्थानीय नागरिक, शहरका बासिन्दा, राष्ट्रिय नागरिक आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "世紀",
+        "Nep-meaning": "सदी",
+        "sent-Nep": "नयाँ सदीको सुरुवात हो।",
+        "mnemonic": "Picture a centipede (世 - せい) holding a century (紀 - き) timer. 世紀 (せいき) means 'century' in Japanese. Picture the centipede saying, 'A century of time!'",
+        "explanation": {
+            "word": "世紀",
+            "pronunciation": "せいき",
+            "meanings": [
+                {
+                    "nepali": "सदी",
+                    "english": "century",
+                    "details": [
+                        "एक सय वर्षको समय अवधि।",
+                        "जस्तै - २१औं सदी, २०औं सदी, मध्य सदी आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "大幅",
+        "Nep-meaning": "विशाल",
+        "sent-Nep": "योजनामा धेरै परिवर्तन गरियो।",
+        "mnemonic": "Visualize a giant (大 - だい) scarf (幅 - はば) covering a whole street. 大幅 (おおはば) means 'large scale' in Japanese. Picture the scarf saying, 'I cover everything!'",
+        "explanation": {
+            "word": "大幅",
+            "pronunciation": "おおはば",
+            "meanings": [
+                {
+                    "nepali": "विशाल",
+                    "english": "drastically, substantially",
+                    "details": [
+                        "कुनै कुरामा ठूलो मात्रामा परिवर्तन हुनु।",
+                        "जस्तै - योजनामा परिवर्तन, नीति परिवर्तन, बजेट परिवर्तन आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "加工",
+        "Nep-meaning": "प्रक्रिया",
+        "sent-Nep": "यो कारखानामा माछा प्रक्रिया गरिन्छ।",
+        "mnemonic": "Imagine a giant kangaroo (加 - か) working in a factory (工 - こう) processing goods. 加工 (かこう) means 'processing' in Japanese. Picture the kangaroo saying, 'Processing the goods!'",
+        "explanation": {
+            "word": "加工",
+            "pronunciation": "かこう",
+            "meanings": [
+                {
+                    "nepali": "प्रक्रिया",
+                    "english": "processing, manufacturing",
+                    "details": [
+                        "कुनै वस्तु वा सामग्रीलाई प्रयोग योग्य बनाउन गरिएको कार्य।",
+                        "जस्तै - खाना प्रक्रिया, उद्योग प्रक्रिया, उत्पादन प्रक्रिया आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "実行",
+        "Nep-meaning": "कार्यान्वयन",
+        "sent-Nep": "उहाँले त्यो योजना कार्यान्वयन गर्नुभयो।",
+        "mnemonic": "Picture a genie (実 - じつ) executing (行 - こう) a master plan. 実行 (じっこう) means 'execution' or 'implementation' in Japanese. Picture the genie saying, 'Plan executed!'",
+        "explanation": {
+            "word": "実行",
+            "pronunciation": "じっこう",
+            "meanings": [
+                {
+                    "nepali": "कार्यान्वयन",
+                    "english": "practice, execution",
+                    "details": [
+                        "योजनालाई वास्तविकतामा परिणत गर्ने कार्य।",
+                        "जस्तै - परियोजना कार्यान्वयन, योजना कार्यान्वयन, नीति कार्यान्वयन आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "判断",
+        "Nep-meaning": "निर्णय",
+        "sent-Nep": "उहाँको निर्णय सही थियो।",
+        "mnemonic": "Visualize a giant panda (判 - はん) making a judgment (断 - だん) in a court. 判断 (はんだん) means 'judgment' in Japanese. Picture the panda saying, 'Judgment passed!'",
+        "explanation": {
+            "word": "判断",
+            "pronunciation": "はんだん",
+            "meanings": [
+                {
+                    "nepali": "निर्णय",
+                    "english": "judgment, decision",
+                    "details": [
+                        "कुनै कुराको सही वा गलतको मूल्याङ्कन गरेर निष्कर्षमा पुग्नु।",
+                        "जस्तै - निर्णय प्रक्रिया, न्यायिक निर्णय, व्यक्तिगत निर्णय आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "組織",
+        "Nep-meaning": "संगठन",
+        "sent-Nep": "उहाँ एउटा संगठनको नेता हुनुहुन्छ।",
+        "mnemonic": "Picture a sock (組 - そ) organizing (織 - しき) other socks in a drawer. 組織 (そしき) means 'organization' in Japanese. Picture the sock saying, 'Let’s get organized!'",
+        "explanation": {
+            "word": "組織",
+            "pronunciation": "そしき",
+            "meanings": [
+                {
+                    "nepali": "संगठन",
+                    "english": "organization, constitution, tissue",
+                    "details": [
+                        "मानिस वा तत्वहरूको समूह जसले कुनै उद्देश्यको लागि काम गर्दछ।",
+                        "जस्तै - गैर सरकारी संगठन, कम्पनी संगठन, समुदाय संगठन आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "輸出",
+        "Nep-meaning": "निर्यात",
+        "sent-Nep": "उहाँको कम्पनीले गाडी निर्यात गर्छ।",
+        "mnemonic": "Imagine a giant UFO (輸 - ゆ) exporting (出 - しゅつ) aliens to Earth. 輸出 (ゆしゅつ) means 'export' in Japanese. Picture the UFO saying, 'Exporting aliens!'",
+        "explanation": {
+            "word": "輸出",
+            "pronunciation": "ゆしゅつ",
+            "meanings": [
+                {
+                    "nepali": "निर्यात",
+                    "english": "export",
+                    "details": [
+                        "कुनै वस्तु वा सेवालाई अन्य देशमा बेच्ने कार्य।",
+                        "जस्तै - व्यापार निर्यात, कृषि निर्यात, वस्त्र निर्यात आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "警察",
+        "Nep-meaning": "प्रहरी",
+        "sent-Nep": "प्रहरीलाई बोलाउनुहोस्।",
+        "mnemonic": "Picture a giant caterpillar (警 - けい) as a police officer (察 - さつ) catching thieves. 警察 (けいさつ) means 'police' in Japanese. Picture the caterpillar saying, 'You’re under arrest!'",
+        "explanation": {
+            "word": "警察",
+            "pronunciation": "けいさつ",
+            "meanings": [
+                {
+                    "nepali": "प्रहरी",
+                    "english": "police",
+                    "details": [
+                        "कानून र सुरक्षा व्यवस्थापन गर्ने निकाय।",
+                        "जस्तै - स्थानीय प्रहरी, राष्ट्रिय प्रहरी, यातायात प्रहरी आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "伝える",
+        "Nep-meaning": "सन्देश दिनु",
+        "sent-Nep": "सबैलाई यो कुरा सन्देश दिनुहोस्।",
+        "mnemonic": "Imagine a train (伝 - つた) delivering (伝える - つたえる) important messages to people. 伝える (つたえる) means 'to convey' in Japanese. Picture the train saying, 'Message delivered!'",
+        "explanation": {
+            "word": "伝える",
+            "pronunciation": "つたえる",
+            "meanings": [
+                {
+                    "nepali": "सन्देश दिनु",
+                    "english": "convey, transmit, hand down",
+                    "details": [
+                        "कुनै जानकारी वा विचार अरूसम्म पुर्याउनु।",
+                        "जस्तै - समाचार सन्देश दिनु, सूचना सन्देश दिनु, परम्परा सन्देश दिनु आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "公開",
+        "Nep-meaning": "सार्वजनिक",
+        "sent-Nep": "त्यो चलचित्र आज सार्वजनिक हुन्छ।",
+        "mnemonic": "Visualize a giant coconut (公 - こう) opening (開 - かい) to reveal a public gathering. 公開 (こうかい) means 'public' or 'open' in Japanese. Picture the coconut saying, 'Open for all!'",
+        "explanation": {
+            "word": "公開",
+            "pronunciation": "こうかい",
+            "meanings": [
+                {
+                    "nepali": "सार्वजनिक",
+                    "english": "opening (to the public)",
+                    "details": [
+                        "कुनै कुरालाई सर्वसाधारणको पहुँचमा ल्याउने कार्य।",
+                        "जस्तै - सार्वजनिक समारोह, सार्वजनिक जानकारी, सार्वजनिक स्थल आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "向かう",
+        "Nep-meaning": "तर्फ लाग्नु",
+        "sent-Nep": "अहिले कम्पनीतर्फ लाग्दैछु।",
+        "mnemonic": "Imagine a mouse (向 - む) heading (向かう - むかう) towards a cheese factory. 向かう (むかう) means 'to head towards' in Japanese. Picture the mouse saying, 'Heading to the cheese!'",
+        "explanation": {
+            "word": "向かう",
+            "pronunciation": "むかう",
+            "meanings": [
+                {
+                    "nepali": "तर्फ लाग्नु",
+                    "english": "face, confront, head toward",
+                    "details": [
+                        "कुनै निश्चित दिशा वा गन्तव्यतर्फ जाने कार्य।",
+                        "जस्तै - कामतर्फ लाग्नु, घरतर्फ लाग्नु, उद्देश्यतर्फ लाग्नु आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "直す",
+        "Nep-meaning": "मर्मत गर्नु",
+        "sent-Nep": "मैले यसलाई मर्मत गरें।",
+        "mnemonic": "Picture a giant nacho (直 - なお) fixing (直す - なおす) a broken salsa bowl. 直す (なおす) means 'to fix' in Japanese. Picture the nacho saying, 'Fixing the salsa!'",
+        "explanation": {
+            "word": "直す",
+            "pronunciation": "なおす",
+            "meanings": [
+                {
+                    "nepali": "मर्मत गर्नु",
+                    "english": "repair, cure, alter",
+                    "details": [
+                        "कुनै बिग्रिएको वा खराब भएको चिजलाई ठीक गर्नु।",
+                        "जस्तै - कम्प्युटर मर्मत, स्वास्थ्य मर्मत, घर मर्मत आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "具体的",
+        "Nep-meaning": "निर्दिष्ट",
+        "sent-Nep": "केही निर्दिष्ट उदाहरणहरू देखाउनुहोस्।",
+        "mnemonic": "Imagine a goo (具体 - ぐ) turning into a solid form (的 - てき). 具体的 (ぐたいてき) means 'concrete' or 'specific' in Japanese. Picture the goo saying, 'Becoming specific!'",
+        "explanation": {
+            "word": "具体的",
+            "pronunciation": "ぐたいてき",
+            "meanings": [
+                {
+                    "nepali": "निर्दिष्ट",
+                    "english": "concrete, specific",
+                    "details": [
+                        "कुनै विषय वा कुरा स्पष्ट र विवरणमा।",
+                        "जस्तै - निर्दिष्ट उदाहरण, निर्दिष्ट योजना, निर्दिष्ट सुझाव आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "願う",
+        "Nep-meaning": "कामना गर्नु",
+        "sent-Nep": "उहाँको स्वास्थ्य सुधारको कामना गर्दछु।",
+        "mnemonic": "Visualize a giant gnome (願 - ねが) making a wish (願う - ねがう) on a star. 願う (ねがう) means 'to wish' in Japanese. Picture the gnome saying, 'I wish for it!'",
+        "explanation": {
+            "word": "願う",
+            "pronunciation": "ねがう",
+            "meanings": [
+                {
+                    "nepali": "कामना गर्नु",
+                    "english": "wish, ask a favor, apply for",
+                    "details": [
+                        "कुनै कुरा पूरा होस् भन्ने चाहना राख्नु।",
+                        "जस्तै - स्वास्थ्यको कामना, सफलताको कामना, शान्तिको कामना आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "グループ",
+        "Nep-meaning": "समूह",
+        "sent-Nep": "पसलमा विद्यार्थीहरूको समूह आयो।",
+        "mnemonic": "Imagine a group of grapes (グループ) having a party. グループ (ぐるーぷ) means 'group' in Japanese. Picture the grapes saying, 'Party time!'",
+        "explanation": {
+            "word": "グループ",
+            "pronunciation": "ぐるーぷ",
+            "meanings": [
+                {
+                    "nepali": "समूह",
+                    "english": "group",
+                    "details": [
+                        "मानिसहरूको समूह जो सँगै केही गर्छन्।",
+                        "जस्तै - विद्यार्थी समूह, काम गर्ने समूह, परिवार समूह आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "個人",
+        "Nep-meaning": "व्यक्तिगत",
+        "sent-Nep": "यो मेरो व्यक्तिगत विचार हो।",
+        "mnemonic": "Picture a giant koi fish (個 - こ) representing an individual (人 - じん). 個人 (こじん) means 'individual' in Japanese. Picture the koi saying, 'I’m unique!'",
+        "explanation": {
+            "word": "個人",
+            "pronunciation": "こじん",
+            "meanings": [
+                {
+                    "nepali": "व्यक्तिगत",
+                    "english": "individual",
+                    "details": [
+                        "कुनै एक व्यक्ति वा उसको सम्बन्धित कुरा।",
+                        "जस्तै - व्यक्तिगत विचार, व्यक्तिगत काम, व्यक्तिगत जीवन आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "基づく",
+        "Nep-meaning": "आधारित",
+        "sent-Nep": "यो कुरा सत्यमा आधारित छ।",
+        "mnemonic": "Imagine a giant kite (基 - もと) being based on (基づく - もとづく) a solid foundation. 基づく (もとづく) means 'to be based on' in Japanese. Picture the kite saying, 'I’m based on strong winds!'",
+        "explanation": {
+            "word": "基づく",
+            "pronunciation": "もとづく",
+            "meanings": [
+                {
+                    "nepali": "आधारित",
+                    "english": "be based on",
+                    "details": [
+                        "कुनै आधार वा सन्दर्भमा स्थापित।",
+                        "जस्तै - तथ्यमा आधारित, अध्ययनमा आधारित, अनुसन्धानमा आधारित आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "全く",
+        "Nep-meaning": "पूणरूपले",
+        "sent-Nep": "मलाई पूणरूपले थाहा छैन।",
+        "mnemonic": "Visualize a giant taco (全 - まった) saying 'Absolutely!' (全く - まったく) when asked if it’s delicious. 全く (まったく) means 'absolutely' in Japanese. Picture the taco saying, 'Absolutely tasty!'",
+        "explanation": {
+            "word": "全く",
+            "pronunciation": "まったく",
+            "meanings": [
+                {
+                    "nepali": "पूणरूपले",
+                    "english": "entirely, truly, indeed",
+                    "details": [
+                        "कुनै कुरा सम्पूर्ण रूपमा हुनु।",
+                        "जस्तै - पूणरूपले बुझ्नु, पूणरूपले जान्नु, पूणरूपले मान्नु आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "見方",
+        "Nep-meaning": "दृष्टिकोण",
+        "sent-Nep": "उहाँप्रति मेरो दृष्टिकोण बदलियो।",
+        "mnemonic": "Picture a giant eye (見 - み) explaining its viewpoint (方 - かた). 見方 (みかた) means 'viewpoint' in Japanese. Picture the eye saying, 'This is my view!'",
+        "explanation": {
+            "word": "見方",
+            "pronunciation": "みかた",
+            "meanings": [
+                {
+                    "nepali": "दृष्टिकोण",
+                    "english": "view, way of looking",
+                    "details": [
+                        "कुनै कुरा हेर्ने तरिका वा विचार।",
+                        "जस्तै - सकारात्मक दृष्टिकोण, नकारात्मक दृष्टिकोण, वैचारिक दृष्टिकोण आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "姿勢",
+        "Nep-meaning": "आङ्गिकता",
+        "sent-Nep": "त्यो बच्चाको सधैं आङ्गिकता खराब छ।",
+        "mnemonic": "Imagine a giant sea (姿 - し) shell (勢 - せい) standing proudly. 姿勢 (しせい) means 'posture' in Japanese. Picture the shell saying, 'Perfect posture!'",
+        "explanation": {
+            "word": "姿勢",
+            "pronunciation": "しせい",
+            "meanings": [
+                {
+                    "nepali": "आङ्गिकता",
+                    "english": "posture, attitude",
+                    "details": [
+                        "कुनै कुरा गर्ने तरिका वा शरीरको स्थिति।",
+                        "जस्तै - राम्रो आङ्गिकता, खराब आङ्गिकता, व्यायामको आङ्गिकता आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "協力",
+        "Nep-meaning": "सहयोग",
+        "sent-Nep": "यस परियोजनाका लागि सबैको सहयोग आवश्यक छ।",
+        "mnemonic": "Visualize a giant koala (協 - きょう) and a lizard (力 - りょく) working together. 協力 (きょうりょく) means 'cooperation' in Japanese. Picture the koala and lizard saying, 'Teamwork!'",
+        "explanation": {
+            "word": "協力",
+            "pronunciation": "きょうりょく",
+            "meanings": [
+                {
+                    "nepali": "सहयोग",
+                    "english": "cooperation, collaboration",
+                    "details": [
+                        "कुनै काम वा उद्देश्य प्राप्तिका लागि मिलेर काम गर्नु।",
+                        "जस्तै - टीम सहयोग, परियोजना सहयोग, समुदाय सहयोग आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "担当",
+        "Nep-meaning": "जिम्मेवार",
+        "sent-Nep": "म बिक्रीको जिम्मेवार छु।",
+        "mnemonic": "Imagine a giant tambourine (担 - たん) taking charge (当 - とう) of a musical band. 担当 (たんとう) means 'in charge' in Japanese. Picture the tambourine saying, 'I’m in charge!'",
+        "explanation": {
+            "word": "担当",
+            "pronunciation": "たんとう",
+            "meanings": [
+                {
+                    "nepali": "जिम्मेवार",
+                    "english": "person in charge",
+                    "details": [
+                        "कुनै काम वा जिम्मेवारीको लागि जिम्मेवार व्यक्ति।",
+                        "जस्तै - प्रबन्धक जिम्मेवार, शिक्षक जिम्मेवार, कर्मचारी जिम्मेवार आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "提案",
+        "Nep-meaning": "प्रस्ताव",
+        "sent-Nep": "त्यो विचार उहाँको प्रस्ताव हो।",
+        "mnemonic": "Picture a giant teapot (提 - てい) presenting an idea (案 - あん) at a tea party. 提案 (ていあん) means 'proposal' in Japanese. Picture the teapot saying, 'Here’s my idea!'",
+        "explanation": {
+            "word": "提案",
+            "pronunciation": "ていあん",
+            "meanings": [
+                {
+                    "nepali": "प्रस्ताव",
+                    "english": "proposition, proposal",
+                    "details": [
+                        "कुनै योजना वा विचार प्रस्तुत गर्ने कार्य।",
+                        "जस्तै - व्यापार प्रस्ताव, परियोजना प्रस्ताव, नीति प्रस्ताव आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "最後",
+        "Nep-meaning": "अन्तिम",
+        "sent-Nep": "आज गर्मी बिदाको अन्तिम दिन हो।",
+        "mnemonic": "Visualize a giant sailboat (最 - さい) reaching the final (後 - ご) destination. 最後 (さいご) means 'last' in Japanese. Picture the sailboat saying, 'Finally here!'",
+        "explanation": {
+            "word": "最後",
+            "pronunciation": "さいご",
+            "meanings": [
+                {
+                    "nepali": "अन्तिम",
+                    "english": "last, final",
+                    "details": [
+                        "कुनै कुरा वा क्रियाको अन्तिम चरण।",
+                        "जस्तै - अन्तिम दिन, अन्तिम परीक्षा, अन्तिम निर्णय आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "招く",
+        "Nep-meaning": "आमन्त्रित गर्नु",
+        "sent-Nep": "मैले आमाबाबुलाई भोजनमा आमन्त्रित गरें।",
+        "mnemonic": "Imagine a giant macaw (招 - まね) inviting (招く - まねく) you to a tropical party. 招く (まねく) means 'to invite' in Japanese. Picture the macaw saying, 'You’re invited!'",
+        "explanation": {
+            "word": "招く",
+            "pronunciation": "まねく",
+            "meanings": [
+                {
+                    "nepali": "आमन्त्रित गर्नु",
+                    "english": "invite, beckon, engage",
+                    "details": [
+                        "कुनै समारोह वा घटनामा सहभागी गराउन आग्रह गर्नु।",
+                        "जस्तै - विवाह आमन्त्रण, समारोह आमन्त्रण, पार्टी आमन्त्रण आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "ホテル",
+        "Nep-meaning": "होटल",
+        "sent-Nep": "अहिले होटलमा पुगे।",
+        "mnemonic": "Visualize a giant hotel (ホテル) with a hot tub in every room. ホテル (ほてる) means 'hotel' in Japanese. Picture the hotel saying, 'Stay with us!'",
+        "explanation": {
+            "word": "ホテル",
+            "pronunciation": "ほてる",
+            "meanings": [
+                {
+                    "nepali": "होटल",
+                    "english": "hotel",
+                    "details": [
+                        "बाहिरबाट आउने पाहुनाहरूको लागि बस्ने सुविधा।",
+                        "जस्तै - लक्जरी होटल, बजेट होटल, व्यापारिक होटल आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "再び",
+        "Nep-meaning": "फेरि",
+        "sent-Nep": "उहाँ फेरि यहाँ आउनुभयो।",
+        "mnemonic": "Picture a phoenix (再 - ふたた) rising again (再び - ふたたび) from the ashes. 再び (ふたたび) means 'again' in Japanese. Picture the phoenix saying, 'Rising again!'",
+        "explanation": {
+            "word": "再び",
+            "pronunciation": "ふたたび",
+            "meanings": [
+                {
+                    "nepali": "फेरि",
+                    "english": "again, a second time",
+                    "details": [
+                        "कुनै कुरा पुनः हुनु।",
+                        "जस्तै - फेरि भेट्नु, फेरि सुरु गर्नु, फेरि सोध्नु आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "上昇",
+        "Nep-meaning": "वृद्धि",
+        "sent-Nep": "पृथ्वीको तापक्रम बढिरहेको छ।",
+        "mnemonic": "Imagine a giant shoelace (昇 - しょう) tying up to the top (上 - じょう) of a mountain. 上昇 (じょうしょう) means 'rising' in Japanese. Picture the shoelace saying, 'Reaching new heights!'",
+        "explanation": {
+            "word": "上昇",
+            "pronunciation": "じょうしょう",
+            "meanings": [
+                {
+                    "nepali": "वृद्धि",
+                    "english": "ascension, rising",
+                    "details": [
+                        "कुनै कुरा माथि उक्लने वा बढ्ने प्रक्रिया।",
+                        "जस्तै - तापक्रम वृद्धि, मूल्य वृद्धि, लोकप्रियता वृद्धि आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "機械",
+        "Nep-meaning": "मेसिन",
+        "sent-Nep": "नयाँ मेसिन बिग्रियो।",
+        "mnemonic": "Picture a giant key (機 - き) operating a complex machine (械 - かい). 機械 (きかい) means 'machine' in Japanese. Picture the key saying, 'Operating the machine!'",
+        "explanation": {
+            "word": "機械",
+            "pronunciation": "きかい",
+            "meanings": [
+                {
+                    "nepali": "मेसिन",
+                    "english": "machine",
+                    "details": [
+                        "कुनै काम वा उत्पादन गर्न प्रयोग हुने यन्त्र।",
+                        "जस्तै - औद्योगिक मेसिन, खेती गर्ने मेसिन, घरायसी मेसिन आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "注目",
+        "Nep-meaning": "ध्यान",
+        "sent-Nep": "हामी त्यो कम्पनीमा ध्यान दिइरहेका छौं।",
+        "mnemonic": "Imagine a giant choo-choo train (注 - ちゅう) demanding attention (目 - もく) with its loud whistle. 注目 (ちゅうもく) means 'attention' in Japanese. Picture the train saying, 'Pay attention to me!'",
+        "explanation": {
+            "word": "注目",
+            "pronunciation": "ちゅうもく",
+            "meanings": [
+                {
+                    "nepali": "ध्यान",
+                    "english": "attention, notice",
+                    "details": [
+                        "कुनै कुरा वा व्यक्तिमा ध्यान दिनु।",
+                        "जस्तै - व्यापार ध्यान, समाचार ध्यान, सार्वजनिक ध्यान आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "過去",
+        "Nep-meaning": "अतीत",
+        "sent-Nep": "त्यो अतीतको कुरा हो।",
+        "mnemonic": "Visualize a giant cocoa bean (過 - か) representing the past (過去 - かこ) with an old-timey hat. 過去 (かこ) means 'past' in Japanese. Picture the cocoa saying, 'In the past!'",
+        "explanation": {
+            "word": "過去",
+            "pronunciation": "かこ",
+            "meanings": [
+                {
+                    "nepali": "अतीत",
+                    "english": "the past",
+                    "details": [
+                        "बितेको समय वा घटना।",
+                        "जस्तै - बाल्यकाल अतीत, ऐतिहासिक अतीत, व्यक्तिगत अतीत आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "作品",
+        "Nep-meaning": "कृति",
+        "sent-Nep": "यो चित्र भ्यान गोको कृति हो।",
+        "mnemonic": "Imagine a giant sock (作 - さく) creating a piece (品 - ひん) of art. 作品 (さくひん) means 'work' or 'piece' in Japanese. Picture the sock saying, 'Creating my masterpiece!'",
+        "explanation": {
+            "word": "作品",
+            "pronunciation": "さくひん",
+            "meanings": [
+                {
+                    "nepali": "कृति",
+                    "english": "work of art, piece",
+                    "details": [
+                        "कलात्मक वा साहित्यिक सिर्जना।",
+                        "जस्तै - चित्रकलाको कृति, साहित्यिक कृति, सङ्गीत कृति आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "直接",
+        "Nep-meaning": "सिधा",
+        "sent-Nep": "उहाँलाई सिधा अनुरोध गर्नुहोस्।",
+        "mnemonic": "Visualize a chameleon (直 - ちょく) directly (直接 - ちょくせつ) changing colors. 直接 (ちょくせつ) means 'direct' in Japanese. Picture the chameleon saying, 'Direct color change!'",
+        "explanation": {
+            "word": "直接",
+            "pronunciation": "ちょくせつ",
+            "meanings": [
+                {
+                    "nepali": "सिधा",
+                    "english": "directly",
+                    "details": [
+                        "कुनै मध्यस्थता बिना सिधा।",
+                        "जस्तै - सिधा सम्पर्क, सिधा कुरा, सिधा सम्बन्ध आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "批判",
+        "Nep-meaning": "आलोचना",
+        "sent-Nep": "उहाँले सहकर्मीलाई आलोचना गर्नुभयो।",
+        "mnemonic": "Picture a hippo (批 - ひ) harshly criticizing (批判 - ひはん) a painting. 批判 (ひはん) means 'criticism' in Japanese. Picture the hippo saying, 'This needs improvement!'",
+        "explanation": {
+            "word": "批判",
+            "pronunciation": "ひはん",
+            "meanings": [
+                {
+                    "nepali": "आलोचना",
+                    "english": "criticism, comment",
+                    "details": [
+                        "कुनै व्यक्तिको काम वा विचारको नकारात्मक मूल्याङ्कन।",
+                        "जस्तै - साहित्यिक आलोचना, राजनीतिक आलोचना, सामाजिक आलोचना आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "文化",
+        "Nep-meaning": "संस्कृति",
+        "sent-Nep": "म यो देशको संस्कृति अध्ययन गर्दैछु।",
+        "mnemonic": "Imagine a giant bun (文 - ぶん) teaching culture (文化 - ぶんか) classes. 文化 (ぶんか) means 'culture' in Japanese. Picture the bun saying, 'Let’s learn about culture!'",
+        "explanation": {
+            "word": "文化",
+            "pronunciation": "ぶんか",
+            "meanings": [
+                {
+                    "nepali": "संस्कृति",
+                    "english": "culture",
+                    "details": [
+                        "कुनै समाज वा समुदायको जीवनशैली, परम्परा, रितीरिवाज आदि।",
+                        "जस्तै - नेपाली संस्कृति, जापानी संस्कृति, पश्चिमी संस्कृति आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "施設",
+        "Nep-meaning": "सुविधा",
+        "sent-Nep": "त्यो होटलमा धेरै मनोरञ्जन सुविधा छन्।",
+        "mnemonic": "Visualize a giant sea (施 - し) shell (設 - せつ) housing a big facility. 施設 (しせつ) means 'facility' in Japanese. Picture the shell saying, 'Welcome to the facility!'",
+        "explanation": {
+            "word": "施設",
+            "pronunciation": "しせつ",
+            "meanings": [
+                {
+                    "nepali": "सुविधा",
+                    "english": "facilities, institution",
+                    "details": [
+                        "कुनै विशेष उद्देश्यको लागि बनाइएको स्थल वा भवन।",
+                        "जस्तै - स्वास्थ्य सुविधा, खेलकुद सुविधा, शिक्षा सुविधा आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "成功",
+        "Nep-meaning": "सफलता",
+        "sent-Nep": "अन्ततः प्रयोग सफल भयो।",
+        "mnemonic": "Picture a giant sailboat (成 - せい) reaching success (功 - こう) at the finish line. 成功 (せいこう) means 'success' in Japanese. Picture the sailboat saying, 'We’ve succeeded!'",
+        "explanation": {
+            "word": "成功",
+            "pronunciation": "せいこう",
+            "meanings": [
+                {
+                    "nepali": "सफलता",
+                    "english": "success",
+                    "details": [
+                        "कुनै उद्देश्य वा लक्ष्य प्राप्ति।",
+                        "जस्तै - परियोजना सफलता, व्यापार सफलता, अध्ययन सफलता आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "実際",
+        "Nep-meaning": "वास्तवमा",
+        "sent-Nep": "उहाँ वास्तवमा धेरै अग्लो हुनुहुन्न।",
+        "mnemonic": "Imagine a genie (実 - じつ) showing real (際 - さい) magic tricks in reality. 実際 (じっさい) means 'reality' in Japanese. Picture the genie saying, 'It’s real magic!'",
+        "explanation": {
+            "word": "実際",
+            "pronunciation": "じっさい",
+            "meanings": [
+                {
+                    "nepali": "वास्तवमा",
+                    "english": "truth, actual state",
+                    "details": [
+                        "कुनै कुराको वास्तविकता वा सत्यता।",
+                        "जस्तै - वास्तविक घटना, वास्तविक तथ्य, वास्तविक स्थिति आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "当然",
+        "Nep-meaning": "स्वाभाविक",
+        "sent-Nep": "उहाँ रिसाउनु स्वाभाविक हो।",
+        "mnemonic": "Picture a big toe (当 - とう) meditating in a Zen (然 - ぜん) garden. 当然 (とうぜん) means 'naturally' or 'as a matter of course' in Japanese. Picture the toe saying, 'Naturally Zen!'",
+        "explanation": {
+            "word": "当然",
+            "pronunciation": "とうぜん",
+            "meanings": [
+                {
+                    "nepali": "स्वाभाविक",
+                    "english": "natural, as a matter of course",
+                    "details": [
+                        "कुनै कुराको स्वाभाविक वा सामान्य हुनु।",
+                        "जस्तै - स्वाभाविक प्रतिक्रिया, स्वाभाविक निर्णय, स्वाभाविक प्रक्रिया आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "年間",
+        "Nep-meaning": "वार्षिक",
+        "sent-Nep": "वार्षिक ५०,००० मानिस यहाँ आउँछन्।",
+        "mnemonic": "Imagine a giant calendar (年 - ねん) marking every year (間 - かん) with big events. 年間 (ねんかん) means 'yearly' in Japanese. Picture the calendar saying, 'Every year counts!'",
+        "explanation": {
+            "word": "年間",
+            "pronunciation": "ねんかん",
+            "meanings": [
+                {
+                    "nepali": "वार्षिक",
+                    "english": "period of one year",
+                    "details": [
+                        "एक वर्षको समय अवधि।",
+                        "जस्तै - वार्षिक भेटघाट, वार्षिक कार्यक्रम, वार्षिक रिपोर्ट आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "簡単",
+        "Nep-meaning": "सजिलो",
+        "sent-Nep": "यो खाना पकाउन धेरै सजिलो छ।",
+        "mnemonic": "Picture a giant tanuki (簡 - かん) making things simple (単 - たん) with its magic leaf. 簡単 (かんたん) means 'simple' in Japanese. Picture the tanuki saying, 'It’s simple magic!'",
+        "explanation": {
+            "word": "簡単",
+            "pronunciation": "かんたん",
+            "meanings": [
+                {
+                    "nepali": "सजिलो",
+                    "english": "simple, easy",
+                    "details": [
+                        "कुनै कुरा गर्ने प्रक्रियामा कम जटिलता।",
+                        "जस्तै - सजिलो खाना, सजिलो काम, सजिलो विधि आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "迫る",
+        "Nep-meaning": "नजिक",
+        "sent-Nep": "समय सीमा नजिक आइरहेको छ।",
+        "mnemonic": "Visualize a giant pack of wolves (迫 - せま) approaching (迫る - せまる) a campsite. 迫る (せまる) means 'to approach' in Japanese. Picture the wolves saying, 'We’re getting closer!'",
+        "explanation": {
+            "word": "迫る",
+            "pronunciation": "せまる",
+            "meanings": [
+                {
+                    "nepali": "नजिक",
+                    "english": "press, close in on, be imminent",
+                    "details": [
+                        "कुनै कुरा समय वा दूरीमा नजिक आउनु।",
+                        "जस्तै - समय सीमा नजिक, परीक्षा नजिक, छुट्टी नजिक आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "まとめる",
+        "Nep-meaning": "समेट्नु",
+        "sent-Nep": "उहाँले सामान समेटेर बाहिर जानुभयो।",
+        "mnemonic": "Imagine a giant mat (まとめる) gathering all the pieces of a puzzle together. まとめる (まとめる) means 'to gather' or 'to summarize' in Japanese. Picture the mat saying, 'Bringing it all together!'",
+        "explanation": {
+            "word": "まとめる",
+            "pronunciation": "まとめる",
+            "meanings": [
+                {
+                    "nepali": "समेट्नु",
+                    "english": "gather together, put in order",
+                    "details": [
+                        "कुनै कुरा मिलाएर राख्नु वा व्यवस्थापन गर्नु।",
+                        "जस्तै - सामान समेट्नु, विचार समेट्नु, जानकारी समेट्नु आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "占める",
+        "Nep-meaning": "धारण गर्नु",
+        "sent-Nep": "मलाई आउने इमेलमध्ये, स्पामले ७०% धारण गरेको छ।",
+        "mnemonic": "Picture a shaman (占 - し) claiming (占める - しめる) a big piece of land. 占める (しめる) means 'to occupy' in Japanese. Picture the shaman saying, 'This land is mine!'",
+        "explanation": {
+            "word": "占める",
+            "pronunciation": "しめる",
+            "meanings": [
+                {
+                    "nepali": "धारण गर्नु",
+                    "english": "occupy, hold",
+                    "details": [
+                        "कुनै ठाउँ वा स्थिति लिनु।",
+                        "जस्तै - पद धारण गर्नु, स्थान धारण गर्नु, स्थिति धारण गर्नु आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "残す",
+        "Nep-meaning": "छोड्नु",
+        "sent-Nep": "उहाँले सन्देश छोड्नुभयो।",
+        "mnemonic": "Visualize a giant zombie (残 - のこ) leaving (残す - のこす) behind a trail of candy. 残す (のこす) means 'to leave' in Japanese. Picture the zombie saying, 'Leaving candy behind!'",
+        "explanation": {
+            "word": "残す",
+            "pronunciation": "のこす",
+            "meanings": [
+                {
+                    "nepali": "छोड्नु",
+                    "english": "leave, reserve, leave undone",
+                    "details": [
+                        "कुनै कुरालाई पछाडि छोड्नु वा अधुरो राख्नु।",
+                        "जस्तै - सन्देश छोड्नु, काम छोड्नु, जिम्मेवारी छोड्नु आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "言語",
+        "Nep-meaning": "भाषा",
+        "sent-Nep": "उहाँ एसियाका भाषाहरू अध्ययन गर्दै हुनुहुन्छ।",
+        "mnemonic": "Imagine a talking golem (言 - げん) speaking every language (語 - ご). 言語 (げんご) means 'language' in Japanese. Picture the golem saying, 'I speak all languages!'",
+        "explanation": {
+            "word": "言語",
+            "pronunciation": "げんご",
+            "meanings": [
+                {
+                    "nepali": "भाषा",
+                    "english": "language, speech",
+                    "details": [
+                        "संचारका लागि प्रयोग गरिने शब्दहरू वा संकेतहरू।",
+                        "जस्तै - नेपाली भाषा, जापानी भाषा, अंग्रेजी भाषा आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "教育",
+        "Nep-meaning": "शिक्षा",
+        "sent-Nep": "उहाँले विदेशमा शिक्षा लिनुभयो।",
+        "mnemonic": "Picture a giant koala (教 - きょう) teaching a class about yaks (育 - いく). 教育 (きょういく) means 'education' in Japanese. Picture the koala saying, 'Education is key!'",
+        "explanation": {
+            "word": "教育",
+            "pronunciation": "きょういく",
+            "meanings": [
+                {
+                    "nepali": "शिक्षा",
+                    "english": "education",
+                    "details": [
+                        "ज्ञान, सीप, र मूल्यहरूको संरचनाबद्ध स्थानान्तरण।",
+                        "जस्तै - प्राथमिक शिक्षा, माध्यमिक शिक्षा, उच्च शिक्षा आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "他",
+        "Nep-meaning": "अरू",
+        "sent-Nep": "विद्यार्थीहरूमध्ये धेरै एसियाली छन्, अरू ३०% हुन्।",
+        "mnemonic": "Imagine a giant taco (他 - た) standing among other tacos. 他 (た) means 'other' in Japanese. Picture the taco saying, 'I’m one of the others!'",
+        "explanation": {
+            "word": "他",
+            "pronunciation": "ほか",
+            "meanings": [
+                {
+                    "nepali": "अरू",
+                    "english": "others, other things",
+                    "details": [
+                        "कुनै समूह वा सेटको बाहिरका वस्तु वा व्यक्ति।",
+                        "जस्तै - अरू विद्यार्थी, अरू देश, अरू भाषाहरू आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "取引",
+        "Nep-meaning": "लेनदेन",
+        "sent-Nep": "हामी चिनियाँ कम्पनीसँग लेनदेन गर्छौं।",
+        "mnemonic": "Picture a turkey (取 - とり) making a trade (引 - ひき) with a hedgehog. 取引 (とりひき) means 'transaction' in Japanese. Picture the turkey saying, 'Deal made!'",
+        "explanation": {
+            "word": "取引",
+            "pronunciation": "とりひき",
+            "meanings": [
+                {
+                    "nepali": "लेनदेन",
+                    "english": "transaction, dealings",
+                    "details": [
+                        "वस्तु वा सेवाको आदानप्रदान।",
+                        "जस्तै - व्यापार लेनदेन, वित्तीय लेनदेन, सेवा लेनदेन आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "自動車",
+        "Nep-meaning": "मोटरगाडी",
+        "sent-Nep": "उहाँ मोटरगाडी कम्पनीमा काम गर्नुभयो।",
+        "mnemonic": "Imagine a giant judo (自 - じ) champion driving a car (自動車 - じどうしゃ). 自動車 (じどうしゃ) means 'automobile' in Japanese. Picture the judo champion saying, 'Driving my car!'",
+        "explanation": {
+            "word": "自動車",
+            "pronunciation": "じどうしゃ",
+            "meanings": [
+                {
+                    "nepali": "मोटरगाडी",
+                    "english": "automobile",
+                    "details": [
+                        "इन्जिनद्वारा संचालित सवारी साधन।",
+                        "जस्तै - निजी मोटरगाडी, सार्वजनिक मोटरगाडी, व्यावसायिक मोटरगाडी आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "反対",
+        "Nep-meaning": "विरोध",
+        "sent-Nep": "म विरोध गर्छु।",
+        "mnemonic": "Visualize a panda (反 - はん) opposing (対 - たい) a kangaroo in a boxing match. 反対 (はんたい) means 'opposition' in Japanese. Picture the panda saying, 'I oppose you!'",
+        "explanation": {
+            "word": "反対",
+            "pronunciation": "はんたい",
+            "meanings": [
+                {
+                    "nepali": "विरोध",
+                    "english": "oppose, object",
+                    "details": [
+                        "कुनै कुरा अस्वीकृत वा असहमत गर्नु।",
+                        "जस्तै - योजना विरोध, प्रस्ताव विरोध, नीति विरोध आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "若者",
+        "Nep-meaning": "युवाहरू",
+        "sent-Nep": "हालका युवाहरूले किताब पढ्दैनन्।",
+        "mnemonic": "Picture a young samurai (若 - わか) warrior fighting with an otter (者 - もの). 若者 (わかもの) means 'young person' in Japanese. Picture the young samurai saying, 'I’m a young warrior!'",
+        "explanation": {
+            "word": "若者",
+            "pronunciation": "わかもの",
+            "meanings": [
+                {
+                    "nepali": "युवाहरू",
+                    "english": "young person, youth",
+                    "details": [
+                        "तन्नेरी अवस्था वा उमेरका व्यक्ति।",
+                        "जस्तै - विद्यार्थी युवाहरू, खेलाडी युवाहरू, नवप्रवर्तनकारी युवाहरू आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "分",
+        "Nep-meaning": "भाग",
+        "sent-Nep": "यो केक तपाईको भाग हो।",
+        "mnemonic": "Imagine a bunch of buns (分 - ぶん) being sliced into parts. 分 (ぶん) means 'part' or 'minute' in Japanese. Picture the buns saying, 'Divided into parts!'",
+        "explanation": {
+            "word": "分",
+            "pronunciation": "ぶん",
+            "meanings": [
+                {
+                    "nepali": "भाग",
+                    "english": "amount, part, share",
+                    "details": [
+                        "कुनै वस्तु वा सम्पत्तिको एक अंश।",
+                        "जस्तै - केकको भाग, सम्पत्तिको भाग, कामको भाग आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "課題",
+        "Nep-meaning": "कार्य",
+        "sent-Nep": "गर्मी छुट्टीको कार्य के हो?",
+        "mnemonic": "Picture a cat (課 - か) facing a giant die (題 - だい) as a challenge. 課題 (かだい) means 'task' or 'challenge' in Japanese. Picture the cat saying, 'Challenge accepted!'",
+        "explanation": {
+            "word": "課題",
+            "pronunciation": "かだい",
+            "meanings": [
+                {
+                    "nepali": "कार्य",
+                    "english": "task, problem",
+                    "details": [
+                        "कुनै उद्देश्य वा समाधानको लागि गरिने कार्य।",
+                        "जस्तै - गृहकार्य, परियोजना कार्य, समस्या कार्य आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "通常",
+        "Nep-meaning": "साधारण",
+        "sent-Nep": "साधारणतया राति ८ बजेसम्म खुल्छ।",
+        "mnemonic": "Visualize a giant tool (通 - つう) box being used normally (常 - じょう) every day. 通常 (つうじょう) means 'usual' in Japanese. Picture the toolbox saying, 'Just the usual!'",
+        "explanation": {
+            "word": "通常",
+            "pronunciation": "つうじょう",
+            "meanings": [
+                {
+                    "nepali": "साधारण",
+                    "english": "common, ordinary",
+                    "details": [
+                        "सामान्य स्थिति वा अवस्था।",
+                        "जस्तै - साधारण दिन, साधारण स्थिति, साधारण काम आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "同様",
+        "Nep-meaning": "समान",
+        "sent-Nep": "हामी उहाँलाई परिवारको सदस्य जस्तै मान्छौं।",
+        "mnemonic": "Imagine two yodelers (同 - どう) performing in the same way (様 - よう). 同様 (どうよう) means 'same' or 'similar' in Japanese. Picture the yodelers saying, 'We’re the same!'",
+        "explanation": {
+            "word": "同様",
+            "pronunciation": "どうよう",
+            "meanings": [
+                {
+                    "nepali": "समान",
+                    "english": "similar",
+                    "details": [
+                        "कुनै कुरा वा व्यक्तिमा समानता।",
+                        "जस्तै - समान विचार, समान स्थिति, समान समस्या आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "程度",
+        "Nep-meaning": "स्तर",
+        "sent-Nep": "यो स्तरको चोट भने ठिक छ।",
+        "mnemonic": "Picture a giant teddy bear (程 - てい) measuring the degree (度 - ど) of a hot cup of tea. 程度 (ていど) means 'degree' in Japanese. Picture the teddy saying, 'Measuring the degree!'",
+        "explanation": {
+            "word": "程度",
+            "pronunciation": "ていど",
+            "meanings": [
+                {
+                    "nepali": "स्तर",
+                    "english": "degree, extent",
+                    "details": [
+                        "कुनै कुराको मापन वा स्तर।",
+                        "जस्तै - शिक्षा स्तर, स्वास्थ्य स्तर, समस्या स्तर आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "当たる",
+        "Nep-meaning": "ठोक्किनु",
+        "sent-Nep": "बल उहाँको टाउकोमा ठोक्कियो।",
+        "mnemonic": "Imagine a giant dart (当 - あた) hitting (当たる - あたる) a bullseye. 当たる (あたる) means 'to hit' in Japanese. Picture the dart saying, 'Bullseye hit!'",
+        "explanation": {
+            "word": "当たる",
+            "pronunciation": "あたる",
+            "meanings": [
+                {
+                    "nepali": "ठोक्किनु",
+                    "english": "hit, strike",
+                    "details": [
+                        "कुनै कुरा ठोक्किनु वा टकराउनु।",
+                        "जस्तै - गाडी ठोक्किनु, बल ठोक्किनु, व्यक्तिहरू ठोक्किनु आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "訴える",
+        "Nep-meaning": "मुद्दा दायर गर्नु",
+        "sent-Nep": "उहाँले कम्पनीलाई मुद्दा दायर गर्नुभयो।",
+        "mnemonic": "Visualize a giant sushi (訴 - うった) suing (訴える - うったえる) a fish in court. 訴える (うったえる) means 'to sue' in Japanese. Picture the sushi saying, 'You’re sued!'",
+        "explanation": {
+            "word": "訴える",
+            "pronunciation": "うったえる",
+            "meanings": [
+                {
+                    "nepali": "मुद्दा दायर गर्नु",
+                    "english": "sue",
+                    "details": [
+                        "कुनै कानूनी कार्यवाही थाल्नु।",
+                        "जस्तै - कम्पनीलाई मुद्दा दायर गर्नु, व्यक्तिलाई मुद्दा दायर गर्नु, सेवा प्रदायकलाई मुद्दा दायर गर्नु आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "事情",
+        "Nep-meaning": "परिस्थिति",
+        "sent-Nep": "म तपाईको परिस्थिति बुझें।",
+        "mnemonic": "Imagine a giant genie (事 - じ) explaining the situation (情 - じょう) to a crowd. 事情 (じじょう) means 'situation' in Japanese. Picture the genie saying, 'Here’s the situation!'",
+        "explanation": {
+            "word": "事情",
+            "pronunciation": "じじょう",
+            "meanings": [
+                {
+                    "nepali": "परिस्थिति",
+                    "english": "circumstances, conditions",
+                    "details": [
+                        "कुनै घटना वा अवस्थाका सन्दर्भहरू।",
+                        "जस्तै - व्यक्तिगत परिस्थिति, आर्थिक परिस्थिति, सामाजिक परिस्थिति आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "発言",
+        "Nep-meaning": "वक्तव्य",
+        "sent-Nep": "बैठकमा सबैले वक्तव्य दिए।",
+        "mnemonic": "Picture a giant haggis (発 - はつ) giving a speech (言 - げん) on a podium. 発言 (はつげん) means 'speech' or 'statement' in Japanese. Picture the haggis saying, 'Hear my statement!'",
+        "explanation": {
+            "word": "発言",
+            "pronunciation": "はつげん",
+            "meanings": [
+                {
+                    "nepali": "वक्तव्य",
+                    "english": "utterance, speech",
+                    "details": [
+                        "कुनै कुरा बोल्नु वा व्यक्त गर्नु।",
+                        "जस्तै - औपचारिक वक्तव्य, सार्वजनिक वक्तव्य, व्यक्तिगत वक्तव्य आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "傾向",
+        "Nep-meaning": "प्रवृत्ति",
+        "sent-Nep": "हालका युवाहरू गाह्रो किताब पढ्न खोज्दैनन्।",
+        "mnemonic": "Imagine a giant king (傾 - けい) tending (傾向 - けいこう) to his subjects. 傾向 (けいこう) means 'tendency' in Japanese. Picture the king saying, 'This is the tendency!'",
+        "explanation": {
+            "word": "傾向",
+            "pronunciation": "けいこう",
+            "meanings": [
+                {
+                    "nepali": "प्रवृत्ति",
+                    "english": "tendency, disposition",
+                    "details": [
+                        "कुनै कुरा नियमित रूपमा दोहोरिनु वा कुनै दिशा तर्फको झुकाव।",
+                        "जस्तै - बजार प्रवृत्ति, सामाजिक प्रवृत्ति, सांस्कृतिक प्रवृत्ति आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "開催",
+        "Nep-meaning": "आयोजना",
+        "sent-Nep": "क्योटोमा अन्तर्राष्ट्रिय सम्मेलन आयोजना गरियो।",
+        "mnemonic": "Picture a giant kite (開 - かい) hosting (開催 - かいさい) a big festival. 開催 (かいさい) means 'holding' or 'hosting' in Japanese. Picture the kite saying, 'Festival is on!'",
+        "explanation": {
+            "word": "開催",
+            "pronunciation": "かいさい",
+            "meanings": [
+                {
+                    "nepali": "आयोजना",
+                    "english": "holding (of an event), opening",
+                    "details": [
+                        "कुनै कार्यक्रम वा समारोहको आयोजना।",
+                        "जस्तै - सम्मेलन आयोजन, प्रदर्शनी आयोजन, प्रतियोगिता आयोजन आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "文字",
+        "Nep-meaning": "अक्षर",
+        "sent-Nep": "पर्खालमा अक्षरहरू लेखिएका थिए।",
+        "mnemonic": "Visualize a bunch of monkeys (文 - もん) writing letters (字 - じ) on a typewriter. 文字 (もんじ) means 'letter' or 'character' in Japanese. Picture the monkeys saying, 'Typing letters!'",
+        "explanation": {
+            "word": "文字",
+            "pronunciation": "もじ",
+            "meanings": [
+                {
+                    "nepali": "अक्षर",
+                    "english": "character, letter",
+                    "details": [
+                        "लेखनमा प्रयोग गरिने चिह्न वा संकेत।",
+                        "जस्तै - जापानी अक्षर, अंग्रेजी अक्षर, ह्यान्जी अक्षर आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "子",
+        "Nep-meaning": "बच्चा",
+        "sent-Nep": "त्यो बच्चालाई जापानी भाषा थाहा छैन।",
+        "mnemonic": "Imagine a giant sock (子 - こ) playing with a bunch of tiny children. 子 (こ) means 'child' in Japanese. Picture the sock saying, 'Let’s play, kids!'",
+        "explanation": {
+            "word": "子",
+            "pronunciation": "こ",
+            "meanings": [
+                {
+                    "nepali": "बच्चा",
+                    "english": "child, kid",
+                    "details": [
+                        "तन्नेरी वा नवजात मानिस।",
+                        "जस्तै - स्कुले बच्चा, बालक बच्चा, नवजात बच्चा आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "述べる",
+        "Nep-meaning": "व्यक्त गर्नु",
+        "sent-Nep": "वरिष्ठले आफ्नो विचार व्यक्त गरे।",
+        "mnemonic": "Picture a giant noodle (述 - のべ) giving a speech (述べる - のべる) to a crowd. 述べる (のべる) means 'to state' in Japanese. Picture the noodle saying, 'I state the obvious!'",
+        "explanation": {
+            "word": "述べる",
+            "pronunciation": "のべる",
+            "meanings": [
+                {
+                    "nepali": "व्यक्त गर्नु",
+                    "english": "state orally, expound, mention",
+                    "details": [
+                        "कुनै कुरा बोल्नु वा लेख्नु।",
+                        "जस्तै - आफ्नो विचार व्यक्त गर्नु, तर्क व्यक्त गर्नु, भावना व्यक्त गर्नु आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "活動",
+        "Nep-meaning": "क्रियाकलाप",
+        "sent-Nep": "उहाँले स्थानिय क्रियाकलापमा सहभागिता जनाउनुभयो।",
+        "mnemonic": "Imagine a cat (活 - かつ) dancing (動 - どう) to upbeat music. 活動 (かつどう) means 'activity' in Japanese. Picture the cat saying, 'Let’s dance!'",
+        "explanation": {
+            "word": "活動",
+            "pronunciation": "かつどう",
+            "meanings": [
+                {
+                    "nepali": "क्रियाकलाप",
+                    "english": "activity",
+                    "details": [
+                        "कुनै उद्देश्यका लागि गरिने काम वा क्रिया।",
+                        "जस्तै - सामाजिक क्रियाकलाप, खेलकुद क्रियाकलाप, सांस्कृतिक क्रियाकलाप आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "期間",
+        "Nep-meaning": "अवधि",
+        "sent-Nep": "परीक्षा अवधि १० देखि १५ सम्म हो।",
+        "mnemonic": "Visualize a giant kiwi (期 - き) holding a calendar (間 - かん) marking a specific period. 期間 (きかん) means 'period' in Japanese. Picture the kiwi saying, 'Time marked!'",
+        "explanation": {
+            "word": "期間",
+            "pronunciation": "きかん",
+            "meanings": [
+                {
+                    "nepali": "अवधि",
+                    "english": "term, period",
+                    "details": [
+                        "कुनै समय वा अन्तराल।",
+                        "जस्तै - कामको अवधि, अध्ययन अवधि, छुट्टी अवधि आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "一定",
+        "Nep-meaning": "निश्चित",
+        "sent-Nep": "आवेदन गर्न निश्चित योग्यता चाहिन्छ।",
+        "mnemonic": "Picture a giant igloo (一 - いち) with a stable temperature (定 - てい) inside. 一定 (いってい) means 'constant' in Japanese. Picture the igloo saying, 'Constant temperature!'",
+        "explanation": {
+            "word": "一定",
+            "pronunciation": "いってい",
+            "meanings": [
+                {
+                    "nepali": "निश्चित",
+                    "english": "constant, standard",
+                    "details": [
+                        "कुनै कुरा स्थिर वा निर्धारण गरिएको।",
+                        "जस्तै - निश्चित मापदण्ड, निश्चित नियम, निश्चित समय आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "住民",
+        "Nep-meaning": "बासिन्दा",
+        "sent-Nep": "समुदायका बासिन्दाहरू भेला भएर छलफल गरे।",
+        "mnemonic": "Imagine a giant shoe (住 - じゅう) housing a bunch of tiny people (民 - みん). 住民 (じゅうみん) means 'resident' in Japanese. Picture the shoe saying, 'Welcome, residents!'",
+        "explanation": {
+            "word": "住民",
+            "pronunciation": "じゅうみん",
+            "meanings": [
+                {
+                    "nepali": "बासिन्दा",
+                    "english": "residents, dwellers",
+                    "details": [
+                        "कुनै स्थान वा क्षेत्रमा बस्ने व्यक्ति।",
+                        "जस्तै - ग्रामीण बासिन्दा, शहर बासिन्दा, अपार्टमेन्ट बासिन्दा आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "届く",
+        "Nep-meaning": "पुग्नु",
+        "sent-Nep": "हिजो बुबाको चिठी पुग्यो।",
+        "mnemonic": "Visualize a giant toad (届 - とど) delivering (届く - とどく) mail. 届く (とどく) means 'to reach' in Japanese. Picture the toad saying, 'Mail delivered!'",
+        "explanation": {
+            "word": "届く",
+            "pronunciation": "とどく",
+            "meanings": [
+                {
+                    "nepali": "पुग्नु",
+                    "english": "reach, be received",
+                    "details": [
+                        "कुनै कुरा गन्तव्यमा पुग्नु।",
+                        "जस्तै - पत्र पुग्नु, सामान पुग्नु, सूचना पुग्नु आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "やはり",
+        "Nep-meaning": "जस्तै अपेक्षित थियो",
+        "sent-Nep": "उहाँ जस्तै अपेक्षित थियो, ढिलो हुनुभयो।",
+        "mnemonic": "Picture a giant yak (や) standing firm saying, 'As expected!' やはり means 'as expected' in Japanese. Picture the yak saying, 'I knew it!'",
+        "explanation": {
+            "word": "やはり",
+            "pronunciation": "やはり",
+            "meanings": [
+                {
+                    "nepali": "जस्तै अपेक्षित थियो",
+                    "english": "as expected, also, still",
+                    "details": [
+                        "कुनै कुरा योजना अनुसार हुनु।",
+                        "जस्तै - जस्तै अपेक्षित थियो, योजना अनुसार, निश्चय नै आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "効果",
+        "Nep-meaning": "प्रभाव",
+        "sent-Nep": "यस औषधिले पेटलाई सुरक्षा गर्ने प्रभाव छ।",
+        "mnemonic": "Imagine a giant koala (効 - こう) showing off the effects (効果 - こうか) of its new workout routine. 効果 (こうか) means 'effect' in Japanese. Picture the koala saying, 'Look at the results!'",
+        "explanation": {
+            "word": "効果",
+            "pronunciation": "こうか",
+            "meanings": [
+                {
+                    "nepali": "प्रभाव",
+                    "english": "effect, result",
+                    "details": [
+                        "कुनै क्रियाको परिणाम वा असर।",
+                        "जस्तै - औषधिको प्रभाव, उपचारको प्रभाव, शिक्षाको प्रभाव आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "状況",
+        "Nep-meaning": "अवस्था",
+        "sent-Nep": "यो अवस्थामा प्रस्थान गर्न कठिन छ।",
+        "mnemonic": "Visualize a giant joker (状 - じょう) explaining the situation (況 - きょう) to a crowd. 状況 (じょうきょう) means 'situation' in Japanese. Picture the joker saying, 'Here’s the situation!'",
+        "explanation": {
+            "word": "状況",
+            "pronunciation": "じょうきょう",
+            "meanings": [
+                {
+                    "nepali": "अवस्था",
+                    "english": "state of affairs, conditions",
+                    "details": [
+                        "कुनै कुराको वर्तमान स्थिति वा परिस्थिति।",
+                        "जस्तै - स्वास्थ्य अवस्था, आर्थिक अवस्था, वातावरणीय अवस्था आदि।"
+                    ]
+                }
+            ]
+        }
+    },
+    {
+        "word": "確認",
+        "Nep-meaning": "पुष्टि",
+        "sent-Nep": "फेरि एकपटक, आरक्षण पुष्टि गरें।",
+        "mnemonic": "Picture a giant kangaroo (確 - かく) confirming (認 - にん) a fact with a magnifying glass. 確認 (かくにん) means 'confirmation' in Japanese. Picture the kangaroo saying, 'Confirmed!'",
+        "explanation": {
+            "word": "確認",
+            "pronunciation": "かくにん",
+            "meanings": [
+                {
+                    "nepali": "पुष्टि",
+                    "english": "confirmation",
+                    "details": [
+                        "कुनै कुराको सत्यता वा सहि भएको जाँच्नु।",
+                        "जस्तै - आरक्षण पुष्टि, विवरण पुष्टि, निर्णय पुष्टि आदि।"
+                    ]
+                }
+            ]
+        }
+    }
+]

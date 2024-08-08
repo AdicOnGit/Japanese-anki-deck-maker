@@ -1,0 +1,3002 @@
+[
+  {
+    "word": "それ",
+    "sentence": "それはとってもいい話だ。",
+    "word-Bahasa": "Itu",
+    "sentence-Bahasa": "Itu cerita yang sangat bagus."
+  },
+  {
+    "word": "見る",
+    "sentence": "私は絵を見るのが好きです。",
+    "word-Bahasa": "Melihat",
+    "sentence-Bahasa": "Saya suka melihat lukisan."
+  },
+  {
+    "word": "円",
+    "sentence": "そこに大きな円を描いて。",
+    "word-Bahasa": "Lingkaran",
+    "sentence-Bahasa": "Gambar lingkaran besar di sana."
+  },
+  {
+    "word": "多い",
+    "sentence": "京都にはお寺が多い。",
+    "word-Bahasa": "Banyak",
+    "sentence-Bahasa": "Di Kyoto ada banyak kuil."
+  },
+  {
+    "word": "家",
+    "sentence": "家に遊びに来てください。",
+    "word-Bahasa": "Rumah",
+    "sentence-Bahasa": "Silakan datang bermain ke rumahku."
+  },
+  {
+    "word": "これ",
+    "sentence": "これをください。",
+    "word-Bahasa": "Ini",
+    "sentence-Bahasa": "Tolong beri saya ini."
+  },
+  {
+    "word": "新しい",
+    "sentence": "彼の車は新しい。",
+    "word-Bahasa": "Baru",
+    "sentence-Bahasa": "Mobilnya baru."
+  },
+  {
+    "word": "私",
+    "sentence": "私が行きましょう。",
+    "word-Bahasa": "Saya",
+    "sentence-Bahasa": "Saya akan pergi."
+  },
+  {
+    "word": "仕事",
+    "sentence": "3月は仕事が忙しい。",
+    "word-Bahasa": "Pekerjaan",
+    "sentence-Bahasa": "Bulan Maret pekerjaan saya sibuk."
+  },
+  {
+    "word": "始める",
+    "sentence": "テストを始めてください。",
+    "word-Bahasa": "Mulai",
+    "sentence-Bahasa": "Silakan mulai tesnya."
+  },
+  {
+    "word": "なる",
+    "sentence": "彼は医者になりました。",
+    "word-Bahasa": "Menjadi",
+    "sentence-Bahasa": "Dia sudah menjadi dokter."
+  },
+  {
+    "word": "する",
+    "sentence": "友達と一緒に宿題をした。",
+    "word-Bahasa": "Melakukan",
+    "sentence-Bahasa": "Saya mengerjakan PR bersama teman."
+  },
+  {
+    "word": "出る",
+    "sentence": "今朝は早く家を出ました。",
+    "word-Bahasa": "Keluar",
+    "sentence-Bahasa": "Saya keluar rumah lebih awal pagi ini."
+  },
+  {
+    "word": "使う",
+    "sentence": "このパソコンを使ってください。",
+    "word-Bahasa": "Menggunakan",
+    "sentence-Bahasa": "Silakan gunakan komputer ini."
+  },
+  {
+    "word": "ところ",
+    "sentence": "私は友達のところに泊まった。",
+    "word-Bahasa": "Tempat",
+    "sentence-Bahasa": "Saya menginap di tempat teman."
+  },
+  {
+    "word": "思う",
+    "sentence": "私もそう思います。",
+    "word-Bahasa": "Pikir",
+    "sentence-Bahasa": "Saya juga berpikir begitu."
+  },
+  {
+    "word": "持つ",
+    "sentence": "私は車を持っています。",
+    "word-Bahasa": "Memiliki",
+    "sentence-Bahasa": "Saya memiliki mobil."
+  },
+  {
+    "word": "時間",
+    "sentence": "今は時間がありません。",
+    "word-Bahasa": "Waktu",
+    "sentence-Bahasa": "Sekarang saya tidak punya waktu."
+  },
+  {
+    "word": "今年",
+    "sentence": "今年はイタリアに旅行したい。",
+    "word-Bahasa": "Tahun ini",
+    "sentence-Bahasa": "Tahun ini saya ingin berlibur ke Italia."
+  },
+  {
+    "word": "知る",
+    "sentence": "誰もその話を知らない。",
+    "word-Bahasa": "Tahu",
+    "sentence-Bahasa": "Tidak ada yang tahu cerita itu."
+  },
+  {
+    "word": "作る",
+    "sentence": "今、朝ご飯を作っています。",
+    "word-Bahasa": "Membuat",
+    "sentence-Bahasa": "Sekarang saya sedang membuat sarapan."
+  },
+  {
+    "word": "同じ",
+    "sentence": "彼の日本語のレベルは私と同じ位だ。",
+    "word-Bahasa": "Sama",
+    "sentence-Bahasa": "Tingkat bahasa Jepang dia sama dengan saya."
+  },
+  {
+    "word": "今",
+    "sentence": "彼は今、勉強しています。",
+    "word-Bahasa": "Sekarang",
+    "sentence-Bahasa": "Dia sedang belajar sekarang."
+  },
+  {
+    "word": "続く",
+    "sentence": "工事は3月まで続きます。",
+    "word-Bahasa": "Berlanjut",
+    "sentence-Bahasa": "Pekerjaan konstruksi akan berlanjut sampai Maret."
+  },
+  {
+    "word": "国",
+    "sentence": "私の国について少しお話しましょう。",
+    "word-Bahasa": "Negara",
+    "sentence-Bahasa": "Mari kita bicara sedikit tentang negaraku."
+  },
+  {
+    "word": "未だ",
+    "sentence": "宿題は未だ終わっていません。",
+    "word-Bahasa": "Belum",
+    "sentence-Bahasa": "Pekerjaan rumah belum selesai."
+  },
+  {
+    "word": "やる",
+    "sentence": "一緒に宿題をやろう。",
+    "word-Bahasa": "Lakukan",
+    "sentence-Bahasa": "Mari kita kerjakan PR bersama."
+  },
+  {
+    "word": "言う",
+    "sentence": "上司が「一杯、飲もう。」と言った。",
+    "word-Bahasa": "Katakan",
+    "sentence-Bahasa": "Bos berkata, 'Mari minum satu gelas.'"
+  },
+  {
+    "word": "少ない",
+    "sentence": "今年は雨が少ないです。",
+    "word-Bahasa": "Sedikit",
+    "sentence-Bahasa": "Tahun ini hujan sedikit."
+  },
+  {
+    "word": "行く",
+    "sentence": "日曜日は図書館に行きます。",
+    "word-Bahasa": "Pergi",
+    "sentence-Bahasa": "Saya pergi ke perpustakaan pada hari Minggu."
+  },
+  {
+    "word": "決める",
+    "sentence": "帰国することに決めました。",
+    "word-Bahasa": "Memutuskan",
+    "sentence-Bahasa": "Saya memutuskan untuk pulang ke negara."
+  },
+  {
+    "word": "高い",
+    "sentence": "これがこの町で一番高いビルです。",
+    "word-Bahasa": "Tinggi",
+    "sentence-Bahasa": "Ini gedung tertinggi di kota ini."
+  },
+  {
+    "word": "考える",
+    "sentence": "よく考えてください。",
+    "word-Bahasa": "Berpikir",
+    "sentence-Bahasa": "Silakan pikirkan baik-baik."
+  },
+  {
+    "word": "感じる",
+    "sentence": "膝に痛みを感じます。",
+    "word-Bahasa": "Merasa",
+    "sentence-Bahasa": "Saya merasakan sakit di lutut."
+  },
+  {
+    "word": "子供",
+    "sentence": "電車で子供が騒いでいた。",
+    "word-Bahasa": "Anak-anak",
+    "sentence-Bahasa": "Anak-anak berisik di kereta."
+  },
+  {
+    "word": "そう",
+    "sentence": "私もそう思います。",
+    "word-Bahasa": "Begitu",
+    "sentence-Bahasa": "Saya juga berpikir begitu."
+  },
+  {
+    "word": "大学",
+    "sentence": "大学に行ってもっと勉強したいです。",
+    "word-Bahasa": "Universitas",
+    "sentence-Bahasa": "Saya ingin pergi ke universitas dan belajar lebih banyak."
+  },
+  {
+    "word": "もう",
+    "sentence": "彼はもう帰りました。",
+    "word-Bahasa": "Sudah",
+    "sentence-Bahasa": "Dia sudah pulang."
+  },
+  {
+    "word": "近く",
+    "sentence": "駅の近くで食事をした。",
+    "word-Bahasa": "Dekat",
+    "sentence-Bahasa": "Saya makan dekat stasiun."
+  },
+  {
+    "word": "入れる",
+    "sentence": "彼はかばんに手帳を入れた。",
+    "word-Bahasa": "Masukkan",
+    "sentence-Bahasa": "Dia memasukkan buku catatan ke dalam tas."
+  },
+  {
+    "word": "学生",
+    "sentence": "彼は真面目な学生です。",
+    "word-Bahasa": "Pelajar",
+    "sentence-Bahasa": "Dia adalah pelajar yang serius."
+  },
+  {
+    "word": "午後",
+    "sentence": "明日の午後、お客様が来る。",
+    "word-Bahasa": "Sore",
+    "sentence-Bahasa": "Besok sore, tamu akan datang."
+  },
+  {
+    "word": "長い",
+    "sentence": "彼女の髪はとても長い。",
+    "word-Bahasa": "Panjang",
+    "sentence-Bahasa": "Rambutnya sangat panjang."
+  },
+  {
+    "word": "本",
+    "sentence": "本を１冊買いました。",
+    "word-Bahasa": "Buku",
+    "sentence-Bahasa": "Saya membeli satu buku."
+  },
+  {
+    "word": "よく",
+    "sentence": "彼女はよく旅行に行きます。",
+    "word-Bahasa": "Sering",
+    "sentence-Bahasa": "Dia sering pergi berlibur."
+  },
+  {
+    "word": "彼女",
+    "sentence": "彼女はOLです。",
+    "word-Bahasa": "Dia (wanita)",
+    "sentence-Bahasa": "Dia seorang pekerja kantor."
+  },
+  {
+    "word": "聞く",
+    "sentence": "彼女はラジオを聞いています。",
+    "word-Bahasa": "Mendengarkan",
+    "sentence-Bahasa": "Dia sedang mendengarkan radio."
+  },
+  {
+    "word": "どう",
+    "sentence": "あなたはどう思いますか。",
+    "word-Bahasa": "Bagaimana",
+    "sentence-Bahasa": "Bagaimana pendapat Anda?"
+  },
+  {
+    "word": "生きる",
+    "sentence": "皆一生懸命生きている。",
+    "word-Bahasa": "Hidup",
+    "sentence-Bahasa": "Semua orang hidup dengan giat."
+  },
+  {
+    "word": "言葉",
+    "sentence": "この言葉の意味が分かりません。",
+    "word-Bahasa": "Kata",
+    "sentence-Bahasa": "Saya tidak mengerti arti kata ini."
+  },
+  {
+    "word": "顔",
+    "sentence": "彼はタオルで顔を拭きました。",
+    "word-Bahasa": "Wajah",
+    "sentence-Bahasa": "Dia mengelap wajahnya dengan handuk."
+  },
+  {
+    "word": "どこ",
+    "sentence": "あの本をどこに置きましたか。",
+    "word-Bahasa": "Di mana",
+    "sentence-Bahasa": "Di mana kamu meletakkan buku itu?"
+  },
+  {
+    "word": "一つ",
+    "sentence": "それを一つください。",
+    "word-Bahasa": "Satu",
+    "sentence-Bahasa": "Beri saya satu."
+  },
+  {
+    "word": "あげる",
+    "sentence": "この本、あなたにあげます。",
+    "word-Bahasa": "Memberi",
+    "sentence-Bahasa": "Saya beri buku ini untukmu."
+  },
+  {
+    "word": "こう",
+    "sentence": "こう小さい字は読めない。",
+    "word-Bahasa": "Begini",
+    "sentence-Bahasa": "Saya tidak bisa membaca huruf sekecil ini."
+  },
+  {
+    "word": "学校",
+    "sentence": "学校は8時半に始まります。",
+    "word-Bahasa": "Sekolah",
+    "sentence-Bahasa": "Sekolah mulai jam 8:30."
+  },
+  {
+    "word": "くれる",
+    "sentence": "友達が誕生日プレゼントをくれた。",
+    "word-Bahasa": "Memberi",
+    "sentence-Bahasa": "Teman memberi saya hadiah ulang tahun."
+  },
+  {
+    "word": "起きる",
+    "sentence": "私は毎朝6時に起きます。",
+    "word-Bahasa": "Bangun",
+    "sentence-Bahasa": "Saya bangun setiap pagi jam 6."
+  },
+  {
+    "word": "春",
+    "sentence": "今年の春は暖かいね。",
+    "word-Bahasa": "Musim semi",
+    "sentence-Bahasa": "Musim semi tahun ini hangat."
+  },
+  {
+    "word": "午前",
+    "sentence": "午前9時のニュースです。",
+    "word-Bahasa": "Pagi",
+    "sentence-Bahasa": "Ini berita jam 9 pagi."
+  },
+  {
+    "word": "買う",
+    "sentence": "郵便局で切手を買いました。",
+    "word-Bahasa": "Membeli",
+    "sentence-Bahasa": "Saya membeli perangko di kantor pos."
+  },
+  {
+    "word": "別",
+    "sentence": "別の本も見せてください。",
+    "word-Bahasa": "Lain",
+    "sentence-Bahasa": "Tolong tunjukkan buku lain."
+  },
+  {
+    "word": "終わる",
+    "sentence": "会議は4時に終わります。",
+    "word-Bahasa": "Selesai",
+    "sentence-Bahasa": "Rapat selesai jam 4."
+  },
+  {
+    "word": "若い",
+    "sentence": "彼はまだ若いです。",
+    "word-Bahasa": "Muda",
+    "sentence-Bahasa": "Dia masih muda."
+  },
+  {
+    "word": "かなり",
+    "sentence": "彼はかなり英語が上手です。",
+    "word-Bahasa": "Cukup",
+    "sentence-Bahasa": "Dia cukup pandai berbahasa Inggris."
+  },
+  {
+    "word": "置く",
+    "sentence": "彼はかばんをいすの上に置きました。",
+    "word-Bahasa": "Menaruh",
+    "sentence-Bahasa": "Dia menaruh tas di atas kursi."
+  },
+  {
+    "word": "住む",
+    "sentence": "彼は会社の近くに住んでいる。",
+    "word-Bahasa": "Tinggal",
+    "sentence-Bahasa": "Dia tinggal dekat perusahaan."
+  },
+  {
+    "word": "戻る",
+    "sentence": "今、会社に戻ります。",
+    "word-Bahasa": "Kembali",
+    "sentence-Bahasa": "Sekarang saya kembali ke kantor."
+  },
+  {
+    "word": "働く",
+    "sentence": "姉は銀行で働いています。",
+    "word-Bahasa": "Bekerja",
+    "sentence-Bahasa": "Kakak saya bekerja di bank."
+  },
+  {
+    "word": "後",
+    "sentence": "仕事の後、映画を見た。",
+    "word-Bahasa": "Setelah",
+    "sentence-Bahasa": "Setelah bekerja, saya menonton film."
+  },
+  {
+    "word": "先生",
+    "sentence": "私は日本語の先生になりたいです。",
+    "word-Bahasa": "Guru",
+    "sentence-Bahasa": "Saya ingin menjadi guru bahasa Jepang."
+  },
+  {
+    "word": "立つ",
+    "sentence": "彼はステージに立った。",
+    "word-Bahasa": "Berdiri",
+    "sentence-Bahasa": "Dia berdiri di atas panggung."
+  },
+  {
+    "word": "気",
+    "sentence": "彼は意外に気が小さい。",
+    "word-Bahasa": "Perasaan",
+    "sentence-Bahasa": "Dia ternyata sangat pemalu."
+  },
+  {
+    "word": "呼ぶ",
+    "sentence": "ウェイターを呼びましょう。",
+    "word-Bahasa": "Memanggil",
+    "sentence-Bahasa": "Mari panggil pelayan."
+  },
+  {
+    "word": "もっと",
+    "sentence": "もっと近くに来てください。",
+    "word-Bahasa": "Lebih",
+    "sentence-Bahasa": "Datang lebih dekat."
+  },
+  {
+    "word": "帰る",
+    "sentence": "家に帰ろう。",
+    "word-Bahasa": "Pulang",
+    "sentence-Bahasa": "Mari pulang ke rumah."
+  },
+  {
+    "word": "気持ち",
+    "sentence": "彼の気持ちが分からない。",
+    "word-Bahasa": "Perasaan",
+    "sentence-Bahasa": "Saya tidak mengerti perasaannya."
+  },
+  {
+    "word": "飛ぶ",
+    "sentence": "鳥が飛んでいます。",
+    "word-Bahasa": "Terbang",
+    "sentence-Bahasa": "Burung sedang terbang."
+  },
+  {
+    "word": "車",
+    "sentence": "弟が車を買った。",
+    "word-Bahasa": "Mobil",
+    "sentence-Bahasa": "Adik saya membeli mobil."
+  },
+  {
+    "word": "変える",
+    "sentence": "旅行の日程を変えました。",
+    "word-Bahasa": "Mengubah",
+    "sentence-Bahasa": "Saya mengubah jadwal perjalanan."
+  },
+  {
+    "word": "広い",
+    "sentence": "彼の家はとても広い。",
+    "word-Bahasa": "Luas",
+    "sentence-Bahasa": "Rumahnya sangat luas."
+  },
+  {
+    "word": "分かる",
+    "sentence": "質問の意味は分かりましたか。",
+    "word-Bahasa": "Mengerti",
+    "sentence-Bahasa": "Apakah Anda mengerti arti pertanyaannya?"
+  },
+  {
+    "word": "数",
+    "sentence": "グラスの数が足りません。",
+    "word-Bahasa": "Jumlah",
+    "sentence-Bahasa": "Jumlah gelasnya tidak cukup."
+  },
+  {
+    "word": "近い",
+    "sentence": "駅はここから近いです。",
+    "word-Bahasa": "Dekat",
+    "sentence-Bahasa": "Stasiun dekat dari sini."
+  },
+  {
+    "word": "そこ",
+    "sentence": "そこに座ってください。",
+    "word-Bahasa": "Di sana",
+    "sentence-Bahasa": "Silakan duduk di sana."
+  },
+  {
+    "word": "走る",
+    "sentence": "彼は毎晩3キロ走っています。",
+    "word-Bahasa": "Berlari",
+    "sentence-Bahasa": "Dia berlari 3 kilometer setiap malam."
+  },
+  {
+    "word": "売る",
+    "sentence": "彼は家を売った。",
+    "word-Bahasa": "Menjual",
+    "sentence-Bahasa": "Dia menjual rumahnya."
+  },
+  {
+    "word": "朝",
+    "sentence": "気持ちのいい朝です。",
+    "word-Bahasa": "Pagi",
+    "sentence-Bahasa": "Ini pagi yang menyenangkan."
+  },
+  {
+    "word": "教える",
+    "sentence": "彼は数学を教えています。",
+    "word-Bahasa": "Mengajar",
+    "sentence-Bahasa": "Dia mengajar matematika."
+  },
+  {
+    "word": "歩く",
+    "sentence": "駅まで歩きましょう。",
+    "word-Bahasa": "Berjalan",
+    "sentence-Bahasa": "Mari berjalan ke stasiun."
+  },
+  {
+    "word": "直ぐ",
+    "sentence": "直ぐ行きます。",
+    "word-Bahasa": "Segera",
+    "sentence-Bahasa": "Saya akan segera pergi."
+  },
+  {
+    "word": "会う",
+    "sentence": "また会いましょう。",
+    "word-Bahasa": "Bertemu",
+    "sentence-Bahasa": "Mari bertemu lagi."
+  },
+  {
+    "word": "部屋",
+    "sentence": "私の部屋は2階にあります。",
+    "word-Bahasa": "Kamar",
+    "sentence-Bahasa": "Kamar saya ada di lantai dua."
+  },
+  {
+    "word": "起こる",
+    "sentence": "町で大事件が起こりました。",
+    "word-Bahasa": "Terjadi",
+    "sentence-Bahasa": "Peristiwa besar terjadi di kota."
+  },
+  {
+    "word": "秋",
+    "sentence": "彼女は秋に結婚します。",
+    "word-Bahasa": "Musim gugur",
+    "sentence-Bahasa": "Dia akan menikah di musim gugur."
+  },
+  {
+    "word": "難しい",
+    "sentence": "この本は難しいですね。",
+    "word-Bahasa": "Sulit",
+    "sentence-Bahasa": "Buku ini sulit, ya."
+  },
+  {
+    "word": "送る",
+    "sentence": "彼の家に荷物を送りました。",
+    "word-Bahasa": "Mengirim",
+    "sentence-Bahasa": "Saya mengirim paket ke rumahnya."
+  },
+  {
+    "word": "死ぬ",
+    "sentence": "犬が病気で死にました。",
+    "word-Bahasa": "Meninggal",
+    "sentence-Bahasa": "Anjing meninggal karena sakit."
+  },
+  {
+    "word": "乗る",
+    "sentence": "駅からはタクシーに乗ってください。",
+    "word-Bahasa": "Naik",
+    "sentence-Bahasa": "Dari stasiun, naiklah taksi."
+  },
+  {
+    "word": "安い",
+    "sentence": "この服はとても安かった。",
+    "word-Bahasa": "Murah",
+    "sentence-Bahasa": "Pakaian ini sangat murah."
+  },
+  {
+    "word": "書く",
+    "sentence": "彼に手紙を書きました。",
+    "word-Bahasa": "Menulis",
+    "sentence-Bahasa": "Saya menulis surat untuknya."
+  },
+  {
+    "word": "話す",
+    "sentence": "母と電話で話しました。",
+    "word-Bahasa": "Berbicara",
+    "sentence-Bahasa": "Saya berbicara dengan ibu melalui telepon."
+  },
+  {
+    "word": "頭",
+    "sentence": "今朝から頭が痛い。",
+    "word-Bahasa": "Kepala",
+    "sentence-Bahasa": "Kepalaku sakit sejak pagi."
+  },
+  {
+    "word": "体",
+    "sentence": "私は体が丈夫だ。",
+    "word-Bahasa": "Tubuh",
+    "sentence-Bahasa": "Tubuh saya kuat."
+  },
+  {
+    "word": "ここ",
+    "sentence": "ここに本があります。",
+    "word-Bahasa": "Di sini",
+    "sentence-Bahasa": "Ada buku di sini."
+  },
+  {
+    "word": "待つ",
+    "sentence": "あなたが来るのを待っています。",
+    "word-Bahasa": "Menunggu",
+    "sentence-Bahasa": "Saya menunggu kedatanganmu."
+  },
+  {
+    "word": "低い",
+    "sentence": "彼は背が低い。",
+    "word-Bahasa": "Pendek",
+    "sentence-Bahasa": "Dia pendek."
+  },
+  {
+    "word": "もらう",
+    "sentence": "彼女からプレゼントをもらいました。",
+    "word-Bahasa": "Menerima",
+    "sentence-Bahasa": "Saya menerima hadiah dari dia."
+  },
+  {
+    "word": "食べる",
+    "sentence": "昨日タイカレーを食べました。",
+    "word-Bahasa": "Makan",
+    "sentence-Bahasa": "Saya makan kari Thailand kemarin."
+  },
+  {
+    "word": "早い",
+    "sentence": "まだ学校へ行くには早い時間です。",
+    "word-Bahasa": "Cepat",
+    "sentence-Bahasa": "Masih terlalu pagi untuk pergi ke sekolah."
+  },
+  {
+    "word": "兄",
+    "sentence": "兄は水泳が得意です。",
+    "word-Bahasa": "Kakak laki-laki",
+    "sentence-Bahasa": "Kakak laki-laki saya pandai berenang."
+  },
+  {
+    "word": "名前",
+    "sentence": "あなたの名前を教えてください。",
+    "word-Bahasa": "Nama",
+    "sentence-Bahasa": "Tolong beri tahu nama Anda."
+  },
+  {
+    "word": "夫",
+    "sentence": "私の夫はサラリーマンです。",
+    "word-Bahasa": "Suami",
+    "sentence-Bahasa": "Suami saya adalah seorang pekerja kantoran."
+  },
+  {
+    "word": "一",
+    "sentence": "一から始めましょう。",
+    "word-Bahasa": "Satu",
+    "sentence-Bahasa": "Mari mulai dari satu."
+  },
+  {
+    "word": "結婚",
+    "sentence": "彼女は来月結婚します。",
+    "word-Bahasa": "Pernikahan",
+    "sentence-Bahasa": "Dia akan menikah bulan depan."
+  },
+  {
+    "word": "親",
+    "sentence": "親の愛は有り難い。",
+    "word-Bahasa": "Orang tua",
+    "sentence-Bahasa": "Cinta orang tua sangat berharga."
+  },
+  {
+    "word": "古い",
+    "sentence": "私は古い車が好きです。",
+    "word-Bahasa": "Tua",
+    "sentence-Bahasa": "Saya suka mobil tua."
+  },
+  {
+    "word": "美しい",
+    "sentence": "この絵は美しいです。",
+    "word-Bahasa": "Indah",
+    "sentence-Bahasa": "Lukisan ini indah."
+  },
+  {
+    "word": "足",
+    "sentence": "彼は足が長い。",
+    "word-Bahasa": "Kaki",
+    "sentence-Bahasa": "Kakinya panjang."
+  },
+  {
+    "word": "次",
+    "sentence": "次はいつ会いましょうか。",
+    "word-Bahasa": "Selanjutnya",
+    "sentence-Bahasa": "Kapan kita bertemu lagi?"
+  },
+  {
+    "word": "起こす",
+    "sentence": "明日、6時に起こしてください。",
+    "word-Bahasa": "Membangunkan",
+    "sentence-Bahasa": "Tolong bangunkan saya jam 6 besok."
+  },
+  {
+    "word": "見せる",
+    "sentence": "その写真を見せてください。",
+    "word-Bahasa": "Menunjukkan",
+    "sentence-Bahasa": "Tolong tunjukkan foto itu."
+  },
+  {
+    "word": "娘",
+    "sentence": "私の娘はアメリカにいます。",
+    "word-Bahasa": "Putri",
+    "sentence-Bahasa": "Putri saya ada di Amerika."
+  },
+  {
+    "word": "とても",
+    "sentence": "この本はとてもおもしろい。",
+    "word-Bahasa": "Sangat",
+    "sentence-Bahasa": "Buku ini sangat menarik."
+  },
+  {
+    "word": "少し",
+    "sentence": "少し疲れました。",
+    "word-Bahasa": "Sedikit",
+    "sentence-Bahasa": "Saya sedikit lelah."
+  },
+  {
+    "word": "質問",
+    "sentence": "質問のある方はどうぞ。",
+    "word-Bahasa": "Pertanyaan",
+    "sentence-Bahasa": "Silakan ajukan pertanyaan jika ada."
+  },
+  {
+    "word": "楽しむ",
+    "sentence": "今日は一人の時間を楽しみたい。",
+    "word-Bahasa": "Menikmati",
+    "sentence-Bahasa": "Hari ini saya ingin menikmati waktu sendirian."
+  },
+  {
+    "word": "色",
+    "sentence": "すてきな色のセーターですね。",
+    "word-Bahasa": "Warna",
+    "sentence-Bahasa": "Sweater ini warnanya bagus."
+  },
+  {
+    "word": "みんな",
+    "sentence": "みんなにお菓子をあげましょう。",
+    "word-Bahasa": "Semua orang",
+    "sentence-Bahasa": "Mari beri semua orang permen."
+  },
+  {
+    "word": "取る",
+    "sentence": "テストでいい点を取った。",
+    "word-Bahasa": "Mengambil",
+    "sentence-Bahasa": "Saya mendapatkan nilai bagus dalam tes."
+  },
+  {
+    "word": "勉強",
+    "sentence": "私は日本語を勉強しています。",
+    "word-Bahasa": "Belajar",
+    "sentence-Bahasa": "Saya belajar bahasa Jepang."
+  },
+  {
+    "word": "出来る",
+    "sentence": "彼女はイタリア語が出来ます。",
+    "word-Bahasa": "Bisa",
+    "sentence-Bahasa": "Dia bisa berbahasa Italia."
+  },
+  {
+    "word": "短い",
+    "sentence": "彼は足が短い。",
+    "word-Bahasa": "Pendek",
+    "sentence-Bahasa": "Kakinya pendek."
+  },
+  {
+    "word": "落ちる",
+    "sentence": "猿も木から落ちる。",
+    "word-Bahasa": "Jatuh",
+    "sentence-Bahasa": "Bahkan monyet pun bisa jatuh dari pohon."
+  },
+  {
+    "word": "息子",
+    "sentence": "うちの息子は大学1年生です。",
+    "word-Bahasa": "Anak laki-laki",
+    "sentence-Bahasa": "Anak laki-laki saya adalah mahasiswa tahun pertama."
+  },
+  {
+    "word": "白い",
+    "sentence": "彼は歯が白い。",
+    "word-Bahasa": "Putih",
+    "sentence-Bahasa": "Giginya putih."
+  },
+  {
+    "word": "誰",
+    "sentence": "誰と会ってみたいですか。",
+    "word-Bahasa": "Siapa",
+    "sentence-Bahasa": "Anda ingin bertemu dengan siapa?"
+  },
+  {
+    "word": "いつも",
+    "sentence": "彼女はいつも元気だ。",
+    "word-Bahasa": "Selalu",
+    "sentence-Bahasa": "Dia selalu bersemangat."
+  },
+  {
+    "word": "飛行機",
+    "sentence": "息子は飛行機のおもちゃが好きです。",
+    "word-Bahasa": "Pesawat",
+    "sentence-Bahasa": "Anak laki-laki saya suka mainan pesawat."
+  },
+  {
+    "word": "勝つ",
+    "sentence": "今日はヤンキースが勝った。",
+    "word-Bahasa": "Menang",
+    "sentence-Bahasa": "Yankees menang hari ini."
+  },
+  {
+    "word": "病気",
+    "sentence": "祖父が病気になった。",
+    "word-Bahasa": "Sakit",
+    "sentence-Bahasa": "Kakek saya sakit."
+  },
+  {
+    "word": "冬",
+    "sentence": "カナダの冬はとても寒いです。",
+    "word-Bahasa": "Musim dingin",
+    "sentence-Bahasa": "Musim dingin di Kanada sangat dingin."
+  },
+  {
+    "word": "年",
+    "sentence": "新しい年が始まりました。",
+    "word-Bahasa": "Tahun",
+    "sentence-Bahasa": "Tahun baru telah dimulai."
+  },
+  {
+    "word": "重い",
+    "sentence": "このかばんは重いです。",
+    "word-Bahasa": "Berat",
+    "sentence-Bahasa": "Tas ini berat."
+  },
+  {
+    "word": "胸",
+    "sentence": "胸に少し痛みがあります。",
+    "word-Bahasa": "Dada",
+    "sentence-Bahasa": "Ada sedikit rasa sakit di dada."
+  },
+  {
+    "word": "読む",
+    "sentence": "彼女は雑誌を読んでいます。",
+    "word-Bahasa": "Membaca",
+    "sentence-Bahasa": "Dia sedang membaca majalah."
+  },
+  {
+    "word": "払う",
+    "sentence": "私が払いましょう。",
+    "word-Bahasa": "Membayar",
+    "sentence-Bahasa": "Biar saya yang bayar."
+  },
+  {
+    "word": "軽い",
+    "sentence": "この靴はとても軽い。",
+    "word-Bahasa": "Ringan",
+    "sentence-Bahasa": "Sepatu ini sangat ringan."
+  },
+  {
+    "word": "見つける",
+    "sentence": "新しい仕事を見つけました。",
+    "word-Bahasa": "Menemukan",
+    "sentence-Bahasa": "Saya menemukan pekerjaan baru."
+  },
+  {
+    "word": "いつ",
+    "sentence": "彼女はいつ来ますか。",
+    "word-Bahasa": "Kapan",
+    "sentence-Bahasa": "Kapan dia datang?"
+  },
+  {
+    "word": "友達",
+    "sentence": "私には友達がたくさんいます。",
+    "word-Bahasa": "Teman",
+    "sentence-Bahasa": "Saya punya banyak teman."
+  },
+  {
+    "word": "忘れる",
+    "sentence": "約束を忘れないでください。",
+    "word-Bahasa": "Lupa",
+    "sentence-Bahasa": "Jangan lupa janji Anda."
+  },
+  {
+    "word": "酒",
+    "sentence": "彼女は酒に強い。",
+    "word-Bahasa": "Alkohol",
+    "sentence-Bahasa": "Dia kuat minum alkohol."
+  },
+  {
+    "word": "どちら",
+    "sentence": "肉と魚とどちらが好きですか。",
+    "word-Bahasa": "Yang mana",
+    "sentence-Bahasa": "Kamu suka daging atau ikan?"
+  },
+  {
+    "word": "姉",
+    "sentence": "姉は大学生です。",
+    "word-Bahasa": "Kakak perempuan",
+    "sentence-Bahasa": "Kakak perempuan saya adalah mahasiswa."
+  },
+  {
+    "word": "覚える",
+    "sentence": "妹は平仮名を全部覚えました。",
+    "word-Bahasa": "Menghafal",
+    "sentence-Bahasa": "Adik perempuan saya menghafal semua hiragana."
+  },
+  {
+    "word": "狭い",
+    "sentence": "私の部屋は狭いです。",
+    "word-Bahasa": "Sempit",
+    "sentence-Bahasa": "Kamar saya sempit."
+  },
+  {
+    "word": "好き",
+    "sentence": "私はワインが好きです。",
+    "word-Bahasa": "Suka",
+    "sentence-Bahasa": "Saya suka anggur."
+  },
+  {
+    "word": "建てる",
+    "sentence": "私たちは来年、家を建てます。",
+    "word-Bahasa": "Membangun",
+    "sentence-Bahasa": "Kami akan membangun rumah tahun depan."
+  },
+  {
+    "word": "どれ",
+    "sentence": "この中でどれが好きですか。",
+    "word-Bahasa": "Yang mana",
+    "sentence-Bahasa": "Dari ini, yang mana yang kamu suka?"
+  },
+  {
+    "word": "赤い",
+    "sentence": "赤いバラを買いました。",
+    "word-Bahasa": "Merah",
+    "sentence-Bahasa": "Saya membeli mawar merah."
+  },
+  {
+    "word": "今日",
+    "sentence": "今日は仕事がありません。",
+    "word-Bahasa": "Hari ini",
+    "sentence-Bahasa": "Hari ini saya tidak ada pekerjaan."
+  },
+  {
+    "word": "着る",
+    "sentence": "今日はスーツを着ています。",
+    "word-Bahasa": "Memakai",
+    "sentence-Bahasa": "Saya memakai setelan hari ini."
+  },
+  {
+    "word": "笑う",
+    "sentence": "赤ん坊が笑っています。",
+    "word-Bahasa": "Tertawa",
+    "sentence-Bahasa": "Bayi sedang tertawa."
+  },
+  {
+    "word": "一番",
+    "sentence": "彼はクラスで一番背が高い。",
+    "word-Bahasa": "Paling",
+    "sentence-Bahasa": "Dia yang paling tinggi di kelas."
+  },
+  {
+    "word": "授業",
+    "sentence": "今日は日本語の授業があります。",
+    "word-Bahasa": "Pelajaran",
+    "sentence-Bahasa": "Hari ini ada pelajaran bahasa Jepang."
+  },
+  {
+    "word": "週",
+    "sentence": "その次の週は空いてますか。",
+    "word-Bahasa": "Minggu",
+    "sentence-Bahasa": "Apakah minggu depan kamu kosong?"
+  },
+  {
+    "word": "漢字",
+    "sentence": "漢字は中国から来ました。",
+    "word-Bahasa": "Kanji",
+    "sentence-Bahasa": "Kanji berasal dari China."
+  },
+  {
+    "word": "自転車",
+    "sentence": "毎日、駅まで自転車で行きます。",
+    "word-Bahasa": "Sepeda",
+    "sentence-Bahasa": "Saya pergi ke stasiun dengan sepeda setiap hari."
+  },
+  {
+    "word": "電車",
+    "sentence": "私は電車で通学しています。",
+    "word-Bahasa": "Kereta",
+    "sentence-Bahasa": "Saya pergi ke sekolah dengan kereta."
+  },
+  {
+    "word": "探す",
+    "sentence": "彼は郵便局を探していました。",
+    "word-Bahasa": "Mencari",
+    "sentence-Bahasa": "Dia sedang mencari kantor pos."
+  },
+  {
+    "word": "紙",
+    "sentence": "紙と鉛筆はありますか。",
+    "word-Bahasa": "Kertas",
+    "sentence-Bahasa": "Apakah ada kertas dan pensil?"
+  },
+  {
+    "word": "歌う",
+    "sentence": "私たちは大きな声で歌いました。",
+    "word-Bahasa": "Bernyanyi",
+    "sentence-Bahasa": "Kami bernyanyi dengan suara keras."
+  },
+  {
+    "word": "遅い",
+    "sentence": "前の車はとても遅い。",
+    "word-Bahasa": "Lambat",
+    "sentence-Bahasa": "Mobil di depan sangat lambat."
+  },
+  {
+    "word": "首",
+    "sentence": "きりんの首は長い。",
+    "word-Bahasa": "Leher",
+    "sentence-Bahasa": "Leher jerapah panjang."
+  },
+  {
+    "word": "速い",
+    "sentence": "彼は走るのが速い。",
+    "word-Bahasa": "Cepat",
+    "sentence-Bahasa": "Dia berlari dengan cepat."
+  },
+  {
+    "word": "一緒に",
+    "sentence": "一緒に帰りましょう。",
+    "word-Bahasa": "Bersama-sama",
+    "sentence-Bahasa": "Mari pulang bersama-sama."
+  },
+  {
+    "word": "日記",
+    "sentence": "私は毎日、日記を付けています。",
+    "word-Bahasa": "Buku harian",
+    "sentence-Bahasa": "Saya menulis buku harian setiap hari."
+  },
+  {
+    "word": "今月",
+    "sentence": "今月はとても忙しい。",
+    "word-Bahasa": "Bulan ini",
+    "sentence-Bahasa": "Bulan ini sangat sibuk."
+  },
+  {
+    "word": "遊ぶ",
+    "sentence": "子供たちが公園で遊んでいる。",
+    "word-Bahasa": "Bermain",
+    "sentence-Bahasa": "Anak-anak bermain di taman."
+  },
+  {
+    "word": "遠い",
+    "sentence": "家から学校までは遠いです。",
+    "word-Bahasa": "Jauh",
+    "sentence-Bahasa": "Sekolah jauh dari rumah."
+  },
+  {
+    "word": "弱い",
+    "sentence": "その子は体が少し弱い。",
+    "word-Bahasa": "Lemah",
+    "sentence-Bahasa": "Anak itu tubuhnya sedikit lemah."
+  },
+  {
+    "word": "耳",
+    "sentence": "彼女は耳がよく聞こえません。",
+    "word-Bahasa": "Telinga",
+    "sentence-Bahasa": "Dia tidak bisa mendengar dengan baik."
+  },
+  {
+    "word": "座る",
+    "sentence": "私は窓側の席に座った。",
+    "word-Bahasa": "Duduk",
+    "sentence-Bahasa": "Saya duduk di kursi dekat jendela."
+  },
+  {
+    "word": "右",
+    "sentence": "右のポケットにハンカチが入っています。",
+    "word-Bahasa": "Kanan",
+    "sentence-Bahasa": "Ada sapu tangan di saku kanan."
+  },
+  {
+    "word": "浴びる",
+    "sentence": "私は朝、シャワーを浴びます。",
+    "word-Bahasa": "Mandi",
+    "sentence-Bahasa": "Saya mandi pagi."
+  },
+  {
+    "word": "肩",
+    "sentence": "肩が凝りました。",
+    "word-Bahasa": "Bahu",
+    "sentence-Bahasa": "Bahu saya kaku."
+  },
+  {
+    "word": "飲む",
+    "sentence": "友達とお酒を飲んでいます。",
+    "word-Bahasa": "Minum",
+    "sentence-Bahasa": "Saya sedang minum alkohol dengan teman."
+  },
+  {
+    "word": "寝る",
+    "sentence": "もう寝よう。",
+    "word-Bahasa": "Tidur",
+    "sentence-Bahasa": "Mari tidur."
+  },
+  {
+    "word": "消す",
+    "sentence": "昼間は電気を消してください。",
+    "word-Bahasa": "Mematikan",
+    "sentence-Bahasa": "Matikan lampu di siang hari."
+  },
+  {
+    "word": "元気",
+    "sentence": "おかげさまで元気です。",
+    "word-Bahasa": "Sehat",
+    "sentence-Bahasa": "Terima kasih, saya sehat."
+  },
+  {
+    "word": "負ける",
+    "sentence": "私たちのチームはその試合で負けた。",
+    "word-Bahasa": "Kalah",
+    "sentence-Bahasa": "Tim kami kalah dalam pertandingan itu."
+  },
+  {
+    "word": "全部",
+    "sentence": "それ、全部ください。",
+    "word-Bahasa": "Semua",
+    "sentence-Bahasa": "Beri saya semua itu."
+  },
+  {
+    "word": "去年",
+    "sentence": "私は去年フランスへ行った。",
+    "word-Bahasa": "Tahun lalu",
+    "sentence-Bahasa": "Saya pergi ke Prancis tahun lalu."
+  },
+  {
+    "word": "引く",
+    "sentence": "このドアは引いてください。",
+    "word-Bahasa": "Tarik",
+    "sentence-Bahasa": "Tarik pintu ini."
+  },
+  {
+    "word": "図書館",
+    "sentence": "図書館で料理の本を借りた。",
+    "word-Bahasa": "Perpustakaan",
+    "sentence-Bahasa": "Saya meminjam buku masakan di perpustakaan."
+  },
+  {
+    "word": "上げる",
+    "sentence": "彼は荷物をあみだなに上げた。",
+    "word-Bahasa": "Mengangkat",
+    "sentence-Bahasa": "Dia mengangkat barang ke rak atas."
+  },
+  {
+    "word": "緑",
+    "sentence": "この町には緑がたくさんあります。",
+    "word-Bahasa": "Hijau",
+    "sentence-Bahasa": "Kota ini banyak hijauannya."
+  },
+  {
+    "word": "腕",
+    "sentence": "彼の腕は太い。",
+    "word-Bahasa": "Lengan",
+    "sentence-Bahasa": "Lengannya besar."
+  },
+  {
+    "word": "ドア",
+    "sentence": "ドアを開けてください。",
+    "word-Bahasa": "Pintu",
+    "sentence-Bahasa": "Tolong buka pintu."
+  },
+  {
+    "word": "閉じる",
+    "sentence": "教科書を閉じてください。",
+    "word-Bahasa": "Menutup",
+    "sentence-Bahasa": "Tolong tutup buku pelajaran."
+  },
+  {
+    "word": "時",
+    "sentence": "時の経つのは早い。",
+    "word-Bahasa": "Waktu",
+    "sentence-Bahasa": "Waktu berlalu dengan cepat."
+  },
+  {
+    "word": "米",
+    "sentence": "日本人はお米が大好きです。",
+    "word-Bahasa": "Nasi",
+    "sentence-Bahasa": "Orang Jepang sangat suka nasi."
+  },
+  {
+    "word": "切る",
+    "sentence": "この紙を半分に切ってください。",
+    "word-Bahasa": "Memotong",
+    "sentence-Bahasa": "Tolong potong kertas ini menjadi dua."
+  },
+  {
+    "word": "線",
+    "sentence": "赤い線を2本引いて下さい。",
+    "word-Bahasa": "Garis",
+    "sentence-Bahasa": "Tolong tarik dua garis merah."
+  },
+  {
+    "word": "決まる",
+    "sentence": "旅行の日程が決まりました。",
+    "word-Bahasa": "Diputuskan",
+    "sentence-Bahasa": "Jadwal perjalanan telah diputuskan."
+  },
+  {
+    "word": "楽しい",
+    "sentence": "彼はとても楽しい人です。",
+    "word-Bahasa": "Menyenangkan",
+    "sentence-Bahasa": "Dia orang yang sangat menyenangkan."
+  },
+  {
+    "word": "服",
+    "sentence": "昨日、新しい服を買った。",
+    "word-Bahasa": "Pakaian",
+    "sentence-Bahasa": "Kemarin saya membeli pakaian baru."
+  },
+  {
+    "word": "後ろ",
+    "sentence": "後ろを向いて。",
+    "word-Bahasa": "Belakang",
+    "sentence-Bahasa": "Lihat ke belakang."
+  },
+  {
+    "word": "嬉しい",
+    "sentence": "彼に会えて嬉しかった。",
+    "word-Bahasa": "Senang",
+    "sentence-Bahasa": "Saya senang bisa bertemu dengannya."
+  },
+  {
+    "word": "腰",
+    "sentence": "昨日から腰が痛い。",
+    "word-Bahasa": "Pinggang",
+    "sentence-Bahasa": "Pinggang saya sakit sejak kemarin."
+  },
+  {
+    "word": "日曜日",
+    "sentence": "日曜日は海に行きました。",
+    "word-Bahasa": "Minggu",
+    "sentence-Bahasa": "Saya pergi ke laut pada hari Minggu."
+  },
+  {
+    "word": "開ける",
+    "sentence": "窓を開けてください。",
+    "word-Bahasa": "Membuka",
+    "sentence-Bahasa": "Tolong buka jendela."
+  },
+  {
+    "word": "昼",
+    "sentence": "私は昼のドラマを毎日見ます。",
+    "word-Bahasa": "Siang",
+    "sentence-Bahasa": "Saya menonton drama siang setiap hari."
+  },
+  {
+    "word": "お母さん",
+    "sentence": "お母さんによろしくお伝えください。",
+    "word-Bahasa": "Ibu",
+    "sentence-Bahasa": "Tolong sampaikan salam saya kepada ibumu."
+  },
+  {
+    "word": "留学生",
+    "sentence": "彼は留学生です。",
+    "word-Bahasa": "Mahasiswa asing",
+    "sentence-Bahasa": "Dia adalah mahasiswa asing."
+  },
+  {
+    "word": "大学生",
+    "sentence": "姉は大学生です。",
+    "word-Bahasa": "Mahasiswa",
+    "sentence-Bahasa": "Kakak perempuan saya adalah mahasiswa."
+  },
+  {
+    "word": "終わり",
+    "sentence": "夏休みももう終わりだ。",
+    "word-Bahasa": "Akhir",
+    "sentence-Bahasa": "Liburan musim panas sudah berakhir."
+  },
+  {
+    "word": "背",
+    "sentence": "彼女は背が高い。",
+    "word-Bahasa": "Tinggi",
+    "sentence-Bahasa": "Dia tinggi."
+  },
+  {
+    "word": "手伝う",
+    "sentence": "私が手伝いましょう。",
+    "word-Bahasa": "Membantu",
+    "sentence-Bahasa": "Biar saya membantu."
+  },
+  {
+    "word": "鼻",
+    "sentence": "鼻がかゆいです。",
+    "word-Bahasa": "Hidung",
+    "sentence-Bahasa": "Hidung saya gatal."
+  },
+  {
+    "word": "起きる",
+    "sentence": "近所で盗難事件が起きました。",
+    "word-Bahasa": "Terjadi",
+    "sentence-Bahasa": "Kejadian pencurian terjadi di sekitar sini."
+  },
+  {
+    "word": "熱い",
+    "sentence": "このスープはとても熱い。",
+    "word-Bahasa": "Panas",
+    "sentence-Bahasa": "Sup ini sangat panas."
+  },
+  {
+    "word": "載せる",
+    "sentence": "皿にケーキを載せました。",
+    "word-Bahasa": "Menaruh",
+    "sentence-Bahasa": "Saya menaruh kue di piring."
+  },
+  {
+    "word": "悲しい",
+    "sentence": "その映画はとても悲しかった。",
+    "word-Bahasa": "Sedih",
+    "sentence-Bahasa": "Film itu sangat sedih."
+  },
+  {
+    "word": "愛する",
+    "sentence": "私は家族を愛しています。",
+    "word-Bahasa": "Mencintai",
+    "sentence-Bahasa": "Saya mencintai keluarga saya."
+  },
+  {
+    "word": "しゃべる",
+    "sentence": "彼女はよくしゃべるね。",
+    "word-Bahasa": "Mengobrol",
+    "sentence-Bahasa": "Dia suka mengobrol, ya."
+  },
+  {
+    "word": "近く",
+    "sentence": "私の家は駅の近くです。",
+    "word-Bahasa": "Dekat",
+    "sentence-Bahasa": "Rumah saya dekat dengan stasiun."
+  },
+  {
+    "word": "甘い",
+    "sentence": "このイチゴは甘い。",
+    "word-Bahasa": "Manis",
+    "sentence-Bahasa": "Stroberi ini manis."
+  },
+  {
+    "word": "テーブル",
+    "sentence": "新しいテーブルを買いました。",
+    "word-Bahasa": "Meja",
+    "sentence-Bahasa": "Saya membeli meja baru."
+  },
+  {
+    "word": "食べ物",
+    "sentence": "日本の食べ物はとても美味しいです。",
+    "word-Bahasa": "Makanan",
+    "sentence-Bahasa": "Makanan Jepang sangat enak."
+  },
+  {
+    "word": "始まる",
+    "sentence": "新しい仕事が始まりました。",
+    "word-Bahasa": "Mulai",
+    "sentence-Bahasa": "Pekerjaan baru telah dimulai."
+  },
+  {
+    "word": "ゲーム",
+    "sentence": "私たちはビデオゲームをした。",
+    "word-Bahasa": "Permainan",
+    "sentence-Bahasa": "Kami bermain video game."
+  },
+  {
+    "word": "十",
+    "sentence": "その子は指で十数えました。",
+    "word-Bahasa": "Sepuluh",
+    "sentence-Bahasa": "Anak itu menghitung sampai sepuluh dengan jari."
+  },
+  {
+    "word": "天気",
+    "sentence": "今日はいい天気ですね。",
+    "word-Bahasa": "Cuaca",
+    "sentence-Bahasa": "Cuaca bagus hari ini, ya."
+  },
+  {
+    "word": "暑い",
+    "sentence": "今日はとても暑い。",
+    "word-Bahasa": "Panas",
+    "sentence-Bahasa": "Hari ini sangat panas."
+  },
+  {
+    "word": "太い",
+    "sentence": "彼女は足が太い。",
+    "word-Bahasa": "Besar",
+    "sentence-Bahasa": "Kakinya besar."
+  },
+  {
+    "word": "晩",
+    "sentence": "晩ご飯は食べましたか。",
+    "word-Bahasa": "Malam",
+    "sentence-Bahasa": "Apakah kamu sudah makan malam?"
+  },
+  {
+    "word": "土曜日",
+    "sentence": "土曜日の夜はクラブに行きます。",
+    "word-Bahasa": "Sabtu",
+    "sentence-Bahasa": "Saya pergi ke klub pada Sabtu malam."
+  },
+  {
+    "word": "神",
+    "sentence": "彼は神を信じている。",
+    "word-Bahasa": "Tuhan",
+    "sentence-Bahasa": "Dia percaya pada Tuhan."
+  },
+  {
+    "word": "痛い",
+    "sentence": "今日は頭が痛いです。",
+    "word-Bahasa": "Sakit",
+    "sentence-Bahasa": "Hari ini kepalaku sakit."
+  },
+  {
+    "word": "お父さん",
+    "sentence": "お父さんは会社員です。",
+    "word-Bahasa": "Ayah",
+    "sentence-Bahasa": "Ayah adalah pekerja kantoran."
+  },
+  {
+    "word": "多分",
+    "sentence": "彼女は多分家で寝ています。",
+    "word-Bahasa": "Mungkin",
+    "sentence-Bahasa": "Mungkin dia sedang tidur di rumah."
+  },
+  {
+    "word": "時計",
+    "sentence": "時計を見たらちょうど3時だった。",
+    "word-Bahasa": "Jam",
+    "sentence-Bahasa": "Saat saya melihat jam, sudah jam 3 tepat."
+  },
+  {
+    "word": "泊まる",
+    "sentence": "今日はこのホテルに泊まります。",
+    "word-Bahasa": "Menginap",
+    "sentence-Bahasa": "Saya menginap di hotel ini hari ini."
+  },
+  {
+    "word": "どうして",
+    "sentence": "どうして泣いているの。",
+    "word-Bahasa": "Kenapa",
+    "sentence-Bahasa": "Kenapa kamu menangis?"
+  },
+  {
+    "word": "掛ける",
+    "sentence": "夫の服をハンガーに掛けた。",
+    "word-Bahasa": "Menggantung",
+    "sentence-Bahasa": "Saya menggantung pakaian suami di hanger."
+  },
+  {
+    "word": "曲がる",
+    "sentence": "そこを左に曲がってください。",
+    "word-Bahasa": "Belok",
+    "sentence-Bahasa": "Tolong belok kiri di sana."
+  },
+  {
+    "word": "おなか",
+    "sentence": "おなかが空きました。",
+    "word-Bahasa": "Perut",
+    "sentence-Bahasa": "Saya lapar."
+  },
+  {
+    "word": "ミーティング",
+    "sentence": "朝9時からミーティングが始まった。",
+    "word-Bahasa": "Pertemuan",
+    "sentence-Bahasa": "Pertemuan dimulai pukul 9 pagi."
+  },
+  {
+    "word": "閉める",
+    "sentence": "ちゃんとドアを閉めてよ。",
+    "word-Bahasa": "Menutup",
+    "sentence-Bahasa": "Tolong tutup pintunya dengan benar."
+  },
+  {
+    "word": "嫌い",
+    "sentence": "私はタバコが嫌いです。",
+    "word-Bahasa": "Tidak suka",
+    "sentence-Bahasa": "Saya tidak suka rokok."
+  },
+  {
+    "word": "金曜日",
+    "sentence": "金曜日の夜は友達と出かけます。",
+    "word-Bahasa": "Jumat",
+    "sentence-Bahasa": "Saya pergi keluar dengan teman pada Jumat malam."
+  },
+  {
+    "word": "要る",
+    "sentence": "予約は要りません。",
+    "word-Bahasa": "Perlu",
+    "sentence-Bahasa": "Tidak perlu reservasi."
+  },
+  {
+    "word": "無い",
+    "sentence": "ここには何も無い。",
+    "word-Bahasa": "Tidak ada",
+    "sentence-Bahasa": "Tidak ada apa-apa di sini."
+  },
+  {
+    "word": "黄色い",
+    "sentence": "彼女に黄色いバラを買いました。",
+    "word-Bahasa": "Kuning",
+    "sentence-Bahasa": "Saya membeli mawar kuning untuk dia."
+  },
+  {
+    "word": "風邪",
+    "sentence": "私は風邪を引きました。",
+    "word-Bahasa": "Pilek",
+    "sentence-Bahasa": "Saya terkena pilek."
+  },
+  {
+    "word": "優しい",
+    "sentence": "彼はとても優しい人です。",
+    "word-Bahasa": "Baik",
+    "sentence-Bahasa": "Dia orang yang sangat baik."
+  },
+  {
+    "word": "晴れる",
+    "sentence": "明日は晴れるといいですね。",
+    "word-Bahasa": "Cerah",
+    "sentence-Bahasa": "Semoga besok cerah."
+  },
+  {
+    "word": "大好き",
+    "sentence": "私は犬が大好きだ。",
+    "word-Bahasa": "Sangat suka",
+    "sentence-Bahasa": "Saya sangat suka anjing."
+  },
+  {
+    "word": "茶色",
+    "sentence": "彼女は茶色の靴を履いています。",
+    "word-Bahasa": "Coklat",
+    "sentence-Bahasa": "Dia memakai sepatu coklat."
+  },
+  {
+    "word": "汚い",
+    "sentence": "彼の部屋はとても汚い。",
+    "word-Bahasa": "Kotor",
+    "sentence-Bahasa": "Kamarnya sangat kotor."
+  },
+  {
+    "word": "空く",
+    "sentence": "レストランは空いていました。",
+    "word-Bahasa": "Kosong",
+    "sentence-Bahasa": "Restorannya kosong."
+  },
+  {
+    "word": "上る",
+    "sentence": "猫が屋根に上っている。",
+    "word-Bahasa": "Naik",
+    "sentence-Bahasa": "Kucing sedang naik ke atap."
+  },
+  {
+    "word": "ご飯",
+    "sentence": "私はパンよりご飯が好きだ。",
+    "word-Bahasa": "Nasi",
+    "sentence-Bahasa": "Saya lebih suka nasi daripada roti."
+  },
+  {
+    "word": "日",
+    "sentence": "私たちは先月11日に結婚しました。",
+    "word-Bahasa": "Hari",
+    "sentence-Bahasa": "Kami menikah pada tanggal 11 bulan lalu."
+  },
+  {
+    "word": "髪の毛",
+    "sentence": "髪の毛が伸びたね。",
+    "word-Bahasa": "Rambut",
+    "sentence-Bahasa": "Rambutmu tumbuh panjang, ya."
+  },
+  {
+    "word": "つける",
+    "sentence": "電気をつけてください。",
+    "word-Bahasa": "Menyalakan",
+    "sentence-Bahasa": "Tolong nyalakan lampu."
+  },
+  {
+    "word": "月曜日",
+    "sentence": "月曜日に会いましょう。",
+    "word-Bahasa": "Senin",
+    "sentence-Bahasa": "Mari bertemu pada hari Senin."
+  },
+  {
+    "word": "入る",
+    "sentence": "寒いので中に入ってください。",
+    "word-Bahasa": "Masuk",
+    "sentence-Bahasa": "Masuklah ke dalam karena dingin."
+  },
+  {
+    "word": "片仮名",
+    "sentence": "お名前を片仮名で書いてください。",
+    "word-Bahasa": "Katakana",
+    "sentence-Bahasa": "Tolong tulis nama Anda dengan katakana."
+  },
+  {
+    "word": "今週",
+    "sentence": "今週は日本語のテストがあります。",
+    "word-Bahasa": "Minggu ini",
+    "sentence-Bahasa": "Minggu ini ada tes bahasa Jepang."
+  },
+  {
+    "word": "開く",
+    "sentence": "32ページを開いてください。",
+    "word-Bahasa": "Membuka",
+    "sentence-Bahasa": "Tolong buka halaman 32."
+  },
+  {
+    "word": "水",
+    "sentence": "水を一杯ください。",
+    "word-Bahasa": "Air",
+    "sentence-Bahasa": "Beri saya segelas air."
+  },
+  {
+    "word": "あれ",
+    "sentence": "あれは何ですか。",
+    "word-Bahasa": "Itu",
+    "sentence-Bahasa": "Apa itu?"
+  },
+  {
+    "word": "二",
+    "sentence": "その人には二回会った。",
+    "word-Bahasa": "Dua",
+    "sentence-Bahasa": "Saya bertemu orang itu dua kali."
+  },
+  {
+    "word": "閉まる",
+    "sentence": "お店はもう閉まっていました。",
+    "word-Bahasa": "Tutup",
+    "sentence-Bahasa": "Toko sudah tutup."
+  },
+  {
+    "word": "締める",
+    "sentence": "彼はシートベルトを締めた。",
+    "word-Bahasa": "Mengencangkan",
+    "sentence-Bahasa": "Dia mengencangkan sabuk pengaman."
+  },
+  {
+    "word": "まずい",
+    "sentence": "ここの料理はまずい。",
+    "word-Bahasa": "Tidak enak",
+    "sentence-Bahasa": "Makanan di sini tidak enak."
+  },
+  {
+    "word": "平仮名",
+    "sentence": "私は平仮名を全部読めます。",
+    "word-Bahasa": "Hiragana",
+    "sentence-Bahasa": "Saya bisa membaca semua hiragana."
+  },
+  {
+    "word": "曇る",
+    "sentence": "明日は昼頃から曇るでしょう。",
+    "word-Bahasa": "Berawan",
+    "sentence-Bahasa": "Besok mungkin akan berawan dari siang."
+  },
+  {
+    "word": "触る",
+    "sentence": "絵に触らないでください。",
+    "word-Bahasa": "Menyentuh",
+    "sentence-Bahasa": "Jangan sentuh lukisan."
+  },
+  {
+    "word": "駄目",
+    "sentence": "彼は駄目な男だ。",
+    "word-Bahasa": "Tidak bisa",
+    "sentence-Bahasa": "Dia pria yang tidak berguna."
+  },
+  {
+    "word": "書き直す",
+    "sentence": "この書類を書き直してください。",
+    "word-Bahasa": "Menulis ulang",
+    "sentence-Bahasa": "Tolong tulis ulang dokumen ini."
+  },
+  {
+    "word": "飲み物",
+    "sentence": "何か飲み物が欲しいな。",
+    "word-Bahasa": "Minuman",
+    "sentence-Bahasa": "Saya ingin sesuatu untuk diminum."
+  },
+  {
+    "word": "木曜日",
+    "sentence": "木曜日は仕事が休みです。",
+    "word-Bahasa": "Kamis",
+    "sentence-Bahasa": "Saya libur kerja pada hari Kamis."
+  },
+  {
+    "word": "曜日",
+    "sentence": "曜日を間違えました。",
+    "word-Bahasa": "Hari",
+    "sentence-Bahasa": "Saya salah hari."
+  },
+  {
+    "word": "そば",
+    "sentence": "そばにいて下さい。",
+    "word-Bahasa": "Dekat",
+    "sentence-Bahasa": "Tolong tetap di dekat saya."
+  },
+  {
+    "word": "こっち",
+    "sentence": "こっちに来て下さい。",
+    "word-Bahasa": "Di sini",
+    "sentence-Bahasa": "Datang ke sini."
+  },
+  {
+    "word": "火曜日",
+    "sentence": "火曜日に会議があります。",
+    "word-Bahasa": "Selasa",
+    "sentence-Bahasa": "Ada rapat pada hari Selasa."
+  },
+  {
+    "word": "渇く",
+    "sentence": "喉が渇きました。",
+    "word-Bahasa": "Haus",
+    "sentence-Bahasa": "Saya haus."
+  },
+  {
+    "word": "三",
+    "sentence": "彼女は三人の子供の母親だ。",
+    "word-Bahasa": "Tiga",
+    "sentence-Bahasa": "Dia ibu dari tiga anak."
+  },
+  {
+    "word": "水曜日",
+    "sentence": "水曜日はバイトがあります。",
+    "word-Bahasa": "Rabu",
+    "sentence-Bahasa": "Saya bekerja paruh waktu pada hari Rabu."
+  },
+  {
+    "word": "二つ",
+    "sentence": "ソフトクリームを二つください。",
+    "word-Bahasa": "Dua",
+    "sentence-Bahasa": "Beri saya dua es krim."
+  },
+  {
+    "word": "今晩",
+    "sentence": "今晩のパーティーは何時からですか。",
+    "word-Bahasa": "Malam ini",
+    "sentence-Bahasa": "Pesta malam ini mulai jam berapa?"
+  },
+  {
+    "word": "千",
+    "sentence": "千円貸してください。",
+    "word-Bahasa": "Seribu",
+    "sentence-Bahasa": "Pinjamkan saya seribu yen."
+  },
+  {
+    "word": "六つ",
+    "sentence": "息子は六つになりました。",
+    "word-Bahasa": "Enam",
+    "sentence-Bahasa": "Anak laki-laki saya sudah berumur enam tahun."
+  },
+  {
+    "word": "六日",
+    "sentence": "六日前に日本に帰ってきました。",
+    "word-Bahasa": "Enam hari",
+    "sentence-Bahasa": "Saya kembali ke Jepang enam hari yang lalu."
+  },
+  {
+    "word": "お姉さん",
+    "sentence": "昨日、あなたのお姉さんに会ったよ。",
+    "word-Bahasa": "Kakak perempuan",
+    "sentence-Bahasa": "Kemarin saya bertemu kakak perempuanmu."
+  },
+  {
+    "word": "直る",
+    "sentence": "クーラーはまだ直りません。",
+    "word-Bahasa": "Diperbaiki",
+    "sentence-Bahasa": "AC masih belum diperbaiki."
+  },
+  {
+    "word": "易しい",
+    "sentence": "この問題はかなり易しいです。",
+    "word-Bahasa": "Mudah",
+    "sentence-Bahasa": "Masalah ini cukup mudah."
+  },
+  {
+    "word": "辺",
+    "sentence": "彼はこの辺に住んでいます。",
+    "word-Bahasa": "Dekat",
+    "sentence-Bahasa": "Dia tinggal di sekitar sini."
+  },
+  {
+    "word": "よう",
+    "sentence": "彼女は眠いようです。",
+    "word-Bahasa": "Seperti",
+    "sentence-Bahasa": "Sepertinya dia mengantuk."
+  },
+  {
+    "word": "お兄さん",
+    "sentence": "あなたのお兄さんは何歳?",
+    "word-Bahasa": "Kakak laki-laki",
+    "sentence-Bahasa": "Berapa umur kakak laki-lakimu?"
+  },
+  {
+    "word": "辛い",
+    "sentence": "彼は辛いものが好きです。",
+    "word-Bahasa": "Pedas",
+    "sentence-Bahasa": "Dia suka makanan pedas."
+  },
+  {
+    "word": "八",
+    "sentence": "りんごを八個ください。",
+    "word-Bahasa": "Delapan",
+    "sentence-Bahasa": "Beri saya delapan apel."
+  },
+  {
+    "word": "三日",
+    "sentence": "手紙が届くのに三日かかりました。",
+    "word-Bahasa": "Tiga hari",
+    "sentence-Bahasa": "Butuh tiga hari untuk surat sampai."
+  },
+  {
+    "word": "あそこ",
+    "sentence": "あそこにバス停があります。",
+    "word-Bahasa": "Di sana",
+    "sentence-Bahasa": "Ada halte bus di sana."
+  },
+  {
+    "word": "来る",
+    "sentence": "彼は昼過ぎに来ます。",
+    "word-Bahasa": "Datang",
+    "sentence-Bahasa": "Dia akan datang setelah siang."
+  },
+  {
+    "word": "前",
+    "sentence": "その店の前で会いましょう。",
+    "word-Bahasa": "Depan",
+    "sentence-Bahasa": "Mari bertemu di depan toko itu."
+  },
+  {
+    "word": "五日",
+    "sentence": "五月五日は祝日です",
+    "word-Bahasa": "Lima hari",
+    "sentence-Bahasa": "Tanggal 5 Mei adalah hari libur."
+  },
+  {
+    "word": "一杯",
+    "sentence": "プールは人で一杯です。",
+    "word-Bahasa": "Penuh",
+    "sentence-Bahasa": "Kolam renang penuh dengan orang."
+  },
+  {
+    "word": "九",
+    "sentence": "野球は九人で1チームです。",
+    "word-Bahasa": "Sembilan",
+    "sentence-Bahasa": "Baseball dimainkan oleh satu tim yang terdiri dari sembilan orang."
+  },
+  {
+    "word": "酸っぱい",
+    "sentence": "このぶどうは酸っぱいです。",
+    "word-Bahasa": "Asam",
+    "sentence-Bahasa": "Anggur ini asam."
+  },
+  {
+    "word": "違う",
+    "sentence": "答えが違います。",
+    "word-Bahasa": "Berbeda",
+    "sentence-Bahasa": "Jawabannya berbeda."
+  },
+  {
+    "word": "細い",
+    "sentence": "彼女は指が細いですね。",
+    "word-Bahasa": "Langsing",
+    "sentence-Bahasa": "Jarinya langsing, ya."
+  },
+  {
+    "word": "三つ",
+    "sentence": "コップを三つ買いました。",
+    "word-Bahasa": "Tiga",
+    "sentence-Bahasa": "Saya membeli tiga gelas."
+  },
+  {
+    "word": "八日",
+    "sentence": "八日からイギリスに行きます。",
+    "word-Bahasa": "Delapan hari",
+    "sentence-Bahasa": "Saya pergi ke Inggris pada tanggal delapan."
+  },
+  {
+    "word": "高校生",
+    "sentence": "私の弟は高校生です。",
+    "word-Bahasa": "Siswa SMA",
+    "sentence-Bahasa": "Adik laki-laki saya adalah siswa SMA."
+  },
+  {
+    "word": "上手",
+    "sentence": "妹は歌が上手です。",
+    "word-Bahasa": "Pandai",
+    "sentence-Bahasa": "Adik perempuan saya pandai bernyanyi."
+  },
+  {
+    "word": "強い",
+    "sentence": "今日は風が強い。",
+    "word-Bahasa": "Kuat",
+    "sentence-Bahasa": "Hari ini anginnya kencang."
+  },
+  {
+    "word": "七",
+    "sentence": "バナナが七本あります。",
+    "word-Bahasa": "Tujuh",
+    "sentence-Bahasa": "Ada tujuh pisang."
+  },
+  {
+    "word": "二十日",
+    "sentence": "来月の二十日は弟の誕生日です。",
+    "word-Bahasa": "Dua puluh hari",
+    "sentence-Bahasa": "Tanggal 20 bulan depan adalah ulang tahun adik laki-laki saya."
+  },
+  {
+    "word": "左",
+    "sentence": "そこを左に曲がってください。",
+    "word-Bahasa": "Kiri",
+    "sentence-Bahasa": "Belok kiri di sana."
+  },
+  {
+    "word": "二日",
+    "sentence": "私は二日待った。",
+    "word-Bahasa": "Dua hari",
+    "sentence-Bahasa": "Saya menunggu dua hari."
+  },
+  {
+    "word": "四つ",
+    "sentence": "私は腕時計を四つ持っています。",
+    "word-Bahasa": "Empat",
+    "sentence-Bahasa": "Saya punya empat jam tangan."
+  },
+  {
+    "word": "暖かい",
+    "sentence": "このコートはとても暖かい。",
+    "word-Bahasa": "Hangat",
+    "sentence-Bahasa": "Mantel ini sangat hangat."
+  },
+  {
+    "word": "有る",
+    "sentence": "私の机の上に書類がたくさん有ります。",
+    "word-Bahasa": "Ada",
+    "sentence-Bahasa": "Ada banyak dokumen di atas meja saya."
+  },
+  {
+    "word": "良い",
+    "sentence": "彼女は良い友達です。",
+    "word-Bahasa": "Baik",
+    "sentence-Bahasa": "Dia adalah teman baik."
+  },
+  {
+    "word": "五つ",
+    "sentence": "桃を五つください。",
+    "word-Bahasa": "Lima",
+    "sentence-Bahasa": "Beri saya lima buah persik."
+  },
+  {
+    "word": "妹",
+    "sentence": "私の妹は小学生です。",
+    "word-Bahasa": "Adik perempuan",
+    "sentence-Bahasa": "Adik perempuan saya adalah siswa SD."
+  },
+  {
+    "word": "上",
+    "sentence": "上を向いて。",
+    "word-Bahasa": "Atas",
+    "sentence-Bahasa": "Lihat ke atas."
+  },
+  {
+    "word": "動く",
+    "sentence": "動かないで。",
+    "word-Bahasa": "Bergerak",
+    "sentence-Bahasa": "Jangan bergerak."
+  },
+  {
+    "word": "駅",
+    "sentence": "駅はどこですか。",
+    "word-Bahasa": "Stasiun",
+    "sentence-Bahasa": "Di mana stasiun?"
+  },
+  {
+    "word": "おいしい",
+    "sentence": "このケーキはおいしいね。",
+    "word-Bahasa": "Enak",
+    "sentence-Bahasa": "Kue ini enak, ya."
+  },
+  {
+    "word": "大きい",
+    "sentence": "あの大きい建物は何ですか。",
+    "word-Bahasa": "Besar",
+    "sentence-Bahasa": "Bangunan besar itu apa?"
+  },
+  {
+    "word": "弟",
+    "sentence": "弟は野球が好きです。",
+    "word-Bahasa": "Adik laki-laki",
+    "sentence-Bahasa": "Adik laki-laki saya suka baseball."
+  },
+  {
+    "word": "男",
+    "sentence": "男の人が私たちに話しかけた。",
+    "word-Bahasa": "Pria",
+    "sentence-Bahasa": "Seorang pria berbicara kepada kami."
+  },
+  {
+    "word": "大人",
+    "sentence": "お酒は大人になってから。",
+    "word-Bahasa": "Dewasa",
+    "sentence-Bahasa": "Minum alkohol setelah dewasa."
+  },
+  {
+    "word": "お願い",
+    "sentence": "お願いがあります。",
+    "word-Bahasa": "Permintaan",
+    "sentence-Bahasa": "Saya punya permintaan."
+  },
+  {
+    "word": "女",
+    "sentence": "店員は若い女の人でした。",
+    "word-Bahasa": "Wanita",
+    "sentence-Bahasa": "Pelayan toko adalah wanita muda."
+  },
+  {
+    "word": "金",
+    "sentence": "これはかなり金がかかった。",
+    "word-Bahasa": "Uang",
+    "sentence-Bahasa": "Ini memakan cukup banyak uang."
+  },
+  {
+    "word": "彼",
+    "sentence": "彼は私の上司です。",
+    "word-Bahasa": "Dia (pria)",
+    "sentence-Bahasa": "Dia adalah bos saya."
+  },
+  {
+    "word": "昨日",
+    "sentence": "昨日、友達に会った。",
+    "word-Bahasa": "Kemarin",
+    "sentence-Bahasa": "Kemarin saya bertemu teman."
+  },
+  {
+    "word": "奇麗",
+    "sentence": "彼女はとても奇麗だ。",
+    "word-Bahasa": "Cantik",
+    "sentence-Bahasa": "Dia sangat cantik."
+  },
+  {
+    "word": "口",
+    "sentence": "口を大きく開けてください。",
+    "word-Bahasa": "Mulut",
+    "sentence-Bahasa": "Tolong buka mulutmu lebar-lebar."
+  },
+  {
+    "word": "五",
+    "sentence": "五人で旅行に行きました。",
+    "word-Bahasa": "Lima",
+    "sentence-Bahasa": "Kami pergi berlibur berlima."
+  },
+  {
+    "word": "九日",
+    "sentence": "九日に荷物が届きます。",
+    "word-Bahasa": "Sembilan hari",
+    "sentence-Bahasa": "Paket akan tiba pada tanggal sembilan."
+  },
+  {
+    "word": "九つ",
+    "sentence": "娘は明日九つになります。",
+    "word-Bahasa": "Sembilan",
+    "sentence-Bahasa": "Besok putri saya berumur sembilan tahun."
+  },
+  {
+    "word": "答える",
+    "sentence": "私の質問に答えてください。",
+    "word-Bahasa": "Menjawab",
+    "sentence-Bahasa": "Tolong jawab pertanyaan saya."
+  },
+  {
+    "word": "先",
+    "sentence": "お先にどうぞ。",
+    "word-Bahasa": "Duluan",
+    "sentence-Bahasa": "Silakan duluan."
+  },
+  {
+    "word": "寒い",
+    "sentence": "この部屋は寒いです。",
+    "word-Bahasa": "Dingin",
+    "sentence-Bahasa": "Ruangan ini dingin."
+  },
+  {
+    "word": "四",
+    "sentence": "四月に大学に入学しました。",
+    "word-Bahasa": "Empat",
+    "sentence-Bahasa": "Saya masuk universitas pada bulan April."
+  },
+  {
+    "word": "下",
+    "sentence": "財布は机の下にあった。",
+    "word-Bahasa": "Bawah",
+    "sentence-Bahasa": "Dompet ada di bawah meja."
+  },
+  {
+    "word": "大丈夫",
+    "sentence": "大丈夫ですか。",
+    "word-Bahasa": "Baik-baik saja",
+    "sentence-Bahasa": "Apakah kamu baik-baik saja?"
+  },
+  {
+    "word": "出す",
+    "sentence": "彼はかばんから教科書を出した。",
+    "word-Bahasa": "Mengeluarkan",
+    "sentence-Bahasa": "Dia mengeluarkan buku pelajaran dari tas."
+  },
+  {
+    "word": "小さい",
+    "sentence": "小さい花が咲いています。",
+    "word-Bahasa": "Kecil",
+    "sentence-Bahasa": "Bunga kecil sedang mekar."
+  },
+  {
+    "word": "父",
+    "sentence": "私は父が大好きです。",
+    "word-Bahasa": "Ayah",
+    "sentence-Bahasa": "Saya sangat suka ayah."
+  },
+  {
+    "word": "一日",
+    "sentence": "来月の一日は空いていますか。",
+    "word-Bahasa": "Satu hari",
+    "sentence-Bahasa": "Apakah kamu kosong pada tanggal satu bulan depan?"
+  },
+  {
+    "word": "月",
+    "sentence": "今夜は月がとてもきれいです。",
+    "word-Bahasa": "Bulan",
+    "sentence-Bahasa": "Bulan sangat indah malam ini."
+  },
+  {
+    "word": "妻",
+    "sentence": "今日は妻の誕生日だ。",
+    "word-Bahasa": "Istri",
+    "sentence-Bahasa": "Hari ini ulang tahun istri saya."
+  },
+  {
+    "word": "冷たい",
+    "sentence": "冷たい飲み物をください。",
+    "word-Bahasa": "Dingin",
+    "sentence-Bahasa": "Beri saya minuman dingin."
+  },
+  {
+    "word": "手",
+    "sentence": "分かった人は手を上げてください。",
+    "word-Bahasa": "Tangan",
+    "sentence-Bahasa": "Yang tahu, angkat tangan."
+  },
+  {
+    "word": "十日",
+    "sentence": "十日後に帰ります。",
+    "word-Bahasa": "Sepuluh hari",
+    "sentence-Bahasa": "Saya akan pulang dalam sepuluh hari."
+  },
+  {
+    "word": "時々",
+    "sentence": "彼は時々遅刻します。",
+    "word-Bahasa": "Kadang-kadang",
+    "sentence-Bahasa": "Dia kadang-kadang terlambat."
+  },
+  {
+    "word": "夏",
+    "sentence": "私は夏が大好き。",
+    "word-Bahasa": "Musim panas",
+    "sentence-Bahasa": "Saya sangat suka musim panas."
+  },
+  {
+    "word": "七つ",
+    "sentence": "この子は今年七つになります。",
+    "word-Bahasa": "Tujuh",
+    "sentence-Bahasa": "Anak ini akan berumur tujuh tahun tahun ini."
+  },
+  {
+    "word": "何",
+    "sentence": "夕食には何を食べたいですか。",
+    "word-Bahasa": "Apa",
+    "sentence-Bahasa": "Apa yang ingin kamu makan untuk makan malam?"
+  },
+  {
+    "word": "七日",
+    "sentence": "先月の七日に孫が生まれました。",
+    "word-Bahasa": "Tujuh hari",
+    "sentence-Bahasa": "Cucu saya lahir pada tanggal tujuh bulan lalu."
+  },
+  {
+    "word": "母",
+    "sentence": "昨日、母と話をしました。",
+    "word-Bahasa": "Ibu",
+    "sentence-Bahasa": "Saya berbicara dengan ibu kemarin."
+  },
+  {
+    "word": "人",
+    "sentence": "彼は優しい人です。",
+    "word-Bahasa": "Orang",
+    "sentence-Bahasa": "Dia orang yang baik."
+  },
+  {
+    "word": "一人",
+    "sentence": "そこには私一人しかいなかった。",
+    "word-Bahasa": "Sendirian",
+    "sentence-Bahasa": "Saya satu-satunya orang di sana."
+  },
+  {
+    "word": "百",
+    "sentence": "私の祖母は百才です。",
+    "word-Bahasa": "Seratus",
+    "sentence-Bahasa": "Nenek saya berumur seratus tahun."
+  },
+  {
+    "word": "方",
+    "sentence": "彼は私の方を見ました。",
+    "word-Bahasa": "Arah",
+    "sentence-Bahasa": "Dia melihat ke arah saya."
+  },
+  {
+    "word": "他",
+    "sentence": "他に方法がありません。",
+    "word-Bahasa": "Lain",
+    "sentence-Bahasa": "Tidak ada cara lain."
+  },
+  {
+    "word": "僕",
+    "sentence": "僕は学生です。",
+    "word-Bahasa": "Saya",
+    "sentence-Bahasa": "Saya seorang pelajar."
+  },
+  {
+    "word": "欲しい",
+    "sentence": "僕は新しい靴が欲しいです。",
+    "word-Bahasa": "Ingin",
+    "sentence-Bahasa": "Saya ingin sepatu baru."
+  },
+  {
+    "word": "万",
+    "sentence": "この靴は1万円です。",
+    "word-Bahasa": "Sepuluh ribu",
+    "sentence-Bahasa": "Sepatu ini berharga 10 ribu yen."
+  },
+  {
+    "word": "見える",
+    "sentence": "ここから富士山がよく見えます。",
+    "word-Bahasa": "Terlihat",
+    "sentence-Bahasa": "Gunung Fuji terlihat jelas dari sini."
+  },
+  {
+    "word": "店",
+    "sentence": "私はこの店によく来ます。",
+    "word-Bahasa": "Toko",
+    "sentence-Bahasa": "Saya sering datang ke toko ini."
+  },
+  {
+    "word": "道",
+    "sentence": "この道を真っ直ぐ行くと駅です。",
+    "word-Bahasa": "Jalan",
+    "sentence-Bahasa": "Jalan lurus di jalan ini adalah stasiun."
+  },
+  {
+    "word": "目",
+    "sentence": "彼女は青い目をしています。",
+    "word-Bahasa": "Mata",
+    "sentence-Bahasa": "Dia punya mata biru."
+  },
+  {
+    "word": "八つ",
+    "sentence": "あの家には時計が八つあります。",
+    "word-Bahasa": "Delapan",
+    "sentence-Bahasa": "Ada delapan jam di rumah itu."
+  },
+  {
+    "word": "止める",
+    "sentence": "話すのを止めてください。",
+    "word-Bahasa": "Menghentikan",
+    "sentence-Bahasa": "Tolong berhenti berbicara."
+  },
+  {
+    "word": "四日",
+    "sentence": "新学期は来月の四日からです。",
+    "word-Bahasa": "Empat hari",
+    "sentence-Bahasa": "Semester baru dimulai pada tanggal empat bulan depan."
+  },
+  {
+    "word": "夜",
+    "sentence": "きのうの夜は家にいました。",
+    "word-Bahasa": "Malam",
+    "sentence-Bahasa": "Saya berada di rumah tadi malam."
+  },
+  {
+    "word": "四",
+    "sentence": "ハワイは四回目です。",
+    "word-Bahasa": "Empat",
+    "sentence-Bahasa": "Ini kali keempat saya di Hawaii."
+  },
+  {
+    "word": "来年",
+    "sentence": "来年一緒に旅行しましょう。",
+    "word-Bahasa": "Tahun depan",
+    "sentence-Bahasa": "Mari pergi berlibur bersama tahun depan."
+  },
+  {
+    "word": "六",
+    "sentence": "彼には子供が六人います。",
+    "word-Bahasa": "Enam",
+    "sentence-Bahasa": "Dia punya enam anak."
+  },
+  {
+    "word": "悪い",
+    "sentence": "たばこは体に悪い。",
+    "word-Bahasa": "Buruk",
+    "sentence-Bahasa": "Rokok buruk bagi kesehatan."
+  },
+  {
+    "word": "お手洗い",
+    "sentence": "お手洗いはどこですか。",
+    "word-Bahasa": "Toilet",
+    "sentence-Bahasa": "Di mana toilet?"
+  },
+  {
+    "word": "ご主人",
+    "sentence": "ご主人はお元気ですか。",
+    "word-Bahasa": "Suami",
+    "sentence-Bahasa": "Apakah suamimu sehat?"
+  },
+  {
+    "word": "本当に",
+    "sentence": "あなたが本当に好きです。",
+    "word-Bahasa": "Benar-benar",
+    "sentence-Bahasa": "Saya benar-benar suka kamu."
+  },
+  {
+    "word": "自分",
+    "sentence": "宿題は自分でやりなさい。",
+    "word-Bahasa": "Sendiri",
+    "sentence-Bahasa": "Kerjakan PR sendiri."
+  },
+  {
+    "word": "なる",
+    "sentence": "柿の木に実がたくさんなっています。",
+    "word-Bahasa": "Menjadi",
+    "sentence-Bahasa": "Banyak buah tumbuh di pohon kesemek."
+  },
+  {
+    "word": "ため",
+    "sentence": "これは医者のためのサイトです。",
+    "word-Bahasa": "Untuk",
+    "sentence-Bahasa": "Ini adalah situs untuk dokter."
+  },
+  {
+    "word": "円",
+    "sentence": "カレーライスは700円です。",
+    "word-Bahasa": "Yen",
+    "sentence-Bahasa": "Kare rice harganya 700 yen."
+  },
+  {
+    "word": "場合",
+    "sentence": "分からない場合は私に聞いてください。",
+    "word-Bahasa": "Kasus",
+    "sentence-Bahasa": "Jika tidak mengerti, tanyakan pada saya."
+  },
+  {
+    "word": "休む",
+    "sentence": "明日、会社を休みます。",
+    "word-Bahasa": "Istirahat",
+    "sentence-Bahasa": "Saya akan istirahat dari kerja besok."
+  },
+  {
+    "word": "見つかる",
+    "sentence": "メガネが見つかりません。",
+    "word-Bahasa": "Ditemukan",
+    "sentence-Bahasa": "Kacamata saya tidak ditemukan."
+  },
+  {
+    "word": "問題",
+    "sentence": "問題が一つあります。",
+    "word-Bahasa": "Masalah",
+    "sentence-Bahasa": "Ada satu masalah."
+  },
+  {
+    "word": "開発",
+    "sentence": "ダムの開発に住民は反対しています。",
+    "word-Bahasa": "Pengembangan",
+    "sentence-Bahasa": "Penduduk menentang pengembangan bendungan."
+  },
+  {
+    "word": "事件",
+    "sentence": "その事件の犯人はまだ捕まっていない。",
+    "word-Bahasa": "Kasus",
+    "sentence-Bahasa": "Pelaku kasus itu belum tertangkap."
+  },
+  {
+    "word": "必要",
+    "sentence": "私にはたくさんのお金が必要だ。",
+    "word-Bahasa": "Diperlukan",
+    "sentence-Bahasa": "Saya memerlukan banyak uang."
+  },
+  {
+    "word": "企業",
+    "sentence": "彼女はアメリカの企業で働いています。",
+    "word-Bahasa": "Perusahaan",
+    "sentence-Bahasa": "Dia bekerja di perusahaan Amerika."
+  },
+  {
+    "word": "行う",
+    "sentence": "その会社は来月、キャンペーンを行う。",
+    "word-Bahasa": "Melaksanakan",
+    "sentence-Bahasa": "Perusahaan itu akan melaksanakan kampanye bulan depan."
+  },
+  {
+    "word": "現在",
+    "sentence": "現在の気温は30度です。",
+    "word-Bahasa": "Saat ini",
+    "sentence-Bahasa": "Suhu saat ini adalah 30 derajat."
+  },
+  {
+    "word": "利用",
+    "sentence": "私はよく図書館を利用します。",
+    "word-Bahasa": "Menggunakan",
+    "sentence-Bahasa": "Saya sering menggunakan perpustakaan."
+  },
+  {
+    "word": "首相",
+    "sentence": "今の首相はあまり力がない。",
+    "word-Bahasa": "Perdana Menteri",
+    "sentence-Bahasa": "Perdana Menteri saat ini tidak memiliki banyak kekuatan."
+  },
+  {
+    "word": "持つ",
+    "sentence": "この車はよく持っているね。",
+    "word-Bahasa": "Memiliki",
+    "sentence-Bahasa": "Mobil ini masih bagus."
+  },
+  {
+    "word": "政府",
+    "sentence": "そのデモについて政府は何もしなかった。",
+    "word-Bahasa": "Pemerintah",
+    "sentence-Bahasa": "Pemerintah tidak melakukan apa-apa tentang demo itu."
+  },
+  {
+    "word": "発表",
+    "sentence": "合格者が発表された。",
+    "word-Bahasa": "Pengumuman",
+    "sentence-Bahasa": "Peserta yang lulus telah diumumkan."
+  },
+  {
+    "word": "開く",
+    "sentence": "電車のドアが開きました。",
+    "word-Bahasa": "Membuka",
+    "sentence-Bahasa": "Pintu kereta terbuka."
+  },
+  {
+    "word": "受ける",
+    "sentence": "彼は就職試験を受けた。",
+    "word-Bahasa": "Mengikuti",
+    "sentence-Bahasa": "Dia mengikuti ujian pekerjaan."
+  },
+  {
+    "word": "より",
+    "sentence": "これから、より一層努力します。",
+    "word-Bahasa": "Lebih",
+    "sentence-Bahasa": "Mulai sekarang, saya akan berusaha lebih keras."
+  },
+  {
+    "word": "昨年",
+    "sentence": "昨年は地震が多い年でした。",
+    "word-Bahasa": "Tahun lalu",
+    "sentence-Bahasa": "Tahun lalu adalah tahun dengan banyak gempa bumi."
+  },
+  {
+    "word": "情報",
+    "sentence": "学生たちはインターネットでいろいろな情報を集めた。",
+    "word-Bahasa": "Informasi",
+    "sentence-Bahasa": "Para siswa mengumpulkan berbagai informasi di internet."
+  },
+  {
+    "word": "示す",
+    "sentence": "彼は新製品に興味を示している。",
+    "word-Bahasa": "Menunjukkan",
+    "sentence-Bahasa": "Dia menunjukkan minat pada produk baru."
+  },
+  {
+    "word": "建設",
+    "sentence": "新しいビルの建設が始まった。",
+    "word-Bahasa": "Konstruksi",
+    "sentence-Bahasa": "Konstruksi gedung baru telah dimulai."
+  },
+  {
+    "word": "販売",
+    "sentence": "前売券は窓口で販売しています。",
+    "word-Bahasa": "Penjualan",
+    "sentence-Bahasa": "Tiket pre-sale dijual di loket."
+  },
+  {
+    "word": "治る",
+    "sentence": "けがはもう治りましたか。",
+    "word-Bahasa": "Sembuh",
+    "sentence-Bahasa": "Apakah lukamu sudah sembuh?"
+  },
+  {
+    "word": "機能",
+    "sentence": "このソフトにはいろいろな機能があります。",
+    "word-Bahasa": "Fungsi",
+    "sentence-Bahasa": "Perangkat lunak ini memiliki berbagai fungsi."
+  },
+  {
+    "word": "研究",
+    "sentence": "彼は何年も地震の研究をしている。",
+    "word-Bahasa": "Penelitian",
+    "sentence-Bahasa": "Dia telah melakukan penelitian tentang gempa bumi selama bertahun-tahun."
+  },
+  {
+    "word": "一方",
+    "sentence": "ここは一方通行です。",
+    "word-Bahasa": "Satu arah",
+    "sentence-Bahasa": "Ini adalah jalan satu arah."
+  },
+  {
+    "word": "ドル",
+    "sentence": "この服は300ドルしました。",
+    "word-Bahasa": "Dolar",
+    "sentence-Bahasa": "Pakaian ini seharga 300 dolar."
+  },
+  {
+    "word": "システム",
+    "sentence": "全てのシステムが停止した。",
+    "word-Bahasa": "Sistem",
+    "sentence-Bahasa": "Semua sistem berhenti."
+  },
+  {
+    "word": "頃",
+    "sentence": "子供の頃、よくその公園で遊んだ。",
+    "word-Bahasa": "Waktu",
+    "sentence-Bahasa": "Saat masih anak-anak, saya sering bermain di taman itu."
+  },
+  {
+    "word": "対する",
+    "sentence": "その質問に対する答えが見つからなかった。",
+    "word-Bahasa": "Terhadap",
+    "sentence-Bahasa": "Tidak menemukan jawaban terhadap pertanyaan itu."
+  },
+  {
+    "word": "方法",
+    "sentence": "いい方法を思いつきました。",
+    "word-Bahasa": "Cara",
+    "sentence-Bahasa": "Saya memikirkan cara yang bagus."
+  },
+  {
+    "word": "以上",
+    "sentence": "飛行機が1時間以上遅れた。",
+    "word-Bahasa": "Lebih dari",
+    "sentence-Bahasa": "Pesawat tertunda lebih dari satu jam."
+  },
+  {
+    "word": "最近",
+    "sentence": "それは最近話題の本ですね。",
+    "word-Bahasa": "Akhir-akhir ini",
+    "sentence-Bahasa": "Itu adalah buku yang sedang populer akhir-akhir ini."
+  },
+  {
+    "word": "今後",
+    "sentence": "今後ともよろしくお願いします。",
+    "word-Bahasa": "Ke depan",
+    "sentence-Bahasa": "Mohon dukungannya ke depan."
+  },
+  {
+    "word": "世界",
+    "sentence": "私は世界旅行をしたい。",
+    "word-Bahasa": "Dunia",
+    "sentence-Bahasa": "Saya ingin melakukan perjalanan keliling dunia."
+  },
+  {
+    "word": "用いる",
+    "sentence": "彼はその詩を用いて自分の気持ちを伝えた。",
+    "word-Bahasa": "Menggunakan",
+    "sentence-Bahasa": "Dia menggunakan puisi itu untuk menyampaikan perasaannya."
+  },
+  {
+    "word": "語る",
+    "sentence": "今夜は大いに語りましょう。",
+    "word-Bahasa": "Berbicara",
+    "sentence-Bahasa": "Mari kita berbicara banyak malam ini."
+  },
+  {
+    "word": "コンピューター",
+    "sentence": "新しいコンピューターを買った。",
+    "word-Bahasa": "Komputer",
+    "sentence-Bahasa": "Saya membeli komputer baru."
+  },
+  {
+    "word": "中心",
+    "sentence": "ここが建物の中心です。",
+    "word-Bahasa": "Tengah",
+    "sentence-Bahasa": "Ini adalah tengah bangunan."
+  },
+  {
+    "word": "やる",
+    "sentence": "犬にえさをやった。",
+    "word-Bahasa": "Memberi",
+    "sentence-Bahasa": "Saya memberi makan anjing."
+  },
+  {
+    "word": "意味",
+    "sentence": "それはどういう意味ですか。",
+    "word-Bahasa": "Arti",
+    "sentence-Bahasa": "Apa arti itu?"
+  },
+  {
+    "word": "計画",
+    "sentence": "彼は一人旅の計画を立てた。",
+    "word-Bahasa": "Rencana",
+    "sentence-Bahasa": "Dia membuat rencana perjalanan sendirian."
+  },
+  {
+    "word": "影響",
+    "sentence": "私は彼から大きな影響を受けました。",
+    "word-Bahasa": "Pengaruh",
+    "sentence-Bahasa": "Saya sangat dipengaruhi olehnya."
+  },
+  {
+    "word": "増える",
+    "sentence": "この町は人口が増えた。",
+    "word-Bahasa": "Bertambah",
+    "sentence-Bahasa": "Penduduk kota ini bertambah."
+  },
+  {
+    "word": "選ぶ",
+    "sentence": "良い家を選ぶのは難しい。",
+    "word-Bahasa": "Memilih",
+    "sentence-Bahasa": "Sulit memilih rumah yang bagus."
+  },
+  {
+    "word": "経済",
+    "sentence": "大学で経済を勉強しました。",
+    "word-Bahasa": "Ekonomi",
+    "sentence-Bahasa": "Saya belajar ekonomi di universitas."
+  },
+  {
+    "word": "導入",
+    "sentence": "会社で新しいシステムを導入した。",
+    "word-Bahasa": "Pengenalan",
+    "sentence-Bahasa": "Perusahaan memperkenalkan sistem baru."
+  },
+  {
+    "word": "生活",
+    "sentence": "日本での生活は楽しいです。",
+    "word-Bahasa": "Hidup",
+    "sentence-Bahasa": "Hidup di Jepang menyenangkan."
+  },
+  {
+    "word": "進める",
+    "sentence": "早く授業を進めましょう。",
+    "word-Bahasa": "Melanjutkan",
+    "sentence-Bahasa": "Mari kita lanjutkan pelajaran."
+  },
+  {
+    "word": "関係",
+    "sentence": "彼はその事件に関係がない。",
+    "word-Bahasa": "Terkait",
+    "sentence-Bahasa": "Dia tidak terkait dengan kasus itu."
+  },
+  {
+    "word": "続ける",
+    "sentence": "仕事を続けてください。",
+    "word-Bahasa": "Melanjutkan",
+    "sentence-Bahasa": "Tolong lanjutkan pekerjaan."
+  },
+  {
+    "word": "ロボット",
+    "sentence": "彼はロボットの研究をしています。",
+    "word-Bahasa": "Robot",
+    "sentence-Bahasa": "Dia meneliti robot."
+  },
+  {
+    "word": "ほとんど",
+    "sentence": "お金がほとんどありません。",
+    "word-Bahasa": "Hampir",
+    "sentence-Bahasa": "Saya hampir tidak punya uang."
+  },
+  {
+    "word": "国内",
+    "sentence": "この携帯電話が使えるのは国内だけです。",
+    "word-Bahasa": "Domestik",
+    "sentence-Bahasa": "Ponsel ini hanya bisa digunakan di dalam negeri."
+  },
+  {
+    "word": "分野",
+    "sentence": "音楽は彼の得意な分野です。",
+    "word-Bahasa": "Bidang",
+    "sentence-Bahasa": "Musik adalah bidang keahliannya."
+  },
+  {
+    "word": "会社",
+    "sentence": "彼は小さな会社に勤めています。",
+    "word-Bahasa": "Perusahaan",
+    "sentence-Bahasa": "Dia bekerja di perusahaan kecil."
+  },
+  {
+    "word": "関する",
+    "sentence": "その問題に関する記事を読みました。",
+    "word-Bahasa": "Terkait",
+    "sentence-Bahasa": "Saya membaca artikel terkait masalah itu."
+  },
+  {
+    "word": "状態",
+    "sentence": "ここは道の状態がとても悪いです。",
+    "word-Bahasa": "Kondisi",
+    "sentence-Bahasa": "Kondisi jalan di sini sangat buruk."
+  },
+  {
+    "word": "大統領",
+    "sentence": "フランスの大統領は誰ですか。",
+    "word-Bahasa": "Presiden",
+    "sentence-Bahasa": "Siapa presiden Prancis?"
+  },
+  {
+    "word": "対象",
+    "sentence": "このアンケートは大学生が対象です。",
+    "word-Bahasa": "Target",
+    "sentence-Bahasa": "Kuesioner ini ditujukan untuk mahasiswa."
+  },
+  {
+    "word": "処理",
+    "sentence": "事務的な処理に1週間かかります。",
+    "word-Bahasa": "Pemrosesan",
+    "sentence-Bahasa": "Pemrosesan administratif membutuhkan waktu satu minggu."
+  },
+  {
+    "word": "女性",
+    "sentence": "そのパーティーに女性は何人来ますか。",
+    "word-Bahasa": "Wanita",
+    "sentence-Bahasa": "Berapa banyak wanita yang datang ke pesta itu?"
+  },
+  {
+    "word": "家",
+    "sentence": "ここが私の家です。",
+    "word-Bahasa": "Rumah",
+    "sentence-Bahasa": "Ini adalah rumah saya."
+  },
+  {
+    "word": "パソコン",
+    "sentence": "彼はパソコンを2台持っています。",
+    "word-Bahasa": "Komputer",
+    "sentence-Bahasa": "Dia punya dua komputer."
+  },
+  {
+    "word": "解決",
+    "sentence": "トラブルがやっと解決した。",
+    "word-Bahasa": "Penyelesaian",
+    "sentence-Bahasa": "Masalah akhirnya terselesaikan."
+  },
+  {
+    "word": "実現",
+    "sentence": "夢を実現するには努力が必要です。",
+    "word-Bahasa": "Terwujud",
+    "sentence-Bahasa": "Perlu usaha untuk mewujudkan mimpi."
+  },
+  {
+    "word": "多く",
+    "sentence": "毎年多くの人が海外へ旅行する。",
+    "word-Bahasa": "Banyak",
+    "sentence-Bahasa": "Setiap tahun banyak orang pergi ke luar negeri."
+  },
+  {
+    "word": "動き",
+    "sentence": "まず相手の動きを見ましょう。",
+    "word-Bahasa": "Gerakan",
+    "sentence-Bahasa": "Mari kita lihat gerakan lawan terlebih dahulu."
+  },
+  {
+    "word": "話",
+    "sentence": "あなたの話は面白いね。",
+    "word-Bahasa": "Cerita",
+    "sentence-Bahasa": "Ceritamu menarik, ya."
+  },
+  {
+    "word": "価格",
+    "sentence": "ガソリンの価格がどんどん上がっている。",
+    "word-Bahasa": "Harga",
+    "sentence-Bahasa": "Harga bensin terus naik."
+  },
+  {
+    "word": "上がる",
+    "sentence": "私たちは２階に上がった。",
+    "word-Bahasa": "Naik",
+    "sentence-Bahasa": "Kami naik ke lantai dua."
+  },
+  {
+    "word": "もう",
+    "sentence": "コーヒーをもう一杯ください。",
+    "word-Bahasa": "Lagi",
+    "sentence-Bahasa": "Tolong beri saya secangkir kopi lagi."
+  },
+  {
+    "word": "集める",
+    "sentence": "弟は切手を集めています。",
+    "word-Bahasa": "Mengumpulkan",
+    "sentence-Bahasa": "Adik laki-laki saya mengumpulkan perangko."
+  },
+  {
+    "word": "声",
+    "sentence": "彼は大きな声で話した。",
+    "word-Bahasa": "Suara",
+    "sentence-Bahasa": "Dia berbicara dengan suara keras."
+  },
+  {
+    "word": "初めて",
+    "sentence": "東京に来るのは初めてです。",
+    "word-Bahasa": "Pertama kali",
+    "sentence-Bahasa": "Ini pertama kalinya saya ke Tokyo."
+  },
+  {
+    "word": "明らか",
+    "sentence": "明らかに彼が悪い。",
+    "word-Bahasa": "Jelas",
+    "sentence-Bahasa": "Jelas dia yang salah."
+  },
+  {
+    "word": "一部",
+    "sentence": "計画を一部変更しましょう。",
+    "word-Bahasa": "Sebagian",
+    "sentence-Bahasa": "Mari ubah sebagian rencana."
+  },
+  {
+    "word": "調査",
+    "sentence": "私たちがその問題を調査しています。",
+    "word-Bahasa": "Penyelidikan",
+    "sentence-Bahasa": "Kami sedang menyelidiki masalah itu."
+  },
+  {
+    "word": "党",
+    "sentence": "党の代表が質問に答えました。",
+    "word-Bahasa": "Partai",
+    "sentence-Bahasa": "Perwakilan partai menjawab pertanyaan."
+  },
+  {
+    "word": "変わる",
+    "sentence": "信号が青に変わりました。",
+    "word-Bahasa": "Berubah",
+    "sentence-Bahasa": "Lampu lalu lintas berubah menjadi hijau."
+  },
+  {
+    "word": "社長",
+    "sentence": "おばは小さな会社の社長です。",
+    "word-Bahasa": "Presiden Direktur",
+    "sentence-Bahasa": "Bibi saya adalah presiden direktur perusahaan kecil."
+  },
+  {
+    "word": "全国",
+    "sentence": "次は全国のお天気です。",
+    "word-Bahasa": "Seluruh negeri",
+    "sentence-Bahasa": "Selanjutnya adalah cuaca seluruh negeri."
+  },
+  {
+    "word": "地域",
+    "sentence": "この地域は雨が多い。",
+    "word-Bahasa": "Wilayah",
+    "sentence-Bahasa": "Wilayah ini banyak hujan."
+  },
+  {
+    "word": "重要",
+    "sentence": "これは重要な書類です。",
+    "word-Bahasa": "Penting",
+    "sentence-Bahasa": "Ini adalah dokumen penting."
+  },
+  {
+    "word": "姿",
+    "sentence": "遠くに彼女の姿が見えた。",
+    "word-Bahasa": "Sosok",
+    "sentence-Bahasa": "Saya melihat sosoknya di kejauhan."
+  },
+  {
+    "word": "先ず",
+    "sentence": "帰ったら先ず手を洗いましょう。",
+    "word-Bahasa": "Pertama-tama",
+    "sentence-Bahasa": "Pertama-tama, cuci tangan saat kamu pulang."
+  },
+  {
+    "word": "昭和",
+    "sentence": "私の両親は昭和生まれです。",
+    "word-Bahasa": "Showa",
+    "sentence-Bahasa": "Orang tua saya lahir di era Showa."
+  },
+  {
+    "word": "社会",
+    "sentence": "これは大きな社会問題になっている。",
+    "word-Bahasa": "Masyarakat",
+    "sentence-Bahasa": "Ini menjadi masalah besar di masyarakat."
+  },
+  {
+    "word": "プログラム",
+    "sentence": "受付でプログラムを受け取った。",
+    "word-Bahasa": "Program",
+    "sentence-Bahasa": "Saya menerima program di resepsi."
+  },
+  {
+    "word": "期待",
+    "sentence": "みんな私たちに期待しています。",
+    "word-Bahasa": "Harapan",
+    "sentence-Bahasa": "Semua orang mengharapkan kita."
+  },
+  {
+    "word": "力",
+    "sentence": "お相撲さんは、みんな力持ちだ。",
+    "word-Bahasa": "Kekuatan",
+    "sentence-Bahasa": "Semua pegulat sumo kuat."
+  },
+  {
+    "word": "除く",
+    "sentence": "部長を除く全員が土曜日も働いた。",
+    "word-Bahasa": "Mengecualikan",
+    "sentence-Bahasa": "Semua orang bekerja pada hari Sabtu kecuali kepala departemen."
+  },
+  {
+    "word": "一般",
+    "sentence": "一般の方はこちらの席へどうぞ。",
+    "word-Bahasa": "Umum",
+    "sentence-Bahasa": "Tempat duduk umum ada di sini."
+  },
+  {
+    "word": "今回",
+    "sentence": "まあ今回は許してあげよう。",
+    "word-Bahasa": "Kali ini",
+    "sentence-Bahasa": "Baiklah, kali ini saya maafkan."
+  },
+  {
+    "word": "普及",
+    "sentence": "ゴミのリサイクルが普及している。",
+    "word-Bahasa": "Penyebaran",
+    "sentence-Bahasa": "Daur ulang sampah semakin menyebar."
+  },
+  {
+    "word": "表現",
+    "sentence": "彼は歌で自分の気持ちを表現した。",
+    "word-Bahasa": "Ekspresi",
+    "sentence-Bahasa": "Dia mengekspresikan perasaannya melalui lagu."
+  },
+  {
+    "word": "作業",
+    "sentence": "作業するにはもっと広いスペースが必要だ。",
+    "word-Bahasa": "Pekerjaan",
+    "sentence-Bahasa": "Perlu lebih banyak ruang untuk bekerja."
+  },
+  {
+    "word": "予定",
+    "sentence": "今日の予定を教えてください。",
+    "word-Bahasa": "Rencana",
+    "sentence-Bahasa": "Tolong beri tahu saya rencana hari ini."
+  },
+  {
+    "word": "工場",
+    "sentence": "彼は食品工場で働いています。",
+    "word-Bahasa": "Pabrik",
+    "sentence-Bahasa": "Dia bekerja di pabrik makanan."
+  },
+  {
+    "word": "よく",
+    "sentence": "よく答えが分かりましたね。",
+    "word-Bahasa": "Dengan baik",
+    "sentence-Bahasa": "Kamu tahu jawabannya dengan baik, ya."
+  },
+  {
+    "word": "生産",
+    "sentence": "ボルドーはワインの生産で有名だ。",
+    "word-Bahasa": "Produksi",
+    "sentence-Bahasa": "Bordeaux terkenal dengan produksi anggurnya."
+  },
+  {
+    "word": "政権",
+    "sentence": "政権が交代した。",
+    "word-Bahasa": "Pemerintahan",
+    "sentence-Bahasa": "Pemerintahan telah berubah."
+  }
+]
