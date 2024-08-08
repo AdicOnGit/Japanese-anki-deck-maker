@@ -1,4 +1,5 @@
-<img src="https://github.com/AdicOnGit/Japanese-Nepali-study/assets/137413419/987b89f2-c71b-49b5-b1c0-8d0c9c615f1c" width="500" height="500">
+<img src="![logo](https://github.com/user-attachments/assets/a43937ea-2116-4bae-b945-488a9310f361)
+" width="500" height="500">
 
 # Anki Deck Creator for Japanese Language Learning
 
